@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Catálogo de produtos do e-commerce brasileiro: 114 million offers, spec sheets, barcodes, categories and product groups"
+authors:
+  - family-names: Dourado
+    given-names: Caique
+version: 1.0.0
+date-released: 2026-10-18
+license: CC-BY-4.0
+repository-code: "https://github.com/CaiqueDourado/catalogo-produtos-ecommerce-brasil"
+url: "https://www.kaggle.com/datasets/caiquedourado/catalogo-produtos-ecommerce-brasil"
+keywords:
+  - brazil
+  - e-commerce
+  - product-catalog
+  - product-matching
+  - entity-resolution
+  - gtin
+  - ean
+  - portuguese

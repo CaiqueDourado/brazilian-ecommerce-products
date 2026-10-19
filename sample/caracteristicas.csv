@@ -1,0 +1,3103 @@
+id,key,question
+1,Tramelas giratórias para facilitar na troca das fotos,Possui Tramelas giratórias para facilitar na troca das fotos?
+2,Transferência de chamada,Possui Transferência de chamada?
+3,Transforma Tensão (De/Para),Transforma Tensão (De/Para)?
+4,Tratamento anti-piling,Possui Tratamento anti-piling?
+5,Tratamento Antipilling,Possui Tratamento Antipilling?
+6,Tratamento anti-pilling,Possui Tratamento anti-pilling?
+7,Tratamento do Tecido,Qual Tratamento do Tecido?
+8,Trava de segurança,Possui Trava de segurança?
+9,Trava de segurança nas rodas,Possui Trava de segurança nas rodas?
+10,Trinco para cadeado,Possui Trinco para cadeado?
+11,Trocador,Possui Trocador?
+12,Trocador de Marcha,Qual Trocador de Marcha?
+13,Tubulação,Possui Tubulação?
+14,TV,Qual TV?
+15,TV Digital,Possui TV Digital?
+16,Unidade Compressora,Qual Unidade Compressora?
+17,Unidade de Venda,Qual Unidade de Venda?
+18,USB,Possui USB?
+19,Uso,Qual Uso?
+20,Uso com Câmara,Uso com Câmara?
+21,Uso doméstico,É indicado para Uso doméstico?
+22,Uso Indicado,Qual o Uso Indicado?
+23,Uso na Roda,Para Uso em qual Roda?
+24,Utilidade,Qual Utilidade?
+25,Utilidade do produto,Qual Utilidade do produto?
+26,Utiliza extensor,Utiliza extensor?
+27,Utilização,Qual Utilização?
+28,Validade,Qual Validade?
+29,Valor Card,Qual Valor Card?
+30,Válvula,Possui Válvula?
+31,Válvula de ar de segurança,Possui Válvula de ar de segurança?
+32,Válvula de segurança,Possui Válvula de segurança?
+33,Válvula para desagüe,Possui Válvula para desagüe?
+34,Válvula para hidratação,Possui Válvula para hidratação?
+35,Válvula para rápido esvaziamento,Possui Válvula para rápido esvaziamento?
+36,Válvulas Rotativas,Quais Válvulas Rotativas?
+37,Vapor,Possui Vapor?
+38,Variação,Qual Variação?
+39,Variação de temperatura (°C),Qual a Variação de temperatura (°C)?
+40,Variação de Temperatura (ºC),Qual a Variação de Temperatura (ºC)?
+41,Variação de Tonalidade,Qual a Variação de Tonalidade?
+42,Vazão,Qual Vazão?
+43,Vazão de água (l / min.),Qual a Vazão de água (l / min.)?
+44,Vazão de Ar,Qual Vazão de Ar?
+45,Vazão do Ar,Vazão do Ar?
+46,Vazão máxima (m3/h),Qual a Vazão máxima (m3/h)?
+47,Veículos compatíveis,Quais Veículos compatíveis?
+48,Velocidade,Qual a Velocidade?
+49,Velocidade (recepção/transmissão),Qual a Velocidade (recepção/transmissão)?
+50,Velocidade da inalação,Qual a Velocidade da inalação?
+51,Velocidade de Digitalização,Qual a Velocidade de Digitalização?
+52,Velocidade de gravação,Qual a Velocidade de gravação?
+53,Velocidade de Impressão,Qual a Velocidade de Impressão?
+54,Velocidade de Produção,Velocidade de Produção?
+55,Velocidade de reprodução,Qual a Velocidade de reprodução?
+56,Velocidade de Rotação,Qual a Velocidade de Rotação?
+57,Velocidade de Transferência de Dados,Qual a Velocidade de Transferência de Dados?
+58,Velocidade de transmissão,Qual a Velocidade de transmissão?
+59,Velocidade de transmissão (Mbps),Qual a Velocidade de transmissão (Mbps)?
+60,Vida Útil da Lâmpada,Qual Vida Útil da Lâmpada?
+61,Vídeo,Qual Vídeo?
+62,Vidro do Relógio,Qual Vidro do Relógio?
+63,Vinícola,Qual Vinícola?
+64,Virola,Qual Virola?
+65,Visão noturna por infravermelho,Possui Visão noturna por infravermelho?
+66,Viscosidade,Qual Viscosidade?
+67,Viseira antiembaçante,Possui Viseira antiembaçante?
+68,Visor,Possui Visor?
+69,Visor de display digital,Possui Visor de display digital?
+70,Visual,Qual Visual?
+71,Visualização do mapa em 3D,Possui Visualização do mapa em 3D?
+72,Viva Voz,Possui Viva Voz?
+73,Viva-voz,Possui Viva-voz?
+74,Voltagem,Qual a voltagem?
+75,Voltagem (V),Qual Voltagem (V)?
+76,Voltagem (volts),Qual Voltagem (volts)?
+77,Voltagem 2,Qual a Voltagem?
+78,Voltagem do Item,Qual Voltagem do Item?
+79,Volume,Qual Volume?
+80,"Volume (l, mg, ml)","Qual o Volume (l, mg, ml)?"
+81,Volume (ml),Qual o Volume (ml)?
+82,"Volume (ml, Kg)","Qual o Volume (ml, Kg)?"
+83,Volume (ml/l),Qual o Volume (ml/l)?
+84,Volume da Caldeira,Possui Volume da Caldeira?
+85,Volume da campainha,Possui ajuste no Volume da campainha?
+86,Volume do reservatório,Qual Volume do reservatório?
+87,Volume do Reservatório (litros),Qual o Volume do Reservatório (litros)?
+88,Vpn,Qual Vpn?
+89,Vulcões,Possui Vulcões?
+90,Webcam integrada,Possui Webcam integrada?
+91,Wi-Fi,Possui Wi-Fi?
+92,Wi-Fi embutido,Possui Wi-Fi embutido?
+93,Wi-Fi Integrado,Possui Wi-Fi Integrado?
+94,Wireless,Possui Wireless?
+95,Woofer,Possui Woofer?
+96,Xícaras (quantidade),Quantas Xícaras (quantidade)?
+97,Zíper,Qual Zíper?
+98,Zoom,Qual Zoom?
+99,Zoom Digital,Qual Zoom Digital?
+100,Zoom Óptico,Possui Zoom Óptico?
+101,Tipo de produto para bebê,Qual o Tipo de produto para bebê?
+102,Tipo de produto para Boxe,Qual o Tipo de produto para Boxe?
+103,Tipo de Produto para Decoração,Qual o Tipo de Produto para Decoração?
+104,Tipo de produto para higiene bucal,Qual o Tipo de produto para higiene bucal?
+105,Tipo de produto para o cabelo,Qual o Tipo de produto para o cabelo?
+106,Tipo de produto para o corpo,Qual o Tipo de produto para o corpo?
+107,Tipo de produto para Taekwondo,Qual o Tipo de produto para Taekwondo?
+108,Tipo de Projetor,Qual o Tipo de Projetor?
+109,Tipo de Quadro,Qual o Tipo de Quadro?
+110,Tipo de raquete,Qual o Tipo de raquete?
+111,Tipo de Reclínio,Qual o Tipo de Reclínio?
+112,Tipo de Relógio,Qual o Tipo de Relógio?
+113,Tipo de Relógio de Pulso,Qual o Tipo de Relógio de Pulso?
+114,Tipo de revestimento,Qual o Tipo de revestimento?
+115,Tipo de rolamento,Qual o Tipo de rolamento?
+116,Tipo de roupa,Qual o Tipo de roupa?
+117,Tipo de roupa esportiva,Qual o Tipo de roupa esportiva?
+118,Tipo de Saco/sacola,Qual o Tipo de Saco/sacola?
+119,Tipo de Scanner,Qual o Tipo de Scanner?
+120,Tipo de Shorts,Qual o Tipo de Shorts?
+121,Tipo de sobreteto,Qual o Tipo de sobreteto?
+122,Tipo de Som,Qual o Tipo de Som?
+123,Tipo de Som Portátil,Qual o Tipo de Som Portátil?
+124,Tipo de Suporte/Pedestal,Qual o Tipo de Suporte/Pedestal?
+125,Tipo de talher,Qual o Tipo de talher?
+126,Tipo de tapete,Qual o Tipo de tapete?
+127,Tipo de Teclado,Qual o Tipo de Teclado?
+128,Tipo de tela,Qual o Tipo de tela?
+129,Tipo de tinta,Qual o Tipo de tinta?
+130,Tipo de Tinta Indicada,Qual o Tipo de Tinta Indicada?
+131,Tipo de traço,Qual o Tipo de traço?
+132,Tipo de transporte animal,Qual o Tipo de transporte animal?
+133,Tipo de Trator,Qual o Tipo de Trator?
+134,Tipo de Travesseiro,Qual o Tipo de Travesseiro?
+135,Tipo de TV,Qual o Tipo de TV?
+136,Tipo de utilização,Qual o Tipo de utilização?
+137,Tipo de uva,Qual o Tipo de uva?
+138,Tipo de Veículo,Qual o Tipo de Veículo?
+139,Tipo de ventilador,Qual o Tipo de ventilador?
+140,Tipo de Vestuário,Qual o Tipo de Vestuário?
+141,Tipo de vibração,Qual o Tipo de vibração?
+142,Tipo de vinho,Qual o Tipo de vinho?
+143,Tipo de violão,Qual o Tipo de violão?
+144,Tipo do Cabo,Qual o Tipo do Cabo?
+145,Tipo do Papel,Qual o Tipo do Papel?
+146,Tipo do Papel para Impressão,Qual o Tipo do Papel para Impressão?
+147,Tipo do produto,Qual o Tipo do produto?
+148,Tipo e número de cubas,Qual o Tipo e número de cubas?
+149,Tipo Impressora,Qual o Tipo Impressora?
+150,Tipo Salto,Qual o Tipo Salto?
+151,Tipo:,Qual Tipo:?
+152,Tipo: com fio ou sem fio,Qual o  Tipo: com fio ou sem fio?
+153,tipoFoneAudio,Qual o tipoFoneAudio?
+154,TipoJogoSalaoEsporte,Qual o TipoJogoSalaoEsporte?
+155,TipoMapaPapelaria,Qual o TipoMapaPapelaria?
+156,Tipos de Alimentos,Quais os Tipos de Alimentos?
+157,Tipos de Bico,Quais os Tipos de Bico?
+158,Tipos de exercícios,Quais os Tipos de exercícios?
+159,Tipos de geladeira,Quais os Tipos de geladeira?
+160,Tipos de grama compatíveis,Quais os Tipos de grama compatíveis?
+161,Tipos de insetos que elimina,Quais os Tipos de insetos que elimina?
+162,Tipos de Lavagem,Quais os Tipos de Lavagem?
+163,Tipos de Massas,Quais os Tipos de Massas?
+164,Tipos de proteções,Quais os Tipos de proteções?
+165,Tipos de toque,Quais os Tipos de toque?
+166,Tipos de Workstation,Quais os Tipos de Workstation?
+167,Titulo,Qual Titulo?
+168,Título,Qual o Título?
+169,Título do Produto,Qual o Título do Produto?
+170,Título Original,Qual o Título Original?
+171,Todeis,Possui Todeis?
+172,Tom Confirmação de chamadas,Possui Tom Confirmação de chamadas?
+173,Tom de Confirmação de Chamadas,Possui Tom de Confirmação de Chamadas?
+174,Tomadas,Possui Tomadas?
+175,Tonalidade,Qual Tonalidade?
+176,Tons,Quais Tons?
+177,Top,Qual o Top?
+178,Torneira,Possui Torneira?
+179,Torneiras,Possui Torneiras?
+180,Tóxico,É Tóxico?
+181,Traduzido por,Traduziu?
+182,Velocidade do Obturador,Qual a Velocidade do Obturador?
+183,Velocidade do processador gráfico,Qual a Velocidade do processador gráfico?
+184,Velocidade em cores,Qual a Velocidade em cores?
+185,Velocidade em preto,Qual a Velocidade em preto?
+186,Velocidade máxima,Qual a Velocidade máxima?
+187,Velocidades,Quais Velocidades?
+188,Velocímetro,Possui Velocímetro?
+189,Venda Separada?,Venda Separada??
+190,Ventosas para fixar o produto na mesa ou bancada,Possui Ventosas para fixar o produto na mesa ou bancada?
+191,Versão,Qual Versão?
+192,Versão do Bluetooth,Qual Versão do Bluetooth?
+193,Versão S.O.,Qual Versão S.O.?
+194,VersaoBluetooth,Qual VersaoBluetooth?
+195,Versátil,É Versátil?
+196,Versátil; pode se transformar em outro formato,É Versátil; pode se transformar em outro formato?
+197,Vias de tipo,Quanras Vias de tipo?
+198,Vibração,Possui Vibração?
+199,Vida útil,Qual Vida útil?
+200,Vida útil (em horas),Qual a resolução? (megapixels / pixels)
+201,Tipo de atividade,Qual o Tipo de atividade?
+202,Tipo de Áudio,Qual o Tipo de Áudio?
+203,Tipo de avental,Qual o Tipo de avental?
+204,Tipo de balança,Qual o Tipo de balança?
+205,Tipo de balão / bexiga,Qual o Tipo de balão / bexiga?
+206,Tipo de bateria/pilha que recarrega,Qual o Tipo de bateria/pilha que recarrega?
+207,Tipo de Bebedouro/Purificador,Qual o Tipo de Bebedouro/Purificador?
+208,Tipo de Bicicleta Ergométrica,Qual o Tipo de Bicicleta Ergométrica?
+209,Tipo de bloco,Qual o Tipo de bloco?
+210,Tipo de bóia,Qual o Tipo de bóia?
+211,Tipo de bola,Qual o Tipo de bola?
+212,Tipo de Brincadeira,Qual o Tipo de Brincadeira?
+213,Tipo de Brinde,Qual o Tipo de Brinde?
+214,Tipo de Brinquedo,Qual o Tipo de Brinquedo?
+215,Tipo de Cabelo,Indicado para quais Tipos de Cabelo?
+216,Tipo de cabelos,Qual o Tipo de cabelos?
+217,Tipo de Cabideiro,Qual o Tipo de Cabideiro?
+218,Tipo de cabo,Qual o Tipo de cabo?
+219,Tipo de fixação,Qual o Tipo de fixação?
+220,Tipo de Fixação no Veículo,Qual o Tipo de Fixação no Veículo?
+221,Tipo de flauta,Qual o Tipo de flauta?
+222,Tipo de fluxo,Qual o Tipo de fluxo?
+223,Tipo de Fogão,Qual o Tipo de Fogão?
+224,Tipo de Fondue,Qual o Tipo de Fondue?
+225,Tipo de Fone,Qual o Tipo de Fone?
+226,Tipo de Fonte,Qual o Tipo de Fonte?
+227,Tipo de fragmentadora,Qual o Tipo de fragmentadora?
+228,Tipo de Funcionamento,Qual o Tipo de Funcionamento?
+229,Tipo de Gá,Qual o Tipo de Gá?
+230,Tipo de Gás,Qual o Tipo de Gás?
+231,Tipo de Gaveteiro,Qual o Tipo de Gaveteiro?
+232,Tipo de grafite,Qual o Tipo de grafite?
+233,Tipo de gravador de CD,Qual o Tipo de gravador de CD?
+234,Tipo de gravador de DVD,Qual o Tipo de gravador de DVD?
+235,Tipo de Grelha,Qual o Tipo de Grelha?
+236,Tipo de guitarra,Qual o Tipo de guitarra?
+237,Tipo de Impermeabilizante,Qual o Tipo de Impermeabilizante?
+238,Tipo de impressora,Qual o Tipo de impressora?
+239,Tipo de índice,Qual o Tipo de índice?
+240,Tipo de Inflador/enchimento,Qual o Tipo de Inflador/enchimento?
+241,Tipo de instalação,Qual o Tipo de instalação?
+242,Tipo de Interruptor,Qual o Tipo de Interruptor?
+243,Tipo de Isolamento,Qual o Tipo de Isolamento?
+244,Tipo de Jogo,Qual o Tipo de Jogo?
+245,Tipo de Jogo de Jantar,Qual o Tipo de Jogo de Jantar?
+246,Tipo de jogo de salão,Qual o Tipo de jogo de salão?
+247,Tipo de jogos,Qual o Tipo de jogos?
+248,Tipo de Lâmina,Qual o Tipo de Lâmina?
+249,Tipo de lâmpada,Qual o Tipo de lâmpada?
+250,Tipo de lâmpada compatível,Qual o Tipo de lâmpada compatível?
+251,Tipo de lancheira,Qual o Tipo de lancheira?
+252,Tipo de Lápis,Qual o Tipo de Lápis?
+253,Tipo de luminária,Qual o Tipo de luminária?
+254,Tipo de macacões e roupas náuticas,Qual o Tipo de macacões e roupas náuticas?
+255,Tipo de madeira,Qual o Tipo de madeira?
+256,Tipo de maleta,Qual o Tipo de maleta?
+257,Tipo de mapa,Qual o Tipo de mapa?
+258,Tipo de maquiagem,Qual o Tipo de maquiagem?
+259,Tipo de máquina de costura,Qual o Tipo de máquina de costura?
+260,Tipo de Massageador,Qual o Tipo de Massageador?
+261,Tipo de Medição,Qual o Tipo de Medição?
+262,Tipo de meia fina,Qual o Tipo de meia fina?
+263,Tipo de Metrônomo,Qual o Tipo de Metrônomo?
+264,Tipo de Microfone,Qual o Tipo de Microfone?
+265,Tipo de Mídia,Qual o Tipo de Mídia?
+266,Tipo de mochila,Qual o Tipo de mochila?
+267,Tipo de Mola,Qual o Tipo de Mola?
+268,Tipo de Monitor,Qual o Tipo de Monitor?
+269,Tipo de Motor,Qual o Tipo de Motor?
+270,Tipo de Mouse,Qual o Tipo de Mouse?
+271,Tipo de móvel,Qual o Tipo de móvel?
+272,Tipo de Multifuncional,Qual o Tipo de Multifuncional?
+273,Tipo de Objeto Decorativo,Qual o Tipo de Objeto Decorativo?
+274,Tipo de Óculos,Qual o Tipo de Óculos?
+275,Tipo de Organizador,Qual o Tipo de Organizador?
+276,Tipo de ovos de páscoa,Qual o Tipo de ovos de páscoa?
+277,Tipo de pães,Qual o Tipo de pães?
+278,Tipo de Panela de Pressão,Qual o Tipo de Panela de Pressão?
+279,Tipo de Panelas,Qual o Tipo de Panelas?
+280,Tipo de pedal,Qual o Tipo de pedal?
+281,Tipo de Pele,Qual o Tipo de Pele?
+282,Tipo de pêlo,Qual o Tipo de pêlo?
+283,Tipo de persiana,Qual o  Tipo de persiana?
+284,Tipo de Pés,Qual o Tipo de Pés?
+285,Tipo de pesagem,Qual o Tipo de pesagem?
+286,Tipo de Pilhas/baterias que Carrega,Qual o Tipo de Pilhas/baterias que Carrega?
+287,Tipo de pintura,Qual o Tipo de pintura?
+288,Tipo de Planta,Qual o Tipo de Planta?
+289,Tipo de Plástico,Qual o Tipo de Plástico?
+290,Tipo de Plug,Qual o Tipo de Plug?
+291,Tipo de ponta,Qual o Tipo de ponta?
+292,Tipo de ponte,Qual o Tipo de ponte?
+293,Tipo de Porta,Qual o  Tipo de Porta?
+294,Tipo de prancha,Qual o Tipo de prancha?
+295,Tipo de prato,Qual o Tipo de prato?
+296,Tipo de Produto,Qual o Tipo de Produto?
+297,Tipo de produto higiênico,Qual o Tipo de produto higiênico?
+298,Tipo de produto para a face,Qual o Tipo de produto para a face?
+299,Tipo de produto para banho,Qual o Tipo de produto para banho?
+300,Tráfego Piso/Revestimento,Tráfego Piso/Revestimento?
+301,Tempo Médio de Abertura/fechamento,Qual o Tempo Médio de Abertura/fechamento?
+302,Tempo médio de campanha,Possui Tempo médio de campanha?
+303,Tempo para medição,Qual o Tempo para medição?
+304,Tempo para Primeira Cópia,Qual o Tempo para Primeira Cópia?
+305,Temporizador,Possui Temporizador?
+306,Tendência,Qual a tendência?
+307,Tensão a Vazio (V),Qual a Tensão a Vazio (V)?
+308,Tensão de Entrada (V),Qual a Tensão de Entrada (V)?
+309,Tensão Elétrica,Qual a Tensão Elétrica?
+310,Tensão Elétrica (V),Qual a Tensão Elétrica (V)?
+311,Tensão Elétrica Máxima,Qual a Tensão Elétrica Máxima?
+312,Tensão/Voltagem,Tensão/Voltagem?
+313,Teor Alcoólico,Qual o Teor Alcoólico?
+314,Térmica,É Térmica?
+315,Térmico,É Térmico?
+316,Termômetro digital,Possui Termômetro digital?
+317,Termostato,Possui Termostato?
+318,Termostato digital,Possui Termostato digital?
+319,Testado dermatologicamente,É Testado dermatologicamente?
+320,Texto Externo,Possui Texto Externo?
+321,Texto Interno,Possui Texto Interno?
+322,Texto por,Texto por?
+323,Textura,Qual Textura?
+324,Timbres,Quais Timbres?
+325,Time,Qual Time?
+326,Time/País/Estado,Time/País/Estado?
+327,Timer,Possui Timer?
+328,Timer On/Off,Possui Timer On/Off?
+329,Timer Progressivo / Regressivo,Possui Timer Progressivo / Regressivo?
+330,Timmer,Possui Timmer?
+331,Tipo,Qual Tipo?
+332,Tipo Card,Qual o Tipo Card?
+333,Tipo da Calha,Qual o Tipo da Calha?
+334,Tipo de abertura,Qual o Tipo de abertura?
+335,Tipo de Abertura da Fechadura,Qual o Tipo de Abertura da Fechadura?
+336,Tipo de Abertura da Tampa,Qual o Tipo de Abertura da Tampa?
+337,Tipo de Acabamento,Qual o Tipo de Acabamento?
+338,Tipo de acessório,Qual o Tipo de acessório?
+339,Tipo de cadeira,Qual o Tipo de cadeira?
+340,Tipo de caderneta / porta-caderneta,Qual o Tipo de caderneta / porta-caderneta?
+341,Tipo de caderno,Qual o Tipo de caderno?
+342,Tipo de café,Qual o Tipo de café?
+343,Tipo de cafeteira,Qual o Tipo de cafeteira?
+344,Tipo de Caixa,Qual o Tipo de Caixa?
+345,Tipo de caixa de correspondência,Qual o Tipo de caixa de correspondência?
+346,Tipo de caixas acústicas,Qual o Tipo de caixas acústicas?
+347,Tipo de calça,Qual o Tipo de calça?
+348,Tipo de calçado,Qual o Tipo de calçado?
+349,Tipo de Câmera,Qual o Tipo de Câmera?
+350,Tipo de Câmera Fotográfica,Qual o Tipo de Câmera Fotográfica?
+351,Tipo de camisa,Qual o Tipo de camisa?
+352,Tipo de caneta,Qual o Tipo de caneta?
+353,Tipo de capa,Qual o Tipo de capa?
+354,Tipo de capacete,Qual o Tipo de capacete?
+355,Tipo de carrinho,Qual o Tipo de carrinho?
+356,Tipo de Cartão,Qual o Tipo de Cartão?
+357,Tipo de CD/DVD,Qual o tipo de CD/DVD?
+358,Tipo de cerveja,Qual o Tipo de cerveja?
+359,Tipo de Cesta,Qual o Tipo de Cesta?
+360,Tipo de Chip,Qual o Tipo de Chip?
+361,Tipo de Chocalho,Qual o Tipo de Chocalho?
+362,Tipo de Chocolate,Qual o Tipo de Chocolate?
+363,Tipo de Chopeira,Qual o Tipo de Chopeira?
+364,Tipo de Churrasqueira,Qual o Tipo de Churrasqueira?
+365,Tipo de chuteira,Qual o Tipo de chuteira?
+366,Tipo de chuveiro / ducha,Qual o Tipo de chuveiro / ducha?
+367,Tipo de cobertura,Qual o Tipo de cobertura?
+368,Tipo de Cofre,Qual o Tipo de Cofre?
+369,Tipo de Cola,Qual o Tipo de Cola?
+370,Tipo de colchão inflável,Qual o Tipo de colchão inflável?
+371,Tipo de Coleira / Guia,Qual o Tipo de Coleira / Guia?
+372,Tipo de colomba pascal,Qual o Tipo de colomba pascal?
+373,Tipo de Compasso,Qual o Tipo de Compasso?
+374,Tipo de Conjunto para Berço,Qual o Tipo de Conjunto para Berço?
+375,Tipo de Construção,Qual o Tipo de Construção?
+376,Tipo de Contrabaixo,Qual o Tipo de Contrabaixo?
+377,Tipo de Copo,Qual o Tipo de Copo?
+378,Tipo de corretivo,Qual o Tipo de corretivo?
+379,Tipo de Dedilhado,Qual o Tipo de Dedilhado?
+380,Tipo de Degelo,Qual o Tipo de Degelo?
+381,Tipo de depilatório,Qual o Tipo de depilatório?
+382,Tipo de desodorante,Qual o Tipo de desodorante?
+383,Tipo de Disco,Qual o Tipo de Disco?
+384,Tipo de Display,Qual o Tipo de Display?
+385,Tipo de Divisória,Qual o Tipo de Divisória?
+386,Tipo de DVD,Qual o Tipo de DVD?
+387,Tipo de embalagem,Qual o Tipo de embalagem?
+388,Tipo de encosto,Qual o Tipo de encosto?
+389,Tipo de esmalte,Qual o Tipo de esmalte?
+390,Tipo de estojo,Qual o Tipo de estojo?
+391,Tipo de Estrutura,Qual o Tipo de Estrutura?
+392,Tipo de exercícios recomendados,Qual o Tipo de exercícios recomendados?
+393,Tipo de Faca/lâmina,Qual o Tipo de Faca/lâmina?
+394,Tipo de fechamento,Qual o Tipo de fechamento?
+395,Tipo de fecho,Qual o Tipo de fecho?
+396,Tipo de fecho na cintura,Qual o Tipo de fecho na cintura?
+397,Tipo de ferramenta,Qual o Tipo de ferramenta?
+398,Tipo de ferro,Qual o Tipo de ferro?
+399,Tipo de filtragem,Qual o Tipo de filtragem?
+400,Tipo de filtro,Qual o  Tipo de filtro?
+401,Tamanho das Fotos,Qual o Tamanho das Fotos?
+402,Tamanho das hélices,Qual o Tamanho das hélices?
+403,Tamanho de letras,Qual o Tamanho de letras?
+404,Tamanho de pães que prepara na Panificadora,Qual o Tamanho de pães que prepara na Panificadora?
+405,Tamanho do Aro,Qual o Tamanho do Aro?
+406,Tamanho do Display,Qual o Tamanho do Display?
+407,Tamanho do filtro,Qual o Tamanho do filtro?
+408,Tamanho do Item,Qual o Tamanho do Item?
+409,Tamanho do Quadro,Qual o Tamanho do Quadro?
+410,Tamanho dos dentes,Qual o Tamanho dos dentes?
+411,Tamanho em polegadas,Qual o Tamanho em polegadas?
+412,Tamanho Máximo de Digitalização,Qual o Tamanho Máximo de Digitalização?
+413,Tamanho/Formato,Qual o Tamanho/Formato?
+414,Tamanho/Numeração,Qual o Tamanho/Numeração?
+415,TamanhoPolegadasAutomotivo,TamanhoPolegadasAutomotivo?
+416,Tamanhos de fitas que suporta,Quais os Tamanhos de fitas que suporta?
+417,Tampa,Possui Tampa?
+418,Tampa com visor transparente,Possui Tampa com visor transparente?
+419,Tampo,Possui Tampo?
+420,Tampo de vidro temperado,Possui Tampo de vidro temperado?
+421,Tampo Incluso,Possui Tampo Incluso?
+422,"Tampo, se sim: características","Possui Tampo, se sim: características?"
+423,Tarrachas,Quais Tarrachas?
+424,Taxa de Atualização,Qual Taxa de Atualização?
+425,Taxa de atualização com Tecnologia,Qual Taxa de atualização com Tecnologia?
+426,Taxa de Transferência,Qual Taxa de Transferência?
+427,Tecido,Qual Tecido?
+428,Tecido removível,Possui Tecido removível?
+429,Tecido/Composição,Qual Tecido/Composição?
+430,Teclado,Qual padrão do Teclado?
+431,Teclado e Mouse,Teclado e Mouse?
+432,Teclado luminoso,Possui Teclado luminoso?
+433,Teclas iluminadas,Possui Teclas iluminadas?
+434,Teclas pré-programadas,Possui Teclas pré-programadas?
+435,Técnica,Qual Técnica?
+436,Técnica de Sopro,Qual Técnica de Sopro?
+437,Tecnologia,Qual Tecnologia?
+438,Tecnologia 3D,Tecnologia 3D?
+439,Tecnologia da Tela,Qual Tecnologia da Tela?
+440,Tecnologia Turbo Cache,Possui Tecnologia Turbo Cache?
+441,Tela,Qual Tela?
+442,Tela bloqueadora de resíduos,Possui Tela bloqueadora de resíduos?
+443,Tela mosquiteiro,Possui Tela mosquiteiro?
+444,Tema,Qual Tema?
+445,Tema/Cenário,Qual Tema/Cenário?
+446,Temperatura,Qual a Temperatura?
+447,Temperatura da Água (ºC),Qual a Temperatura da Água (ºC)?
+448,Temperatura da cor,Qual a Temperatura da cor?
+449,Temperatura de Água,Qual a Temperatura de Água?
+450,Temperatura de Serviço,Qual a Temperatura de Serviço?
+451,Temperatura ideal,Qual a Temperatura ideal?
+452,Temperatura Indicada para Utilização,Qual a Temperatura Indicada para Utilização?
+453,Temperatura Máxima (°C),Qual a Temperatura Máxima (°C)?
+454,Temperatura máxima (ºC),Qual a Temperatura máxima (ºC)?
+455,Temperatura máxima / mínima (°C),Qual a Temperatura máxima / mínima (°C)?
+456,Temperaturas,Quais Temperaturas?
+457,Tempo de aquecimento,Qual o Tempo de aquecimento?
+458,Tempo de aquecimento (Id 16085),Qual o Tempo de aquecimento (Id 16085)?
+459,Tempo de carga,Qual o Tempo de carga?
+460,Tempo de carregamento,Qual o Tempo de carregamento?
+461,Tempo de cozimento/preparo,Qual o Tempo de cozimento/preparo?
+462,Tempo de duração do Aroma/Fragância,Qual o Tempo de duração do Aroma/Fragância?
+463,Tempo de funcionamento,Qual o Tempo de funcionamento?
+464,Tipo de acessório ortopédico,Qual o Tipo de acessório ortopédico?
+465,Tipo de acessório para basquete,Qual o Tipo de acessório para basquete?
+466,Tipo de acessório para camping,Qual o Tipo de acessório para camping?
+467,Tipo de acessório para cutelaria,Qual o Tipo de acessório para cutelaria?
+468,Tipo de acessório para fitness,Qual o Tipo de acessório para fitness?
+469,Tipo de Acessório para Golfe,Qual o Tipo de Acessório para Golfe?
+470,Tipo de Acessório para Hidroginástica,Qual o Tipo de Acessório para Hidroginástica?
+471,Tipo de acessório para maquiagem,Qual o Tipo de acessório para maquiagem?
+472,Tipo de acessório para mergulho,Qual o Tipo de acessório para mergulho?
+473,Tipo de acessório para natação,Qual o Tipo de acessório para natação?
+474,Tipo de acessório para PC,Qual o Tipo de acessório para PC?
+475,Tipo de Acessório para Surf,Qual o Tipo de Acessório para Surf?
+476,Tipo de Acessório para Tênis,Qual o  Tipo de Acessório para Tênis?
+477,Tipo de Acessório Térmico,Qual o Tipo de Acessório Térmico?
+478,Tipo de acessórios de arte marciais,Qual o Tipo de acessórios de arte marciais?
+479,Tipo de Acessórios de Tiro,Qual o Tipo de Acessórios de Tiro?
+480,Tipo de Acionamento/fechamento,Qual o Tipo de Acionamento/fechamento?
+481,Tipo de Adesivo,Qual o Tipo de Adesivo?
+482,Tipo de afinador,Qual o Tipo de afinador?
+483,Tipo de agenda,Qual o Tipo de agenda?
+484,Tipo de Alarme,Qual o Tipo de Alarme?
+485,Tipo de álbum,Qual o Tipo de álbum?
+486,Tipo de Alimentação,Qual o Tipo de Alimentação?
+487,Tipo de Alimento Compatível,Qual o Tipo de Alimento Compatível?
+488,Tipo de alimentos que comporta,Qual o Tipo de alimentos que comporta?
+489,Tipo de ambiente,Qual o Tipo de ambiente?
+490,Tipo de animal,Qual o Tipo de animal?
+491,Tipo de animal que comporta,Qual o Tipo de animal que comporta?
+492,Tipo de antena,Qual o Tipo de antena?
+493,Tipo de Aparelho,Qual o Tipo de Aparelho?
+494,Tipo de Aquarela,Qual o Tipo de Aquarela?
+495,Tipo de Aquecimento,Qual o Tipo de Aquecimento?
+496,Tipo de Aroma,Qual o Tipo de Aroma?
+497,Tipo de Aromatizador,Qual o Tipo de Aromatizador?
+498,Tipo de Aromatizante,Qual o Tipo de Aromatizante?
+499,Tipo de Artomatizante,Qual o Tipo de Artomatizante?
+500,Tipo de assento,Qual o Tipo de assento?
+501,Resolução máxima da Impressão,Qual a Resolução máxima da Impressão?
+502,Resolução máxima em cores,Qual a Resolução máxima em cores?
+503,Resolução máxima em preto,Qual a Resolução máxima em preto?
+504,Resolução ótica,Qual Resolução ótica?
+505,Respirável,É Respirável?
+506,Resposta em Frequência,Qual Resposta em Frequência?
+507,Restrição de Uso,Quais Restrição de Uso?
+508,Retrátil,É Retrátil?
+509,Retrovisores,Possui Retrovisores?
+510,Revestimento,Qual Revestimento?
+511,Sistema de fechamento,Qual o Sistema de fechamento?
+512,Sistema de Gravação,Qual o Sistema de Gravação?
+513,Sistema de Impressão,Qual o Sistema de Impressão?
+514,Sistema de regulação progressiva,Possui Sistema de regulação progressiva?
+515,Sistema de reversão,Possui Sistema de reversão?
+516,Sistema de som,Qual o Sistema de som?
+517,Sistema de turbilhonamento vertical,Possui Sistema de turbilhonamento vertical?
+518,Sistema de Ventilação,Possui Sistema de Ventilação?
+519,Sistema de vibração,Possui Sistema de vibração?
+520,Sistema Digital Cinema Sound com efeito Virtual 3D,Possui Sistema Digital Cinema Sound com efeito Virtual 3D?
+521,Sistema Operacional,Qual o Sistema Operacional?
+522,Sistema refil para saquinhos,Possui Sistema refil para saquinhos?
+523,Sistema troca rápida de viseira,Possui Sistema troca rápida de viseira?
+524,Sistema/Tecnologia,Qual o Sistema/Tecnologia?
+525,Sistema/Trava de segurança anti-furto,Qual o Sistema/Trava de segurança anti-furto?
+526,Sistemas de Cores,Quais os Sistemas de Cores?
+527,Sistemas de Video,Quais Sistemas de Video?
+528,Sistemas de Vídeo,Quais os Sistemas de Vídeo?
+529,Sistemas Operacionais,Compatível com quais Sistemas Operacionais?
+530,Sistemas/Protocolos compatíveis,Quais Sistemas/Protocolos compatíveis?
+531,Sleep timer,Possui Sleep timer?
+532,Sleeptimer,Possui Sleeptimer?
+533,Slide Show,Possui Slide Show?
+534,Slot para cartão de memória,Possui Slot para cartão de memória?
+535,Slot para cartões tipo,Possui Slot para cartões tipo?
+536,Slots/Baias,Slots/Baias?
+537,"Sófa, tipo","Sófa, tipo?"
+538,Soft,Possui Soft?
+539,Softwares,Quais Softwares?
+540,Softwares inclusos,Quais Softwares inclusos?
+541,Solúvel,Possui Solúvel?
+542,Solúvel em água,É Solúvel em água?
+543,Som,Qual Som?
+544,Som estereo,Possui Som estereo?
+545,Som Estéreo,Possui Som Estéreo?
+546,Soneca,Possui Soneca?
+547,Sonoridade,Qual Sonoridade?
+548,Spray de água,Possui Spray de água?
+549,SSD,Possui SSD?
+550,String Length,String Length?
+551,Submersível na Água,É Submersível na Água?
+552,Subsonic filter,Possui Subsonic filter?
+553,Subtítulo,Qual o subtítulo?
+554,Subwoofer,Possui Subwoofer?
+555,Sugestão de Raças,Qual Sugestão de Raças?
+556,Sugestão de uso,Qual Sugestão de uso?
+557,Sugestões de Raça,Quais Sugestões de Raça?
+558,Superfície,Qual Superfície?
+559,Superfície antiaderente,Possui Superfície antiaderente?
+560,Superfície de corrida,Qual Superfície de corrida?
+561,Superfície de Rega,Qual Superfície de Rega?
+562,Superfícies onde pode ser utilizado,Quais Superfícies onde pode ser utilizado?
+563,Superfícies recomendadas,Quais Superfícies recomendadas?
+564,Suporta a altas temperaturas (ºC),Suporta a altas temperaturas (ºC)?
+565,Suporta até (kg),Suporta até quantos kilos?
+566,Suporta galões de até,Suporta galões de até?
+567,Suporta TV até,Suporta TV até?
+568,Suporte até (kg),Suporta até quantos kilos?
+569,Suporte de cabeça removível,Possui Suporte de cabeça removível?
+570,Suporte Máximo (Kg),Qual Suporte Máximo (Kg)?
+571,Suporte mosquiteiro,Possui Suporte mosquiteiro?
+572,Suporte para Escova/pente,Possui Suporte para Escova/pente?
+573,Supressor de ruídos,Possui Supressor de ruídos?
+574,Suprimento (fitas compatíveis),Quais os Suprimentos (fitas compatíveis)?
+575,Suprimentos,Quais Suprimentos?
+576,Suprimentos (Fitas Compatíveis),Quais Suprimentos (Fitas Compatíveis)?
+577,Surdo,Possui Surdo?
+578,Surround,É Surround?
+579,Suspensão dianteira,Possui Suspensão dianteira?
+580,Tabela Nutricional,Tabela Nutricional
+581,Tala,Qual Tala?
+582,Tamanho,Qual o Tamanho?
+583,Tamanho (cm),Qual o Tamanho (cm)?
+584,Tamanho (polegadas),Qual o Tamanho (polegadas)?
+585,Tamanho / Numeração,Qual o Tamanho / Numeração?
+586,Tamanho Compatível,Qual o Tamanho Compatível?
+587,Tamanho da Bola,Qual o Tamanho da Bola?
+588,Tamanho da fralda,Qual o Tamanho da fralda?
+589,Tamanho da Mala,Qual o Tamanho da Mala?
+590,Tamanho da tela,Qual o Tamanho da tela?
+591,Tempo de intervalo do alimentador,Possui Tempo de intervalo do alimentador?
+592,Tempo de processamento,Qual o Tempo de processamento?
+593,Tempo de reprodução de áudio,Qual o Tempo de reprodução de áudio?
+594,Tempo de reprodução de vídeo,Qual o Tempo de reprodução de vídeo?
+595,Tempo de resfriamento,Qual o Tempo de resfriamento?
+596,Tempo de resposta,Qual o Tempo de resposta?
+597,Tempo de Resposta Monitor,Qual o Tempo de Resposta Monitor?
+598,Tempo de Secagem,Qual o Tempo de Secagem?
+599,Tempo estimado de funcionamento,Qual o Tempo estimado de funcionamento?
+600,Tempo estimado para resultados,Qual o Tempo estimado para resultados?
+601,Rediscagem automática,Possui Rediscagem automática?
+602,Rediscagem automática do último número,Possui Rediscagem automática do último número?
+603,Redução de foto,Possui Redução de foto?
+604,Referecirc.Ncia do Fabricante,Qual a Referêciia do Fabricante?
+605,Referecirc.Ncia do Modelo,Qual a Referêciia do Modelo?
+606,Referência,Qual Referência?
+607,Referência do Fabricante,Referência do Fabricante?
+608,Referência do modelo,Qual a Referência do Produto?
+609,Referência do Produto,Qual Referência do Produto?
+610,Referência Modelo,Qual Referência Modelo?
+611,Refil,Qual Refil?
+612,Refis compatíveis,Quais Refis compatíveis?
+613,Região,Qual Região do video?
+614,Região de Origem,Qual Região de Origem?
+615,Região do Corpo onde realiza a medição,Qual Região do Corpo onde realiza a medição?
+616,Região para medição,Qual Região para medição?
+617,Regiões DDD,Quais Regiões DDD?
+618,Registro,Qual Registro?
+619,Revestimento do Colchão,Qual Revestimento do Colchão?
+620,Revestimento interno,Qual Revestimento interno?
+621,Revestimentos,Quais Revestimentos?
+622,Revisado por,Revisado por?
+623,Ritmos Musicais Indicados,Quais Ritmos Musicais Indicados?
+624,Roda de rolagem (scroll),Possui Roda de rolagem (scroll)?
+625,Rodas,Possui quantas Rodas?
+626,Rodas (material),Qual o material das rodas?
+627,Rodinhas,Possui Rodinhas?
+628,Rodizios,Possui Rodizios?
+629,Rodízios,Possui quantas Rodízios?
+630,Rolamento,Possui Rolamento?
+631,Rotação,Qual Rotação?
+632,Rotação (RPM),Qual Rotação (RPM)?
+633,Rotação da escova (rpm),Qual Rotação da escova (rpm)?
+634,Rotação do motor (rpm),Qual Rotação do motor (rpm)?
+635,Rotas,Possui quantas Rotas?
+636,Roteiro por,Roteiro por?
+637,Rotores,Quais Rotores?
+638,Rotulador de mesa,Possui Rotulador de mesa?
+639,Ruído,Qual Ruído?
+640,Ruído (ISO 7779),Ruído (ISO 7779)?
+641,Saboneteira,Possui Saboneteira?
+642,Sabor,Qual Sabor?
+643,Sabor do Item,Qual Sabor do Item?
+644,Sac,Como posso entrar em contato com o Serviço de Atendimento ao Consumidor (SAC) e Suporte?
+645,Sac2701,Sac2701?
+646,Safra,Qual Safra?
+647,Saída,Qual Saída?
+648,Saída de ar,Possui Saída de ar?
+649,Saída lateral,Possui Saída lateral?
+650,Saída para encaixe de mangueira,Possui Saída para encaixe de mangueira?
+651,Saída regulável do ar,Possui Saída regulável do ar?
+652,Saídas laterais,Possui Saídas laterais?
+653,Salvamento,Possui Salvamento?
+654,Sampler,Possui Sampler?
+655,SAP,Possui SAP?
+656,Sapatilhamento,Possui Sapatilhamento?
+657,Seção Bitola,Qual Seção Bitola?
+658,Secretária eletrônica,Possui Secretária eletrônica?
+659,Segurança,Quais recursos de Segurança?
+660,Selecionado por,Foi Selecionado por?
+661,Seletor de temperatura,Possui Seletor de temperatura?
+662,Selim,Qual Selim?
+663,Selo Procel,Possui Selo Procel?
+664,Sem fio,Possui Sem fio?
+665,Sensibilidade,Qual Sensibilidade?
+666,Sensibilidade (ISO),Qual a Sensibilidade (ISO)?
+667,Sensibilidade de recepção,Qual Sensibilidade de recepção?
+668,Sensor,Qual Sensor?
+669,Sensor com indicador de alerta,Possui Sensor com indicador de alerta?
+670,Sensor de Abertura de porta,Possui Sensor de Abertura de porta?
+671,Sensor de Temperatura,Possui Sensor de Temperatura?
+672,Separação de Canais,Possui Separação de Canais?
+673,Separador de garrafas,Possui Separador de garrafas?
+674,Séries Editadas por,Séries Editadas por?
+675,Serve até,Serve até?
+676,Serve até...,Serve até...?
+677,Serviços,Possui quais Serviços?
+678,Setor/Assunto,Qual Setor/Assunto?
+679,Sexo,Qual Sexo?
+680,SexoPapelaria,SexoPapelaria?
+681,Side,Side?
+682,Sifão,Possui Sifão?
+683,Silencioso,É Silencioso?
+684,Simulações,Possui Simulações?
+685,Simulador,Possui Simulador?
+686,Sintetizador,Possui Sintetizador?
+687,Sintonia digital automática,Possui Sintonia digital automática?
+688,Sintonizador / Recepção / Transmissão,Qual Sintonizador / Recepção / Transmissão?
+689,Sintonizador de TV,Possui Sintonizador de TV?
+690,Sirene,Possui Sirene?
+691,Sirene/Alarme,Possui Sirene/Alarme?
+692,Sistema,Qual Sistema?
+693,Sistema 5.1,Possui Sistema 5.1?
+694,Sistema Acústico,Qual o Sistema Acústico?
+695,Sistema de carga,Qual o Sistema de carga?
+696,Sistema de Circulação de Ar,Qual o Sistema de Circulação de Ar?
+697,Sistema de cores,Qual o Sistema de cores?
+698,Sistema de Discagem,Qual o Sistema de Discagem?
+699,Sistema de enrolamento,Possui Sistema de enrolamento?
+700,Sistema de Ensacamento,Qual o Sistema de Ensacamento?
+701,Quantidade de sons,Qual a Quantidade de sons?
+702,Quantidade de Sons (Timbres),Qual a Quantidade de Sons (Timbres)?
+703,Quantidade de sons programados,Qual a Quantidade de sons programados?
+704,Quantidade de soquetes,Qual a Quantidade de soquetes?
+705,Quantidade de teclas,Qual a Quantidade de teclas?
+706,Quantidade de Tiras,Qual a Quantidade de Tiras?
+707,Quantidade de Tiras (unidades),Qual a Quantidade de Tiras (unidades)?
+708,Quantidade de Tomadas,Qual a Quantidade de Tomadas?
+709,Quantidade de torneiras,Qual a Quantidade de torneiras?
+710,Quantidade de trastes,Qual a Quantidade de trastes?
+711,Quantidade e tipo de cordas,Qual a Quantidade e tipo de cordas?
+712,Quantidade gavetas para discos,Qual a Quantidade gavetas para discos?
+713,Quantidade NAs,Qual a Quantidade NAs?
+714,Quantidade Necessária por M²,Qual a Quantidade Necessária por M²?
+715,Quantidade NFAs,Qual a Quantidade NFAs?
+716,Quantidade por Embalagem,Qual a Quantidade por Embalagem?
+717,Quantidade por pacote,Qual a Quantidade por pacote?
+718,Quantidade Sacos/Hora,Qual a Quantidade Sacos/Hora?
+719,Quantidade Total de Itens na Cesta,Qual a Quantidade Total de Itens na Cesta?
+720,"Quantidade/Volume (l, ml)","Qual a Quantidade/Volume (l, ml)?"
+721,Quebrável,É Quebrável?
+722,Queimador rápido,Possui Queimador rápido?
+723,Queixeira,Qual Queixeira?
+724,Quick Replay,Possui Quick Replay?
+725,Raça de animal que comporta,Qual Raça de animal que comporta?
+726,Raças,Quais Raças?
+727,Raças Recomendadas,Quais Raças Recomendadas?
+728,Rack,Possui Rack?
+729,Rádio,Possui Rádio?
+730,Radio AM,Possui Radio AM?
+731,Rádio AM,Possui Rádio AM?
+732,Rádio AM/FM,Possui Rádio AM/FM?
+733,Rádio Controle,Possui Rádio Controle?
+734,Radio FM,Possui Radio FM?
+735,Rádio FM,Possui Rádio FM?
+736,Ramal,Qual Ramal?
+737,Rastilho,Rastilho?
+738,Recarregável,É Recarregável?
+739,Recebe arquivos do Computador,Recebe arquivos do Computador?
+740,Recepção,Qual Recepção?
+741,Recheio,Qual Recheio?
+742,Recipiente para guardar gelo,Possui Recipiente para guardar gelo?
+743,Reclinável,É Reclinável?
+744,Registro no Ministério da Saúde,Qual Registro no Ministério da Saúde?
+745,Registros,Possui Registros?
+746,Regulador de altura,Possui Regulador de altura?
+747,Regulador de esforço,Possui Regulador de esforço?
+748,Regulagem de altura,Possui Regulagem de altura?
+749,Regulagem de largura,Possui Regulagem de largura?
+750,Regulagem de tamanho/altura,Possui Regulagem de tamanho/altura?
+751,Regulagens de corte,Quais Regulagens de corte?
+752,Regulável,É Regulável?
+753,Regulável (altura),É Regulável (altura)?
+754,Relação Sinal / Ruído,Qual Relação Sinal / Ruído?
+755,Relação Sinal Ruído,Qual Relação Sinal Ruído?
+756,Relatório Operacional,Possui Relatório Operacional?
+757,Relevos,Possui Relevos?
+758,Relógio,Possui Relógio?
+759,Relógio 12/24,Possui Relógio 12/24?
+760,Relógio digital,Possui Relógio digital?
+761,Rendimento,Qual Rendimento?
+762,Rendimento mínimo,Qual Rendimento mínimo?
+763,Rendimento por Camada,Qual Rendimento por Camada?
+764,Rendimento/Autonomia,Qual Rendimento/Autonomia?
+765,Repetição de faixa,Possui Repetição de faixa?
+766,Repetição de impressão,Possui Repetição de impressão?
+767,Reprodução de fotos,Possui Reprodução de fotos?
+768,Reprodução de textos,Possui Reprodução de textos?
+769,Reproduz DVD,Possui Reproduz DVD?
+770,Reproduz música,Reproduz música?
+771,Requer controlador de movimento,Requer controlador de movimentopara funcionar?
+772,Requisitos do Monitor,Requisitos do Monitor?
+773,Requisitos do Sistema,Quais Requisitos do Sistema?
+774,Reservatório,Possui Reservatório?
+775,Reservatório de água,Possui Reservatório de água?
+776,Resgate de histórico,Possui Resgate de histórico?
+777,Resistência,Qual Resistência?
+778,Resistência à água,Qual Resistência à água?
+779,Resistência à água (ATM),Qual a Resistência à água (ATM)?
+780,Resistência ao Risco,Qual Resistência ao Risco?
+781,Resistência blindada,Possui Resistência blindada?
+782,Resistência de força (Kg),Qual a Resistência de força (Kg)?
+783,Resistência Mecânica,Qual Resistência Mecânica?
+784,Resistente à ações do tempo,É Resistente à ações do tempo?
+785,Resistente à água,É Resistente à água?
+786,Resistente a baixas temperaturas,É Resistente a baixas temperaturas?
+787,Resistente a temperaturas baixas,É Resistente a temperaturas baixas?
+788,Resistente e segura,É Resistente e segura?
+789,Resolução,Qual a Resolução?
+790,Resolução (megapixels / pixels),Qual a resolução? (megapixels / pixels)
+791,Resolução (megapixels/pixels),Qual a Resolução (megapixels/pixels)?
+792,Resolução de impressão,Qual a Resolução de impressão?
+793,Resolução de video,Qual a Resolução de video?
+794,Resolução de vídeo,Qual a Resolução de vídeo?
+795,Resolução em Megapixels,Qual a Resolução em Megapixels?
+796,Resolução em Megapixels (MP),Qual a Resolução em Megapixels (MP)?
+797,Resolução Fotografia,Qual a Resolução Fotografia?
+798,Resolução Máxima,Qual a Resolução Máxima?
+799,Resolução Máxima (em megapixels),Qual a resolução máxima?
+800,Resolução Máxima (em pixels),Qual a resolução máxima?
+801,Protetor lateral,Possui Protetor lateral?
+802,Purifica a água,Purifica a água?
+803,Puxador,Possui Puxador?
+804,Puxador Retrátil,Possui Puxador Retrátil?
+805,Puxadores,Possui quantos Puxadores?
+806,Quadro,Qual Quadro?
+807,Quantidade (cartela),Qual a Quantidade (cartela)?
+808,Quantidade (L),Qual a Quantidade (L)?
+809,Quantidade (ml),Qual a Quantidade (ml)?
+810,Quantidade de Adaptadores,Qual a Quantidade de Adaptadores?
+811,Quantidade de Adaptadores:,Qual a Quantidade de Adaptadores:?
+812,Quantidade de Anéis,Qual a Quantidade de Anéis?
+813,Quantidade de Apoios por Telha,Qual a Quantidade de Apoios por Telha?
+814,Quantidade de Biometria,Qual a Quantidade de Biometria?
+815,Quantidade de Bobinas,Qual a Quantidade de Bobinas?
+816,Quantidade de bocais,Qual a Quantidade de bocais?
+817,Quantidade de Bocas,Qual a Quantidade de Bocas?
+818,Quantidade de canais,Qual a Quantidade de canais?
+819,Quantidade de Capítulos/cenas,Qual a Quantidade de Capítulos/cenas?
+820,Quantidade de Cápsulas,Qual a Quantidade de Cápsulas?
+821,Quantidade de Cavalos,Qual a Quantidade de Cavalos?
+822,Quantidade de Cestos,Qual a Quantidade de Cestos?
+823,Quantidade de chaves,Qual a Quantidade de chaves?
+824,Quantidade de Chips,Qual a Quantidade de Chips?
+825,Quantidade de ciclos,Qual a Quantidade de ciclos?
+826,Quantidade de colunas,Qual a Quantidade de colunas?
+827,Quantidade de compartimentos,Qual a Quantidade de compartimentos?
+828,Quantidade de compartimentos externos,Qual a Quantidade de compartimentos externos?
+829,Quantidade de compartimentos internos,Qual a Quantidade de compartimentos internos?
+830,Quantidade de Condutores,Qual a Quantidade de Condutores?
+831,Quantidade de Degraus,Qual a Quantidade de Degraus?
+832,Quantidade de Demãos,Qual a Quantidade de Demãos?
+833,Quantidade de demos (músicas demonstrativas),Qual a Quantidade de demos (músicas demonstrativas)?
+834,Quantidade de Disjuntores,Qual a Quantidade de Disjuntores?
+835,Quantidade de entradas,Qual a Quantidade de entradas?
+836,Quantidade de entradas HDMI,Qual a Quantidade de entradas HDMI?
+837,Quantidade de entradas USB,Qual a Quantidade de entradas USB?
+838,Quantidade de Fases,Qual a Quantidade de Fases?
+839,Quantidade de Fios,Qual a Quantidade de Fios?
+840,Quantidade de Fixação,Qual a Quantidade de Fixação?
+841,Quantidade de Flores/sementes,Qual a Quantidade de Flores/sementes?
+842,Quantidade de Folhas,Qual a Quantidade de Folhas?
+843,Quantidade de fraldas por pacote,Qual a Quantidade de fraldas por pacote?
+844,Quantidade de galhos,Qual a Quantidade de galhos?
+845,Quantidade de Ganchos,Qual a Quantidade de Ganchos?
+846,Quantidade de gavetas para Discos,Qual a Quantidade de gavetas para Discos?
+847,Quantidade de Guardanapos por Pacote,Qual a Quantidade de Guardanapos por Pacote?
+848,Quantidade de Interruptores,Qual a Quantidade de Interruptores?
+849,Quantidade de Jatos,Qual a Quantidade de Jatos?
+850,Quantidade de lenços no pacote,Qual a Quantidade de lenços no pacote?
+851,Quantidade de lugares,Qual a Quantidade de lugares?
+852,Quantidade de medicamento necessária (ml),Qual a Quantidade de medicamento necessária (ml)?
+853,Quantidade de músicas de demonstração (demos),Qual o peso? (kg)
+854,Quantidade de Óculos,Qual a Quantidade de Óculos?
+855,Quantidade de Peças,Qual a Quantidade de Peças?
+856,Quantidade de Pessoas que Atende,Qual a Quantidade de Pessoas que Atende?
+857,Quantidade de Posições,Qual a Quantidade de Posições?
+858,Quantidade de queimadores,Qual a Quantidade de queimadores?
+859,Quantidade de Ração Controlada,Qual a Quantidade de Ração Controlada?
+860,Quantidade de ramais expansíveis,Qual a Quantidade de ramais expansíveis?
+861,Quantidade de ritmos,Qual a Quantidade de ritmos?
+862,Quantidade de Rodinhas,Qual a Quantidade de Rodinhas?
+863,Quantidade de Sacolas,Qual a Quantidade de Sacolas?
+864,Quantidade de saídas de ar,Qual a Quantidade de saídas de ar?
+865,Quantidade de Senhas,Qual a Quantidade de Senhas?
+866,Recomendação,Qual Recomendação?
+867,Recomendação de uso,Quais Recomendação de uso?
+868,Recomendações de Instalação,Quais Recomendações de Instalação?
+869,Recomendações de Uso,Quais as recomendações de uso?
+870,Recomendações de Uso / Instalação,Quais Recomendações de Uso / Instalação?
+871,Recomendações e Precauções,Quais Recomendações e Precauções?
+872,Recomendações para inflar,Quais Recomendações para inflar?
+873,Recomendado para,É Recomendado para?
+874,Recontado por,Recontado por?
+875,Recursos,Quais os Recursos?
+876,Recursos / Compartimentos,Quais os Recursos / Compartimentos?
+877,Recursos / Funções,Quais os Recursos / Funções?
+878,Recursos da Balança,Quais os Recursos da Balança?
+879,Recursos de afinação,Quais os Recursos de afinação?
+880,Recursos de áudio,Quais os Recursos de áudio?
+881,Recursos de Câmera,Quais os Recursos de Câmera?
+882,Recursos de Chamada,Quais os Recursos de Chamada?
+883,Recursos de Expansão,Quais os Recursos de Expansão?
+884,Recursos de filmagem,Quais os Recursos de filmagem?
+885,Recursos de fotografia,Quais os Recursos de fotografia?
+886,Recursos de Gravação de Vídeo,Quais os Recursos de Gravação de Vídeo?
+887,Recursos de imagem,Quais os Recursos de imagem?
+888,Recursos de Software,Quais os Recursos de Software?
+889,Recursos de vídeo,Quais os Recursos de vídeo?
+890,Recursos de Vídeos,Quais os Recursos de Vídeos?
+891,Recursos do Jogo,Quais os Recursos do Jogo?
+892,Recursos do Módulo,Quais os Recursos do Módulo?
+893,Recursos do Sotware,Quais os Recursos do Sotware?
+894,Recursos especiais,Quais os Recursos especiais?
+895,Recursos extras,Quais os Recursos extras?
+896,Recursos/Compartimentos,Quais os Recursos/Compartimentos?
+897,Recursos/Funcionalidades,Quais os Recursos/Funcionalidades?
+898,Recursos/Funções,Quais os Recursos/Funções?
+899,Rede,Qual Rede?
+900,Rediscagem,Possui Rediscagem?
+901,Pode ser lavado(a) na máquina de lava-louças,Pode ser lavado(a) na máquina de lava-louças?
+902,Pode ser levado a mesa,Pode ser levado a mesa?
+903,Pode ser levado à mesa,Pode ser levado à mesa?
+904,Pode ser levado ao microondas,Pode ser levado ao microondas?
+905,Pode ser levado(a) ao micro-ondas,Pode ser levado(a) ao micro-ondas?
+906,Pode Ser Usado,Por quem Pode Ser Usado?
+907,Pode ser usado em,Pode ser usado em?
+908,Pode ser utilizado seco ou molhado,Pode ser utilizado seco ou molhado?
+909,Polegadas,Quantas Polegadas?
+910,Polegadas da rosca,Quantas Polegadas da rosca?
+911,Polegadas da Tela,Quantas Polegadas da Tela?
+912,Polegadas do Notebook,Quantas Polegadas do Notebook?
+913,Poluidor,É Poluidor?
+914,Ponte,Ponte?
+915,Ponteiras antiderrapantes,Possui Ponteiras antiderrapantes?
+916,Pontos,Quantos Pontos?
+917,Porta,Possui Porta?
+918,Porta acessórios,Possui Porta acessórios?
+919,Porta cabo,Possui Porta cabo?
+920,Porta com Chave,Possui Porta com Chave?
+921,Porta com Vidro,Possui Porta com Vidro?
+922,Porta dupla,Possui Porta dupla?
+923,Potência de Áudio,Qual a Potência de Áudio?
+924,Potência do Áudio (RMS),Qual a Potência do Áudio (RMS)?
+925,Potência do motor,Qual a Potência do motor?
+926,Potência do Motor (W),Qual a Potência do Motor (W)?
+927,Potência Máxima,Qual a Potência Máxima?
+928,Potência máxima (W),Qual a Potência máxima (W)?
+929,Potência Nominal,Qual a Potência Nominal?
+930,Potência PMPO,Qual a Potência PMPO?
+931,Potência RMS,Qual a Potência RMS?
+932,Potência RMS (W),Qual a Potência RMS (W)?
+933,Potência Total RMS,Qual a Potência Total RMS?
+934,Potenciômetros,Potenciômetros?
+935,Prateleiras,Prateleiras?
+936,Prateleiras de vidro temperado,Possui Prateleiras de vidro temperado?
+937,Prateleiras na porta,Possui Prateleiras na porta?
+938,Prateleiras reguláveis,Possui Prateleiras reguláveis?
+939,Prateleiras removíveis,Possui Prateleiras removíveis?
+940,"Prateleiras, se sim: quantas?","Prateleiras, se sim: quantas?"
+941,Prática,É Prática?
+942,Prática esportiva,Qual Prática esportiva?
+943,Prato giratório,Possui Prato giratório?
+944,Pratos,Possui Pratos?
+945,Pratos de sobremesa,Quantos Pratos de sobremesa?
+946,Pratos fundos (quantidade),"Quais as Características das peças? (xícara, pires e prato)"
+947,Pratos rasos (quantidade),"Quais as dimensões do produto, sem a base? (Altura x Largura x Profundidade)"
+948,Precauções / Recomendações de Uso,Quais Precauções / Recomendações de Uso?
+949,Precisão,Qual Precisão?
+950,Prefácio por,Prefácio por?
+951,Pré-lavagem,Possui Pré-lavagem?
+952,Premiações,Quais Premiações?
+953,Prepara,O que Prepara?
+954,Preparado para Publicação por,Preparado para Publicação por?
+955,Preparo,Como deve ser feito o  Preparo?
+956,Pressão,Qual Pressão?
+957,Pressão da água,Qual Pressão da água?
+958,Pressão da bomba (BAR),Qual a Pressão da bomba (BAR)?
+959,Pressão de Funcionamento,Qual Pressão de Funcionamento?
+960,Pressão de Operação,Qual Pressão de Operação?
+961,Pressão de trabalho,Qual Pressão de trabalho?
+962,Pressão do Vapor,Possui Pressão do Vapor?
+963,Pressão máxima,Qual Pressão máxima?
+964,Pressão máxima de água (m.c.a),Qual a Pressão máxima de água (m.c.a)?
+965,Pressão Mínima,Qual Pressão Mínima?
+966,Primeiro Capítulo,Primeiro Capítulo?
+967,Principais Aplicativos,Quais Principais Aplicativos?
+968,Principais ingredientes,Quais Principais ingredientes?
+969,Principais Recursos,Quais Principais Recursos?
+970,Princípios Ativos,Possui Princípios Ativos?
+971,Procedência,Qual Procedência?
+972,Processador,Qual Processador?
+973,Processador gráfico,Qual Processador gráfico?
+974,Processadores compatíveis,Quais Processadores compatíveis?
+975,Processo de Solda,Processo de Solda?
+976,Produção Média de Unid./Hora.,Qual Produção Média de Unid./Hora.?
+977,Produto,Qual Produto?
+978,produtor,Quem é o produtor?
+979,Produz algum tipo de vapor,Produz algum tipo de vapor?
+980,Produzido com 100% Celulose,É Produzido com 100% Celulose?
+981,Profundidade,Qual a Profundidade?
+982,Profundidade (cm),Qual a Profundidade (cm)?
+983,Profundidade (Embalado) (Mm),Qual a Profundidade (Embalado) (Mm)?
+984,Profundidade (Mm),Qual a Profundidade (Mm)?
+985,Profundidade Cuba,Qual a Profundidade Cuba?
+986,Profundidade da cuba,Qual Profundidade da cuba?
+987,Profundidade de Bits,Qual Profundidade de Bits?
+988,Profundidade de instalação,Qual Profundidade de instalação?
+989,Profundidade do Assento,Qual a Profundidade do Assento?
+990,Programas,Possui quais Programas?
+991,Progressive Scan,Possui Progressive Scan?
+992,Projeção,Possui Projeção?
+993,Pronto para Consumo,Possui Pronto para Consumo?
+994,Proteção Actigard,Possui Proteção Actigard?
+995,Proteção anti-bactérias,Possui Proteção anti-bactérias?
+996,Proteção Contra Raios Infra-Vermelhos,Possui Proteção Contra Raios Infra-Vermelhos?
+997,Proteção Contra Raios Ultra-Violeta,Possui Proteção Contra Raios Ultra-Violeta?
+998,Proteção de fundo,Possui Proteção de fundo?
+999,Proteção de sobrecarga,Possui Proteção de sobrecarga?
+1000,Proteção de tela,Possui Proteção de tela?
+1001,Peso liq. aproximado da embalagem c/ produto (kg),Qual o Peso liq. aproximado da embalagem c/ produto (kg)?
+1002,Peso Liq. Aproximado da Embalagem do Produto (Kg),Qual o Peso Liq. Aproximado da Embalagem do Produto (Kg)?
+1003,Peso liq. Aproximado das Peças,Qual o Peso liq. Aproximado das Peças?
+1004,Peso líq. aproximado das peças (kg),Qual o Peso líq. aproximado das peças (kg)?
+1005,Peso líq. aproximado do Monitor (Kg),Qual o Peso líq. aproximado do Monitor (Kg)?
+1006,Peso líq. aproximado do Mouse (kg),Qual o Peso líq. aproximado do Mouse (kg)?
+1007,Peso liq. aproximado do móvel montado (Kg),Qual a Peso liq. aproximado do móvel montado (Kg)?
+1008,Peso liq. aproximado do produto - Kg,Qual o Peso liq. aproximado do produto - Kg?
+1009,Peso liq. aproximado do produto (Kg),Qual o Peso liq. aproximado do produto (Kg)?
+1010,Peso líq. aproximado do produto (kg),Qual o peso? (kg)
+1011,Peso líq. aproximado do produto (ml ou kg),Qual o Peso líq. aproximado do produto (ml ou kg)?
+1012,Peso Liq. Aproximado do Produto (ml),Qual o Peso Liq. Aproximado do Produto (ml)?
+1013,Peso líq. aproximado do produto (ml),Qual o Peso líq. aproximado do produto (ml)?
+1014,Peso líq. aproximado do produto sem Embalagem (kg),Qual o Peso líq. aproximado do produto sem Embalagem (kg)?
+1015,Peso líq. aproximado do teclado (kg),Qual o Peso líq. aproximado do teclado (kg)?
+1016,Peso Liq. da Embalagem C/ Produto (Kg),Qual o Peso Liq. da Embalagem C/ Produto (Kg)?
+1017,Peso Liq. do Produto (Kg),Qual o Peso Liq. do Produto (Kg)?
+1018,Peso Liq. do Produto (ml),Qual o Peso Liq. do Produto (ml)?
+1019,Peso Líquido (Kg),Qual o Peso Líquido (Kg)?
+1020,Peso líquido aproximado do produto,Qual o Peso líquido aproximado do produto?
+1021,Peso líquido aproximado do produto (kg),Qual o Peso líquido aproximado do produto (kg)?
+1022,Peso líquido aproximado do produto com embalagem (kg),Qual o Peso líquido aproximado do produto com embalagem (kg)?
+1023,Peso Líquido Aproximado do Produto Sem Embalagem (kg),Qual o Peso Líquido Aproximado do Produto Sem Embalagem (kg)?
+1024,Peso Máximo Indicado,Qual o Peso Máximo Indicado?
+1025,Peso Máximo Recomendado,Qual o Peso Máximo Recomendado?
+1026,Peso máximo recomendado (kg),Qual o Peso máximo recomendado (kg)?
+1027,Peso máximo suportado,Qual o Peso máximo suportado?
+1028,Peso Real Suportado (kg),Qual o Peso Real Suportado (kg)?
+1029,Peso suportado (em Kg),Quantas xícaras prepara?
+1030,Peso Suportado (Kg),Qual o Peso Suportado (Kg)?
+1031,PesoProduto5561,PesoProduto5561?
+1032,Pessoas/Artista,Qual Pessoas/Artista?
+1033,Pessoas/Artistas,Quais Pessoas/Artistas?
+1034,PH,Qual o PH?
+1035,Porta fio,Possui Porta fio?
+1036,Porta fria,Possui Porta fria?
+1037,Porta latas,Possui Porta latas?
+1038,Porta laticínios,Possui Porta laticínios?
+1039,Porta Lira,Possui Porta Lira?
+1040,Porta ovos,Possui Porta ovos?
+1041,Porta reversível,Possui Porta reversível?
+1042,Porta Travesseiro Incluso,Possui Porta Travesseiro Incluso?
+1043,"Porta, se sim: quantidade","Possui Porta, se sim: quantidade?"
+1044,Porta-copo,Possui Porta-copo?
+1045,Porta-etiqueta,Possui Porta-etiqueta?
+1046,Porta-fio,Possui Porta-fio?
+1047,Porta-lanche incluso,Possui Porta-lanche incluso?
+1048,Portas Deslizantes,Possui Portas Deslizantes?
+1049,Portas LAN/Ethernet,Possui Portas LAN/Ethernet?
+1050,"Portas, se sim: quantas","Possui Portas, se sim: quantas?"
+1051,Portátil,É Portátil?
+1052,Portátil (sem fio),É Portátil (sem fio)?
+1053,Porta-toalhas,Possui Porta-toalhas?
+1054,Porta-Travesseiro incluso,Possui Porta-Travesseiro incluso?
+1055,Porte,Qual Porte?
+1056,Porte de animais,Indicado para quais Porte de animais?
+1057,Porte do animal,Qual Porte do animal?
+1058,Porte do Cachorro,Porte do Cachorro?
+1059,Posfácio por,Posfácio por?
+1060,Posição do sensor ajustável,Possui Posição do sensor ajustável?
+1061,Posições,Quais Posições?
+1062,Posições das fotos,Quais Posições das fotos?
+1063,Posições de altura,Quais Posições de altura?
+1064,Posições de inclinação,Quais Posições de inclinação?
+1065,Posologia,Qual Posologia?
+1066,Possui Alarme,Possui Alarme?
+1067,Possui alças para transporte,Possui alças para transporte?
+1068,Possui Argola,Possui Argola?
+1069,Possui bandeja,Possui bandeja?
+1070,Possui botão para regular a sensibilidade da coleira,Possui botão para regular a sensibilidade da coleira?
+1071,Possui cabo,Possui cabo?
+1072,Possui Chave Liga/desliga,Possui Chave Liga/desliga?
+1073,Possui cinta?,Possui cinta?
+1074,Possui comedouro,Possui comedouro?
+1075,Possui Cortadores,Possui Cortadores?
+1076,Possui display,Possui display?
+1077,Possui Filtro,Possui Filtro?
+1078,Possui Fio,Possui Fio?
+1079,Possui inclinação,Possui inclinação?
+1080,Possui interruptor,Possui interruptor?
+1081,Possui LED (indicador de Bateria),Possui LED (indicador de Bateria)?
+1082,Possui lubrificação,Possui lubrificação?
+1083,Possui Marcação de Corte,Possui Marcação de Corte?
+1084,Possui Prendedor,Possui Prendedor?
+1085,Possui Prensa,Possui Prensa?
+1086,Possui Refil,Possui Refil?
+1087,Possui rodas? Quantas?,Possui rodas? Quantas?
+1088,Possui rodinhas,Possui rodinhas?
+1089,Possui rodízio,Possui rodízio?
+1090,Possui Sal,Possui Sal?
+1091,Possui Sonda,Possui Sonda?
+1092,Possui Suporte Como Base,Possui Suporte Como Base?
+1093,Possui tampa,Possui tampa?
+1094,Possui Timer Digital,Possui Timer Digital?
+1095,Possui travamento,Possui travamento?
+1096,Possui USB,Possui USB?
+1097,Possui Ventosas Inclusas,Possui Possui Ventosas Inclusas?
+1098,PossuiCinta,Possui Cinta?
+1099,Potência,Qual a Potência?
+1100,Potência (w),Qual a potência em watts?
+1101,Número de Prateleiras,Qual o Número de Prateleiras?
+1102,Número de Queimadores,Qual o Número de Queimadores?
+1103,Número de símbolos,Possui Número de símbolos?
+1104,Número de teclas,Qual o Número de teclas?
+1105,Número de tomadas,Qual o Número de tomadas?
+1106,Número máximo de caracteres,Qual Número máximo de caracteres?
+1107,Números de Portas,Quais Números de Portas?
+1108,Nut Width,Nut Width?
+1109,O brinquedo se movimenta com a ajuda da criança,O brinquedo se movimenta com a ajuda da criança?
+1110,O brinquedo se movimenta com ajuda da criança,O brinquedo se movimenta com ajuda da criança?
+1111,O Brinquedo se Movimenta com Ajuda da Crianccedil.A,O Brinquedo se Movimenta com Ajuda da Crianccedil.A?
+1112,Pedestal incluso,Possui Pedestal incluso?
+1113,Pedestal Incluso?,Possui Pedestal Incluso??
+1114,Pedivela,Qual Pedivela?
+1115,PEI (Resistência Abrasão da Superfície),Qual PEI (Resistência Abrasão da Superfície)?
+1116,Peitoral ajustável,Possui Peitoral ajustável?
+1117,Pele,Qual Pele?
+1118,Peles,Quais Peles?
+1119,Pêlo,Qual Pêlo?
+1120,Pen Drive,Possui Pen Drive?
+1121,Penduradores na Posição Vertical e Horizontal,Possui Penduradores na Posição Vertical e Horizontal?
+1122,Penduradores Vertical e Horizontal,Possui Penduradores Vertical e Horizontal?
+1123,Peneira,Possui Peneira?
+1124,Pente,Possui Pente?
+1125,Pentes,Quantos Pentes?
+1126,Perfil (mm),Qual o perfil? (mm)
+1127,Perfumada,É Perfumada?
+1128,Perfumado,É Perfumado?
+1129,Perímetro do Peitoral  (Mín/Máx),Qual o Perímetro do Peitoral? (Mín/Máx)
+1130,Perímetro do Peitoral (cm) Mín/Máx,Qual Perímetro do Peitoral (cm) Mín/Máx?
+1131,Perímetro do Pescoço (cm) Mín/Máx,Qual Perímetro do Pescoço (cm) Mín/Máx?
+1132,Perímetro do Pescoço (Mín/Máx),Qual o Perímetro do Pescoço? (Mín/Máx)
+1133,Permite Acoplar Compressor (mantém o Alimento Seco),Permite Acoplar Compressor (mantém o Alimento Seco)?
+1134,Permite colocar senha,Permite colocar senha?
+1135,Personagem,Quem são os personagens?
+1136,Personagens,Quais Personagens?
+1137,Pés,Quantos Pés?
+1138,Pés (Material),Qual o material dos pé?
+1139,Pés antiderrapantes,Possui Pés antiderrapantes?
+1140,Pés niveladores,Possui Pés niveladores?
+1141,Pescaria,Possui Pescaria?
+1142,Peso,Qual Peso?
+1143,Peso (kg),Qual o Peso (kg)?
+1144,Peso aproximado (Kg),Qual o Peso aproximado (Kg)?
+1145,Peso Aproximado da Cesta (Kg),Qual o Peso Aproximado da Cesta (Kg)?
+1146,Peso aproximado da embalagem  c/ produto (Kg),Qual o Peso aproximado da embalagem  c/ produto (Kg)?
+1147,Peso aproximado da embalagem (kg),Qual o Peso aproximado da embalagem (kg)?
+1148,Peso aproximado da embalagem c/ produto - (kg),Qual o Peso aproximado da embalagem c/ produto - (kg)?
+1149,Peso aproximado da embalagem c/ produto - Kg,Qual o Peso aproximado da embalagem c/ produto - Kg?
+1150,Peso aproximado da embalagem c/ produto (kg),Qual o peso? (kg)
+1151,Peso aproximado da embalagem com produto (kg),Qual o Peso aproximado da embalagem com produto (kg)?
+1152,Peso Aproximado da Embalagem do Produto,Qual o Peso Aproximado da Embalagem do Produto?
+1153,Peso aproximado da embalagem do produto (kg),Qual o peso? (kg)
+1154,Peso aproximado da embalagem do produto (ml ou kg),Qual o Peso aproximado da embalagem do produto (ml ou kg)?
+1155,Peso aproximado de cada peça,Qual o Peso aproximado de cada peça?
+1156,Peso aproximado de cada peça (kg),Qual o Peso aproximado de cada peça (kg)?
+1157,Peso aproximado do produto - Kg,Qual o Peso aproximado do produto - Kg?
+1158,Peso Aproximado do Produto (Kg),Qual o Peso Aproximado do Produto (Kg)?
+1159,Peso aproximado do produto c/ embalagem (Kg),Qual o Peso aproximado do produto c/ embalagem (Kg)?
+1160,Peso aproximado do produto com embalagem (kg),Qual o Peso aproximado do produto com embalagem (kg)?
+1161,Peso Aproximado do Produto com Embalagem (kg) (Id 42444),Qual o Peso Aproximado do Produto com Embalagem (kg) (Id 42444)?
+1162,Peso Bruto (Kg),Qual o Peso Bruto (Kg)?
+1163,Peso da Embalagem C/ Produto (kg),Qual o Peso da Embalagem C/ Produto (kg)?
+1164,Peso do Produto na Embalagem,Qual o Peso do Produto na Embalagem?
+1165,Peso Indicado,Qual o Peso Indicado?
+1166,Peso Liacute.Q. Aproximado do Produto (Kg),Qual o Peso Liacute.Q. Aproximado do Produto (Kg)?
+1167,Peso lipq. aproximado da embalagem c/ produto (Kg),Qual o Peso lipq. aproximado da embalagem c/ produto (Kg)?
+1168,Peso liq aproximado do produto - Kg,Qual o Peso liq aproximado do produto - Kg?
+1169,Peso líq aproximado do produto (kg),Qual o Peso líq aproximado do produto (kg)?
+1170,Peso líq. aproximado da CPU (kg),Qual o Peso líq. aproximado da CPU (kg)?
+1171,Peso liq. aproximado da embalagem c/ produto,Qual o Peso liq. aproximado da embalagem c/ produto?
+1172,PH Neutro,Possui PH Neutro?
+1173,Picture Navigation (Modalidades avançadas de visualização),Possui Picture Navigation (Modalidades avançadas de visualização)?
+1174,Pilhas inclusas,Possui Pilhas inclusas?
+1175,Pilhas/Bateria inclusas,Possui Pilhas/Bateria inclusas?
+1176,Pilhas/baterias Inclusas,Possui Pilhas/baterias Inclusas?
+1177,Pingadeira,Possui Pingadeira?
+1178,Pino para Correia,Possui Pino para Correia?
+1179,Pinos X Contatos,Quais Pinos X Contatos?
+1180,Pintura,Qual Pintura?
+1181,Pintura / Revestimento,Qual Pintura / Revestimento?
+1182,Pintura eletrostática,Possui Pintura eletrostática?
+1183,Pintura/Revestimento,Qual Pintura/Revestimento?
+1184,PIP (Picture in Picture),Possui PIP (Picture in Picture)?
+1185,Pires (quantidade),Quantos Pires (quantidade)?
+1186,Piso móvel,Possui Piso móvel?
+1187,Pixel Pitch,Qual Pixel Pitch?
+1188,Placa antiaderente,Possui Placa antiaderente?
+1189,Placa de Rede,Possui Placa de Rede?
+1190,Placa de Som,Possui Placa de Som?
+1191,Placa de Vídeo,Possui Placa de Vídeo?
+1192,Placa Mãe,Possui Placa Mãe?
+1193,Placa Sinalizadora,Qual Placa Sinalizadora?
+1194,Planaltos e Planícies,Possui Planaltos e Planícies?
+1195,Plataforma,Qual Plataforma?
+1196,Plug & Play,Possui Plug & Play?
+1197,Plug &amp; Play,É Plug &amp; Play?
+1198,Pneu,Qual Pneu?
+1199,Pneus,Quantos Pneus?
+1200,Pode ser lavado na máquina de lavar louça,Pode ser lavado na máquina de lavar louça?
+1201,Montadora Moto,Qual Montadora da Moto?
+1202,Montadoras Compatíveis,Quais as Montadoras Compatíveis?
+1203,Montagem de tripé,Possui Montagem de tripé?
+1204,Montagem tripé,Possui Montagem tripé?
+1205,Montagem:,Montagem:?
+1206,Mosquiteiro,Possui Mosquiteiro?
+1207,Mostra sua frequência cardíaca,Mostra sua frequência cardíaca?
+1208,Mostra tempo de exercício,Mostra tempo de exercício?
+1209,Mostrador frontal de temperatura,Possui Mostrador frontal de temperatura?
+1210,Motobombas,Qual Motobombas?
+1211,Motor,Qual Motor?
+1212,Motor (hp),Qual a potência do motor (hp)?
+1213,Mouse,Possui Mouse?
+1214,Movimento bate e volta,Possui Movimento bate e volta?
+1215,Movimento central,Possui Movimento central?
+1216,Movimento de Direção,Qual Movimento de Direção?
+1217,MP3,Lê MP3?
+1218,Mp3 Player,Possui Mp3 Player?
+1219,MPN,Qual o MPN?
+1220,Mudança automática de imagem,Possui Mudança automática de imagem?
+1221,Multichip,Possui Multichip?
+1222,Multichip5561,Multichip5561?
+1223,Multifuncional,É Multifuncional?
+1224,Multimídia,Possui Multimídia?
+1225,Multiplayer,É Multiplayer?
+1226,Musical,É Musical?
+1227,Mutiplayer,É Mutiplayer?
+1228,Não Recomendado para,Não Recomendado para?
+1229,Narigueira,Possui Narigueira?
+1230,Neck,Neck?
+1231,O brinquedo se movimenta sozinho (com ajuda de pilha/bateria),Qual o peso? (kg)
+1232,O movimento do brinquedo depende da ação da criança,O movimento do brinquedo depende da ação da criança?
+1233,O portão abre para os dois lados,O portão abre para os dois lados?
+1234,Objetivo do Jogo,Qual Objetivo do Jogo?
+1235,Objetivo do produto,Qual Objetivo do produto?
+1236,Observações,Quais Observações?
+1237,Observações Sobre a Secagem,Quais Observações Sobre a Secagem?
+1238,Ocasião,É indicado para quais ocasiões?
+1239,Oficial,É Oficial?
+1240,Opção horizontal,Possui Opção horizontal?
+1241,Opção vertical,Possui Opção vertical?
+1242,Opções de Equalização,Opções de Equalização?
+1243,Opções de iluminação,Quais Opções de iluminação?
+1244,Opções de Jatos,Quais Opções de Jatos?
+1245,Opções de rotas,Quais Opções de rotas?
+1246,Opções de temperatura,Quais Opções de temperatura?
+1247,Opções de temperatura (Cº),Qual a resolução máxima? (em pixels)
+1248,Operadora,Qual Operadora?
+1249,Óptico,É Óptico?
+1250,Ortopédico,É Ortopédico?
+1251,Outras características,Quais Outras características?
+1252,Outras Conexões,Quais Outras Conexões?
+1253,Outras Funções,Quais Outras Funções?
+1254,Outros,Outros?
+1255,Outros Compartimentos,Quais Outros Compartimentos?
+1256,Outros Recursos,Quais Outros Recursos?
+1257,Outros Recursos / Mais Informações,Quais Outros Recursos / Mais Informações?
+1258,Outros recursos/funcionalidades,Quais Outros recursos/funcionalidades?
+1259,Pá agitadora / misturador,Possui Pá agitadora / misturador?
+1260,Padrão,Qual Padrão?
+1261,Padrão de horas,Qual Padrão de horas?
+1262,Padrão de Imagem,Qual Padrão de Imagem?
+1263,Padrões,Quais Padrões?
+1264,Padrões ou Normativas,Quais Padrões ou Normativas?
+1265,Pads,Quantidade de Pads?
+1266,Páginas,Quantas páginas tem?
+1267,Páginas autocolantes,Possui Páginas autocolantes?
+1268,Páginas decoradas,Possui Páginas decoradas?
+1269,Páginas por letra,Quantas Páginas por letras?
+1270,Painel,Qual Painel?
+1271,Painel de controle,Possui Painel de controle?
+1272,Painel Digital,Possui Painel Digital?
+1273,Painel eletrônico,Possui Painel eletrônico?
+1274,Painel eletrônico/digital,Possui Painel eletrônico/digital?
+1275,Painel frontal destacável,Possui Painel frontal destacável?
+1276,Painel/Funções,Possui Painel/Funções?
+1277,País,Qual País?
+1278,País de Origem,Qual País de Origem?
+1279,"Países, Cidades e Capitais","Quais Países, Cidades e Capitais?"
+1280,Paladar,Qual Paladar?
+1281,Palavra/Frase/Formato,Qual Palavra/Frase/Formato?
+1282,Palhetas,Palhetas?
+1283,Palmilhas removíveis,Possui Palmilhas removíveis?
+1284,Palms Compatíveis,Palms Compatíveis?
+1285,Panificadora: ciclos,A panificadora tem quantos?
+1286,Par de baqueta incluso,Possui Par de baqueta incluso?
+1287,Par de Baquetas Incluso,Possui Par de Baquetas Incluso?
+1288,Parafusos,QuantosParafusos?
+1289,Paralamas,Qual Paralamas?
+1290,Páralamas,Possui Páralamas?
+1291,Part Number,Qual o Part Number?
+1292,Partes do corpo trabalhadas,Quais Partes do corpo trabalhadas?
+1293,Partes trabalhadas do corpo,Quais Partes trabalhadas do corpo?
+1294,Partículas (mm),Qual o tamanho das partículas? (mm)
+1295,Passadores,Quais Passadores?
+1296,Passeio,É de Passeio?
+1297,PCI Express,Possui PCI Express?
+1298,Peça Genuína,É Peça Genuína?
+1299,Pedais,Quantos Pedais?
+1300,Pedal,Qual Pedal?
+1301,Memória para estações,Possui Memória para estações?
+1302,Memória para estações de radio,Possui Memória para estações de radio?
+1303,Memória para estações de rádio,Possui Memória para estações de rádio?
+1304,Memória para ligações efetuadas,Possui Memória para ligações efetuadas?
+1305,Memória para ligações recebidas,Possui Memória para ligações recebidas?
+1306,Memória RAM,Possui Memória RAM?
+1307,Memória/Registros,Quantidade de Memória/Registros?
+1308,Memórias/Registros,Possui Memórias/Registros?
+1309,Memoriza última cena,Memoriza última cena?
+1310,Menu de exibição,Possui Menu de exibição?
+1311,Menu de funções,Possui Menu de funções?
+1312,Menu inteligente,Possui Menu inteligente?
+1313,Método de inalação/nebulização,Qual Método de inalação/nebulização?
+1314,Método de Medição,Qual Método de Medição?
+1315,Método de Medição/aferição,Qual Método de Medição/aferição?
+1316,Método por refil?,Qual Método por refil??
+1317,Metragem,Qual Metragem?
+1318,Metragem por Embalagem,Qual Metragem por Embalagem?
+1319,Metragem total,Qual Metragem total?
+1320,Metragem Total/Quantidade,Qual Metragem Total/Quantidade?
+1321,Metrônomo,Possui Metrônomo?
+1322,Microfone,Possui Microfone?
+1323,Microfone embutido,Possui Microfone embutido?
+1324,Microfone Interno,Possui Microfone Interno?
+1325,microfoneAudio,Possui microfoneAudio?
+1326,Microfones,Possui Microfones?
+1327,Microprocessado,Possui Microprocessado?
+1328,Mid Pass,Possui Mid Pass?
+1329,Mídias compatíveis,Quais Mídias compatíveis?
+1330,Mídias compatíveis para reprodução,Quais Mídias compatíveis para reprodução?
+1331,Mídias de reprodução,Quais Mídias de reprodução?
+1332,Mina,Qual Mina?
+1333,Móbile,Possui Móbile?
+1334,Mode de Usar,Qual Modo de Usar?
+1335,Modelagem,Qual Modelagem?
+1336,Modelo,Qual o modelo?
+1337,Modelo Capacidade do HD,Qual o Modelo Capacidade do HD?
+1338,Modelo de Aquecimento,Qual o Modelo de Aquecimento?
+1339,Modelo de Box,Qual Modelo de Box?
+1340,Modelo de Luminária,Qual Modelo de Luminária?
+1341,Modelo do Mouse,Qual Modelo do Mouse?
+1342,Modelo do Processador,Qual Modelo do Processador?
+1343,Modelo do Produto,Qual Modelo do Produto?
+1344,Modelo do Teclado,Qual Modelo do Teclado?
+1345,Modelo Memória RAM,Qual o Modelo Memória RAM?
+1346,NFC,Possui NFC?
+1347,Níveis de Água,Quantos Níveis de Água?
+1348,Níveis de filtragem,Possui Níveis de filtragem?
+1349,Níveis de programas,Quantas Níveis de programass?
+1350,Nível,Qual Nível?
+1351,Nível automático da água,Possui Nível automático da água?
+1352,Nível de dificuldade,Qual Nível de dificuldade?
+1353,Nível de Odor,Qual Nível de Odor?
+1354,Nível de ruído,Qual Nível de ruído?
+1355,Nível de ruído dB(A),Qual o Nível de ruído dB(A)?
+1356,Nível de segurança,Qual Nível de segurança?
+1357,Nome,Nome?
+1358,Nome Científico,Qual Nome Científico?
+1359,Nome da Obra,Qual Nome da Obra?
+1360,Nome Parceiro,Qual o Nome do Parceiro?
+1361,Norma Técnica,Qual Norma Técnica?
+1362,Notas,""
+1363,Notas de polifonia,Quantas Notas de polifonia?
+1364,Noturno,É Noturno?
+1365,Numeração/Tamanho,Qual Numeração/Tamanho?
+1366,Numeração/Tamanho (Patins),Qual a Numeração/Tamanho (Patins)?
+1367,Número,Qual Número?
+1368,Número de Apoios de Cabeça,Qual o Número de Apoios de Cabeça?
+1369,Número de argolas,Qual o Número de argolas?
+1370,Número de Argolas / Furos,Qual o Número de Argolas / Furos?
+1371,Número de Cadeiras,Qual o Número de Cadeiras?
+1372,Número de Canais,Qual o Número de Canais?
+1373,Número de colunas,Qual o Número de colunas?
+1374,Número de Compartimentos,Qual o Número de Compartimentos?
+1375,Número de Compartimentos (Nichos),Qual o Número de Compartimentos (Nichos)?
+1376,Número de divisórias,Qual o Número de divisórias?
+1377,Número de Espetos,Qual o Número de Espetos?
+1378,Número de folhas,Qual o Número de folhas?
+1379,Número de Folhas / Páginas,Qual o Número de Folhas / Páginas?
+1380,Número de folhas/páginas,Qual o Número de folhas/páginas?
+1381,Número de furos,Qual o Número de furos?
+1382,Número de Gavetas,Qual o Número de Gavetas?
+1383,Número de hélices,Qual o Número de hélices?
+1384,Número de interruptores,Qual o Número de interruptores?
+1385,Número de Jatos de Hidromassagem,Qual o Número de Jatos de Hidromassagem?
+1386,Número de jogadores Offline,Qual o Número de jogadores Offline?
+1387,Número de jogadores Online,Qual o Número de jogadores Online?
+1388,Número de Lâmpadas,Qual o Número de Lâmpadas?
+1389,Número de linhas,Qual o Número de linhas?
+1390,Número de Lugares,Qual o Número de Lugares?
+1391,Número de marchas/Leveis,Qual o Número de marchas/Leveis?
+1392,Número de matérias,Qual o Número de matérias?
+1393,Número de monofones,Qual o Número de monofones?
+1394,Número de páginas,Qual o Número de páginas?
+1395,Número de Participantes,Qual o Número de Participantes?
+1396,Número de Pés,Qual o Número de Pés?
+1397,Número de Pessoas,Qual o Número de Pessoas?
+1398,Número de pólos,Qual o Número de pólos?
+1399,Número de portas,Qual o Número de portas?
+1400,Número de posição de ajuste,Qual o Número de posição de ajuste?
+1401,Mandril,Qual Mandril?
+1402,Mangueira para escoamento da água,Possui Mangueira para escoamento da água?
+1403,Manivela,Possui Manivela?
+1404,Manoplas,Quais Manoplas?
+1405,Manta,Manta?
+1406,Manual,Qual idioma do Manual?
+1407,Manual do Item,Possui Manual do Item?
+1408,Mapa,Possui Mapa?
+1409,Máquinas de Café Compatíveis,Quais Máquinas de Café Compatíveis?
+1410,Marca,Qual a marca do produto?
+1411,Marca do Item,Qual Marca do Item?
+1412,Marcador,Possui Marcador?
+1413,Marcador de páginas,Possui Marcador de páginas?
+1414,Marcaxa0,Qual  Marca?
+1415,Marcha,Quantas Marchas?
+1416,Marcha Ré,Possui Marcha Ré?
+1417,Margem de medição,Qual Margem de medição?
+1418,Máscara captadora de ar,Possui Máscara captadora de ar?
+1419,Massageador,Possui Massageador?
+1420,Materiais:,Materiais:?
+1421,Material,Qual Material?
+1422,"Material (estrutura, base, bacia..)","Qual a Material (estrutura, base, bacia..)?"
+1423,Material (mamadeira e bico),Qual a Material (mamadeira e bico)?
+1424,"Material (rasqueadeira, cabo e cerdas)","Qual Material (rasqueadeira, cabo e cerdas)?"
+1425,Material / Acabamento,Qual Material / Acabamento?
+1426,Material / Composição,Qual Material / Composição?
+1427,Material / Composiccedil.Atilde.O:,Qual o Material / Composiccedil.Atilde.O:?
+1428,Material Aro,Qual Material Aro?
+1429,Material bico,Qual Material bico?
+1430,Material Cabedal,Qual Material Cabedal?
+1431,Material Cabedal / Casco / Solado / Viseira,Qual Material Cabedal / Casco / Solado / Viseira?
+1432,Material da Caixa,Qual Material da Caixa?
+1433,Material da Estrutura,Qual Material da Estrutura?
+1434,Material da Folha,Qual o Material da Folha?
+1435,Material da Jarra,Qual Material da Jarra?
+1436,Material da Parte Inferior/interno,Qual o Material da Parte Inferior/interno?
+1437,Material da Parte Superior/externo,Qual o Material da Parte Superior/externo?
+1438,Material da Pulseira,Qual Material da Pulseira?
+1439,Material da viseira,Qual Material da viseira?
+1440,Material do cabo,Qual Material do cabo?
+1441,Material do casco,Qual Material do casco?
+1442,Material do Cilindro,Qual Material do Cilindro?
+1443,Material do Copo,Qual Material do Copo?
+1444,Material do Tabuleiro e das Peças,Qual o Material do Tabuleiro e das Peças?
+1445,Material do Tampo,Qual Material do Tampo?
+1446,Material Entressola,Qual Material Entressola?
+1447,Material Jarra,Qual Material Jarra?
+1448,Material lâmina,Qual Material lâmina?
+1449,Material mamadeira,Qual Material mamadeira?
+1450,Material Solado,Qual Material Solado?
+1451,Material/Acabamento,Qual Material/Acabamento?
+1452,Material/Composição,Qual a Composição/Material?
+1453,Material/Composição da Estrutura,Qual Material/Composição da Estrutura?
+1454,Material/Composição do Tampo,Qual Material/Composição do Tampo?
+1455,Material6221,Material6221?
+1456,Máxima Tensão de entrada,Qual Máxima Tensão de entrada?
+1457,Máxima Tensão de saída,Qual Máxima Tensão de saída?
+1458,Mecanismo,Qual Mecanismo?
+1459,Mecanismo de abertura/fechamento,Qual Mecanismo de abertura/fechamento?
+1460,Medição de Batimentos Cardíacos,Possui Medição de Batimentos Cardíacos?
+1461,Medida,Quais as Medidas?
+1462,Medidas,Quais Medidas?
+1463,Medidas aproximadas,Quais Medidas aproximadas?
+1464,Medidas da Caixa (AxL),Quais Medidas da Caixa (AxL)?
+1465,Modelo Pilha / Bateria:,Qual o Modelo Pilha / Bateria:?
+1466,Modelo Processador,Qual Modelo Processador?
+1467,Modelo Sacola,Qual o Modelo Sacola?
+1468,Modelo Sistema Operacional,Qual o Modelo Sistema Operacional?
+1469,Modelo Tamanho Tela,Qual o Modelo Tamanho Tela?
+1470,Modelo Veiculo Automovel,Qual o Modelo Veiculo Automovel?
+1471,Modelo Veiculo Moto,Qual o Modelo Veiculo Moto?
+1472,Modelo6221,Modelo6221?
+1473,Modelos compatíveis,Quais Modelos compatíveis?
+1474,Modelos de veículos compatíveis,Quais Modelos de veículos compatíveis?
+1475,Modo de aplicação,Qual Modo de aplicação?
+1476,Modo de Ativação/ Desativação do Alarme,Qual Modo de Ativação/ Desativação do Alarme?
+1477,Modo de ativação/desativação do alarme,Qual Modo de ativação/desativação do alarme?
+1478,Modo de Cultivo,Qual Modo de Cultivo?
+1479,Modo de filtragem,Qual Modo de filtragem?
+1480,Modo de fixação,Qual Modo de fixação?
+1481,Modo de funcionamento,Qual Modo de funcionamento?
+1482,Modo de limpeza,Possui Modo de limpeza?
+1483,Modo de usar,Qual Modo de usar?
+1484,Modo de uso,Qual Modo de uso?
+1485,Modo de utilização,Qual Modo de utilização?
+1486,Modo Usar,Qual Modo Usar?
+1487,Modos de cena,Quais Modos de cena?
+1488,Modos de equalização,Quais Modos de equalização?
+1489,Modos de flash,Quais Modos de flash?
+1490,Modos de gravação,Quais Modos de gravação?
+1491,Modos de Reprodução,Quais Modos de Reprodução?
+1492,Modos de visualização,Quais Modos de visualização?
+1493,Módulo GPS tipo,Qual Módulo GPS tipo?
+1494,Módulo receptor,Qual Módulo receptor?
+1495,Módulo soquete,Possui Módulo soquete?
+1496,Moldura,Qual Moldura?
+1497,Monitor,Qual Monitor?
+1498,Monitor eletrônico,Possui Monitor eletrônico?
+1499,Monitor/Display,Possui Monitor/Display?
+1500,Montadora Automovel,Qual Montadora do Automovel?
+1501,Instrumentos compatíveis,Quais Instrumentos compatíveis?
+1502,Instrumentos indicados,Quais Instrumentos indicados?
+1503,Integral,Possui Integral?
+1504,Intensidade do Brilho,Qual Intensidade do Brilho?
+1505,Interface,Qual Interface?
+1506,Interface / Comunicação,Qual Interface / Comunicação?
+1507,Interfaces,Interfaces?
+1508,Introdução por,Qual Introdução por?
+1509,Inverter,É Inverter?
+1510,iPods compatíveis,Quais iPods compatíveis?
+1511,Isbn,Qual o Isbn?
+1512,isbn do Item,Qual isbn do Item?
+1513,Isbn-10,Qual o código Isbn-10?
+1514,Isbn-13,Qual o código Isbn-13?
+1515,Jarra removível,Possui Jarra removível?
+1516,Jato inteligente,Possui Jato inteligente?
+1517,Jato Regulável,Possui Jato Regulável?
+1518,Karaokê,Possui Karaokê?
+1519,Kodak Picture CD,Lê Kodak Picture CD?
+1520,Lado,Qual Lado?
+1521,Lado de Abertura,Qual o Lado de Abertura?
+1522,Lado do Item,Qual Lado do Item?
+1523,"Lagos, Rios e Ilhas","Quais Lagos, Rios e Ilhas?"
+1524,Lâmina,Quantidade de Lâminas?
+1525,Lâminas,Quais Lâminas?
+1526,Lâmpada,Qual Lâmpada?
+1527,Lâmpadas Compatíveis,Quais Lâmpadas Compatíveis?
+1528,Lapiseiras Compatíveis,Quais Lapiseiras Compatíveis?
+1529,Largura,Qual a Largura?
+1530,Largura (cm),Qual a Largura (cm)?
+1531,Largura (Embalado) (Mm),Qual a Largura (Embalado) (Mm)?
+1532,Largura (Mm),Qual a Largura (Mm)?
+1533,Largura ajustável,Possui Largura ajustável?
+1534,Largura da caixa (cm),Qual a Largura da caixa (cm)?
+1535,Largura de Selagem (cm),Qual a Largura de Selagem (cm)?
+1536,Largura do Assento,Qual a Largura do Assento?
+1537,Largura do Batente,Qual a Largura do Batente?
+1538,Largura do Pneu,Qual Largura do Pneu?
+1539,Largura do pneu (mm),Qual a Largura do pneu (mm)?
+1540,Largura do Produto (Montado)(Cm),Qual a Largura do Produto (Montado)(Cm)?
+1541,Largura: 4 Cm,Qual Largura: 4 Cm?
+1542,Lateral,Qual Lateral?
+1543,Lavagem,Qual Lavagem?
+1544,Lavável,É Lavável?
+1545,LED colorido,Possui LED colorido?
+1546,Led indicador,Possui Led indicador?
+1547,LED Indicador de Carga,Possui LED Indicador de Carga?
+1548,Led indicativo de energia elétrica,Possui Led indicativo de energia elétrica?
+1549,LEDs,Quantos LEDs?
+1550,Legenda,Possui Legenda?
+1551,Legenda(s),Quais Legenda(s)?
+1552,Leitor Biométrico,Possui Leitor Biométrico?
+1553,Leitor de Cartão,Possui Leitor de Cartão?
+1554,Leitura de Escala,Qual Leitura de Escala?
+1555,Lençol de baixo com elástico,Possui Lençol de baixo com elástico?
+1556,Lençol de cima com vira,Possui Lençol de cima com vira?
+1557,Lente,Qual Lente?
+1558,Lentes,Quais Lentes?
+1559,Liga,Liga?
+1560,Ligações Armazenadas,Ligações Armazenadas?
+1561,Ligth,Possui Ligth?
+1562,Linha,Qual Linha?
+1563,Linha compatível,Qual a Linha compatível?
+1564,Linhas,Quantas Linhass?
+1565,Líquido regulador,Possui Líquido regulador?
+1566,Lista de Canais de TV,Possui Lista de Canais de TV?
+1567,Local das entradas HDMI,Qual o Local das entradas HDMI?
+1568,Local das entradas USB,Qual o Local das entradas USB?
+1569,Local de instalação,Qual o Local de instalação?
+1570,Local de uso,Qual o Local de uso?
+1571,Local Indicado,Local Indicado?
+1572,Localizador do monofone,Possui Localizador do monofone?
+1573,Looping,Possui Looping?
+1574,Low Pass,Qual Low Pass?
+1575,Lugares,Quantos Lugares?
+1576,luminária,Possui luminária?
+1577,Luminosidade,Qual Luminosidade?
+1578,Lupa,Possui Lupa?
+1579,Luz,Possui Luz?
+1580,Luz ambiente,Possui Luz ambiente?
+1581,Luz Branca,Possui Luz Branca?
+1582,Luz de forno,Possui Luz de forno?
+1583,Luz de fundo,Possui Luz de fundo?
+1584,Luz indicadora de carga,Possui Luz indicadora de carga?
+1585,Luz indicadora de funcionamento,Possui Luz indicadora de funcionamento?
+1586,Luz indicadora Liga/Desliga,Possui Luz indicadora Liga/Desliga?
+1587,Medidas da Caixa (LxC - cm),Quais as medidas da caixa?
+1588,Medidas da Caixa (LxCcm),Quais as medidas da caixa?
+1589,Medidor de passo,Possui Medidor de passo?
+1590,Medidor de taxa de gordura,Possui Medidor de taxa de gordura?
+1591,Medidor de taxa de líquido,Possui Medidor de taxa de líquido?
+1592,Medidor/Display,Qual Medidor/Display?
+1593,Memória,Possui Memória?
+1594,Memória cache,Possui Memória cache?
+1595,Memória de gravação,Possui Memória de gravação?
+1596,Memória de Recepção,Memória de Recepção?
+1597,Memória de Vídeo,Possui Memória de Vídeo?
+1598,Memória Expansível por Cartões de Memória,Possui Memória Expansível por Cartões de Memória?
+1599,Memória Interna,Possui Memória Interna?
+1600,Memória para emissoras de rádio,Possui Memória para emissoras de rádio?
+1601,Funciona com uso de gelo,Funciona com uso de gelo?
+1602,Funcionalidade,Quais as funcionalidades?
+1603,Funcionalidade do Produto,Qual Funcionalidade do Produto?
+1604,Funcionalidade/Utilidade,Qual Funcionalidade/Utilidade?
+1605,Funções,Quias as funções? 
+1606,Funções de Câmera Lenta,Possui Funções de Câmera Lenta?
+1607,Funções de Linguagem,Possui Funções de Linguagem?
+1608,Funções do Monitor,Quais Funções do Monitor?
+1609,Funções do painel,Quais Funções do painel?
+1610,Funções do Painel de Controle,Quais Funções do Painel de Controle?
+1611,Funções do Relógio,Quais Funções do Relógio?
+1612,FuncoesMonitorCardiaco,FuncoesMonitorCardiaco?
+1613,Fundo,Qual Fundo?
+1614,Furos,Possui Furos?
+1615,Fuso Horário,Possui Fuso Horário?
+1616,Galão de Água,Possui Galão de Água?
+1617,Garantia (Fabricante).,Garantia (Fabricante).?
+1618,Identificador de chamadas,Possui Identificador de chamadas?
+1619,Idioma,Qual o Idioma?
+1620,Idioma (Original),Qual o Idioma (Original)?
+1621,Idioma dos Textos,Qual o Idioma dos Textos?
+1622,Idioma Original de um Texto Traduzido,Qual o Idioma Original de um Texto Traduzido?
+1623,Idioma Voz,Qual o Idioma Voz?
+1624,Idiomais suportados,Quais Idiomais suportados?
+1625,Idiomas,Quais Idiomas?
+1626,Idiomas (áudio),Quais os Idiomas (áudio)?
+1627,Idiomas (legenda),Quais os Idiomas (legenda)?
+1628,Idiomas do Menu,Quais Idiomas do Menu?
+1629,Idiomas Voz,Quais Idiomas Voz?
+1630,Iluminação,Possui Iluminação?
+1631,Iluminação interna,Possui Iluminação interna?
+1632,Iluminação/Flash,Qual Iluminação/Flash?
+1633,Ilustrado por,Quem ilustrou?
+1634,Impedância,Qual Impedância?
+1635,Impedância de Entrada,Qual Impedância de Entrada?
+1636,Impedância de saída,Qual Impedância de saída?
+1637,Impedância dos falantes,Qual Impedância dos falantes?
+1638,Impedência de entrada,Qual Impedência de entrada?
+1639,Impermeável,É Impermeável?
+1640,Impressão espelhada,Possui Impressão espelhada?
+1641,Impressão vertical,Possui Impressão vertical?
+1642,Imprime Frente e Verso,Imprime Frente e Verso?
+1643,Incador do nível de água,Possui Incador do nível de água?
+1644,Inclinação do eixo,Qual Inclinação do eixo?
+1645,Inclinável,É Inclinável?
+1646,Inclui Almofada de Pescoço e Lombar,Possui Inclui Almofada de Pescoço e Lombar?
+1647,Inclui capa para fronha,Inclui capa para fronha?
+1648,Inclui dimmer,Inclui dimmer?
+1649,Inclui filtro,Inclui filtro?
+1650,Inclui inflador,Inclui inflador?
+1651,Inclui lâmpada,Inclui lâmpada?
+1652,Incorpora capuz,Incorpora capuz?
+1653,Indica freqüência de descanso,Indica freqüência de descanso?
+1654,Indicação,Qual Indicação?
+1655,Indicação de distância,Possui Indicação de distância?
+1656,Indicação de tempo restante,Possui Indicação de tempo restante?
+1657,Indicação visual e sonora das rotas,Possui Indicação visual e sonora das rotas?
+1658,Indicada para água quente,É Indicada para água quente?
+1659,Indicado para,É Indicado para?
+1660,Indicado para Ambiente,É Indicado para qual Ambiente?
+1661,Indicado para Ambientes de Até (m³),É Indicado para Ambientes de Até (m³)?
+1662,Indicado para competição,É Indicado para competição?
+1663,Indicado para quais tipos de fogões,É Indicado para quais tipos de fogões?
+1664,Indicado para treinamento,É Indicado para treinamento?
+1665,Indicado para Uso,É Indicado para qual Uso?
+1666,Indicado Para:,É Indicado Para?
+1667,Indicador de bateria,Possui Indicador de bateria?
+1668,Indicador de funcionamento,Possui Indicador de funcionamento?
+1669,Indicador de Luz liga/desliga,Possui Indicador de Luz liga/desliga?
+1670,Indicador do Nível de Água,Possui Indicador do Nível de Água?
+1671,Indicador e guia de espessura,Possui Indicador e guia de espessura?
+1672,Indicador Externo de Nível de Água,Possui Indicador Externo de Nível de Água?
+1673,Indicador luminoso de rede,Possui Indicador luminoso de rede?
+1674,Indicador luminoso liga/desliga,Possui Indicador luminoso liga/desliga?
+1675,Índice de carga,Qual Índice de carga?
+1676,Índice de velocidade,Qual Índice de velocidade?
+1677,Índice telefônico,Possui Índice telefônico?
+1678,Inflador elétrico,Possui Inflador elétrico?
+1679,Inflador manual,Possui Inflador manual?
+1680,Informações Adicionais,Informações Adicionais?
+1681,Informações Nutricionais,Quais Informações Nutricionais?
+1682,Informações/lições,Possui Informações/lições?
+1683,Infravermelho,Possui Infravermelho?
+1684,Ingredientes,Quais Ingredientes?
+1685,Injetores,Possui Injetores?
+1686,Inquebrável,É Inquebrável?
+1687,Instalação/Montagem,Como fazer a Instalação/Montagem?
+1688,Instant replay,Possui Instant replay?
+1689,Instruções de Lavagem,Quais Instruções de Lavagem?
+1690,Instruções de Montagem e Instalação,Quais Instruções de Montagem e Instalação?
+1691,Instruções de Uso,Quais Instruções de Uso?
+1692,Instruções de Uso/Lavagem,Quais Instruções de Uso/Lavagem?
+1693,Instruções do Jogo,Quais Instruções do Jogo?
+1694,Luz Indigo,Possui Luz Indigo?
+1695,Luz interna,Possui Luz interna?
+1696,Luz interna no display para melhor visualização,Possui Luz interna no display para melhor visualização?
+1697,Luz noturna,Possui Luz noturna?
+1698,Macia,Possui Macia?
+1699,Macio,É Macio?
+1700,Mais informações,Mais informações importantes
+1701,Formato da Cesta,Qual o Formato da Cesta?
+1702,Formato da folha,Qual Formato da folha?
+1703,Formato de Áudio,Qual o Formato de Áudio?
+1704,Formato de instalação,Qual Formato de instalação?
+1705,Formato de Tela,Qual o Formato de Tela?
+1706,Formato de Vídeo,Qual o Formato de Vídeo?
+1707,Formato do Fundo,Qual o Formato do Fundo?
+1708,Formato do produto,Qual Formato do produto?
+1709,Formato/Idade,Qual Formato/Idade?
+1710,Formato/Palavra/Frase,Qual Formato/Palavra/Frase?
+1711,Formatos,Quais Formatos?
+1712,Formatos automáticos,Possui Formatos automáticos?
+1713,Formatos compatíveis,Quais Formatos compatíveis?
+1714,formatos de arquivo,Quais formatos de arquivo?
+1715,Formatos de Arquivos,Quais Formatos de Arquivos?
+1716,Formatos de Áudio Compatíveis,Quais Formatos de Áudio Compatíveis?
+1717,Formatos de captura,Quais Formatos de captura?
+1718,Formatos de exportação,Quais Formatos de exportação?
+1719,Formatos de fotografia compatíveis,Quais Formatos de fotografia compatíveis?
+1720,Formatos de Imagem Compatíveis,Quais Formatos de Imagem Compatíveis?
+1721,Formatos de importação,Quais Formatos de importação?
+1722,Formatos de Leitura,Quais Formatos de Leitura?
+1723,Formatos de mídias compatíveis,Quais Formatos de mídias compatíveis?
+1724,Formatos de música compatíveis,Quais Formatos de música compatíveis?
+1725,Formatos de tela,Quais Formatos de tela?
+1726,Formatos de Vídeo Compatíveis,Quais Formatos de Vídeo Compatíveis?
+1727,Formatos Reproduzidos Áudio,Quais Formatos Reproduzidos Áudio?
+1728,Formatos reproduzidos de áudio,Quais Formatos reproduzidos de áudio?
+1729,Formatos reproduzidos de vídeo,Quais Formatos reproduzidos de vídeo?
+1730,Formatos Reproduzidos Vídeo,Quais Formatos Reproduzidos Vídeo?
+1731,Garantia do Fornecedor,Qual o tempo de garantia?
+1732,Garantia do Fornecedor (Meses),Qual a Garantia do Fornecedor (Meses)?
+1733,Garantia do Fornecedor (motor e acessórios),Qual a Garantia do Fornecedor (motor e acessórios)?
+1734,garantiaFornecedor,Qual garantiaFornecedor?
+1735,Garfo,Possui Garfo?
+1736,Garrafa inclusa,Vem com folhas inclusas?
+1737,Gás Liquefeito de Petróleo (GLP),Gás Liquefeito de Petróleo (GLP)?
+1738,Gás Natural (GN),Gás Natural (GN)?
+1739,Gás Remanufaturado (GR),Gás Remanufaturado (GR)?
+1740,Gaveta,Possui Gaveta?
+1741,Gavetas,Possui Gavetas?
+1742,Gavetas c/ corrediças,Possui Gavetas c/ corrediças?
+1743,"Gavetas c/ Corrediças, se sim: quantas","Possui Gavetas c/ Corrediças, se sim: quantas ?"
+1744,Gavetas com Corrediças,Possui Gavetas com Corrediças?
+1745,"Gavetas com corrediças, se sim: quantas","Possui Gavetas com corrediças, se sim: quantas ?"
+1746,"Gavetas s/ Corrediças, se sim: quantas","Possui Gavetas s/ Corrediças, se sim: quantas ?"
+1747,"Gavetas sem corrediças, se sim: quantas","Possui Gavetas sem corrediças, se sim: quantas ?"
+1748,Gecirc.Nero,Gecirc.Nero?
+1749,Genêro,Qual Genêro?
+1750,Gênero,Qual o gênero?
+1751,Giro de foto,Possui Giro de foto?
+1752,Golpes por minuto,Quantos Golpes por minuto?
+1753,GPS,Possui GPS?
+1754,Grade de proteção ao usuário,Possui Grade de proteção ao usuário?
+1755,Grade interna / externa,Possui Grade interna / externa?
+1756,Grades removíveis,Possui Grades removíveis?
+1757,Grades/Janelas para ventilação,Possui Grades/Janelas para ventilação?
+1758,Graduação,Qual Graduação?
+1759,Graduação Alcoólica (%),"Qual a graduação alcoólica, em %?"
+1760,Graduação Alcóolica (%),"Qual a graduação alcoólica, em %?"
+1761,Graduações,Possui Graduações?
+1762,Gráficos,Possui Gráficos?
+1763,Gráficos 2D/3D,Possui Gráficos 2D/3D?
+1764,Grafismo,Qual Grafismo?
+1765,Grafismo em adesivo,Possui Grafismo em adesivo?
+1766,Grafismo em relevo,Qual Grafismo em relevo?
+1767,Grafite inclusa,Possui Grafite inclusa?
+1768,Gramatura,Qual Gramatura?
+1769,Gramatura do Papel,Gramatura do Papel?
+1770,Grampos recomendados,Quantos Grampos recomendados?
+1771,Grau de Giro,Qual o Grau de Giro?
+1772,Grau de Inclinação,Qual o Grau de Inclinação?
+1773,Grau de Proteção (classe),Qual o Grau de Proteção (classe)?
+1774,Grau de Reclínio Máximo,Qual o Grau de Reclínio Máximo?
+1775,Grava música,Grava música?
+1776,Grava Programas,Grava Programas?
+1777,Gravação,Possui Gravação?
+1778,Gravação de Conversas,Possui Gravação de Conversas?
+1779,Gravador de Voz,Possui Gravador de Voz?
+1780,Gravadora,Qual a gravadora?
+1781,Grelha,É Grelha?
+1782,Grelhas,Quais Grelhas?
+1783,Grill,É Grill?
+1784,Grip,É Grip?
+1785,Grupo,Grupo?
+1786,Gtin-13,Qual o código Gtin-13?
+1787,Guidão,Possui Guidão?
+1788,Harmonização,Qual Harmonização?
+1789,Haste prolongadora,Possui Haste prolongadora?
+1790,HD,Possui HD?
+1791,HD interno,Possui HD interno?
+1792,Hdmi,Possui Hdmi?
+1793,Hélice,Possui Hélice?
+1794,High Pass,Qual High Pass?
+1795,Higiênica,Possui Higiênica?
+1796,Higiênico,É Higiênico?
+1797,Hipoalergênico,É Hipoalergênico?
+1798,Histórico,Possui Histórico?
+1799,Idade recomendada,Qual a faixa etária indicada?
+1800,Idade Recomendada:,Idade Recomendada:?
+1801,Estilo do Relógio,Qual Estilo do Relógio?
+1802,Estojo incluso,Vem com Estojo incluso?
+1803,Estrado com regulagem de altura,O estrado tem regulagem de altura?
+1804,Estrutura,Qual Estrutura?
+1805,Estrutura - Balanço,Possui Estrutura - Balanço?
+1806,Estrutura - Base Cromada,Possui Estrutura - Base Cromada?
+1807,Estrutura - Com Braço,Possui Estrutura - Com Braço?
+1808,Estrutura - Giratória,Possui Estrutura - Giratória?
+1809,Estrutura - Modular,Possui Estrutura - Modular?
+1810,Estrutura - Reclinável,Possui Estrutura - Reclinável?
+1811,Estrutura - Regulagem de Altura  a Gás,Possui Estrutura - Regulagem de Altura  a Gás?
+1812,Estrutura - Regulagem de Altura a Gás,"Estrutura - Possui Regulagem de Altura a Gás=A829 & ""?"""
+1813,Estrutura - Regulável,Possui Estrutura - Regulável?
+1814,Estrutura - Retrátil,Possui Estrutura - Retrátil?
+1815,Estrutura - Rodízio,Possui Estrutura - Rodízio?
+1816,Estrutura da porta,Qual Estrutura da porta?
+1817,Estrutura do Colchão,Qual Estrutura do Colchão?
+1818,Estrutura interna,Qual Estrutura interna?
+1819,Estrutura: Rodízio,Possui Estrutura: Rodízio?
+1820,Estufa móvel,Possui Estufa móvel?
+1821,Exala perfume / produto químico?,Exala perfume / produto químico??
+1822,Exala Produto Químico?,Exala Produto Químico?
+1823,Executado por,Executado por?
+1824,Exibe distância,Exibe distância?
+1825,Expansão por Cartões,Possui Expansão por Cartões?
+1826,Expansivo até,É Expansivo até?
+1827,Expansivo até?,É Expansivo até?
+1828,extCaboAudio,Possui extCaboAudio?
+1829,Extensão do cabo,Qual Extensão do cabo?
+1830,Extras,Quais Extras?
+1831,EZ View,Possui EZ View?
+1832,Fabricante,Quem é o fabricante?
+1833,Fabricante / SAC,Qual Fabricante / SAC?
+1834,Fabricante peça,Qual Fabricante peça?
+1835,Faixa,Qual Faixa?
+1836,Faixa de Corrente (A),Quais Faixa de Corrente (A)?
+1837,Faixa de medição,Qual Faixa de medição?
+1838,Faixa de Peso Suportado (Kg),Qual a Faixa de Peso Suportado (Kg)?
+1839,Faixa de Temperatura,Quais Faixa de Temperatura?
+1840,Faixa de torque,Qual Faixa de torque?
+1841,Faixa Etária,Qual Faixa Etária?
+1842,Faixa etária recomendada,Qual Faixa etária recomendada?
+1843,Faixas,Quantas Faixas?
+1844,Família,Qual Família?
+1845,Família Olfativa,Qual Família Olfativa?
+1846,Farol,Possui Farol?
+1847,Fator de Proteção Solar,Qual Fator de Proteção Solar?
+1848,Formatos Suportados,Quais Formatos Suportados?
+1849,Fornecedor,Qual o nome do fornecedor?
+1850,Forno,Possui Forno?
+1851,Forno autolimpante,Possui Forno autolimpante?
+1852,Forração removível e lavável,Qual Forração removível e lavável?
+1853,Forro,Possui Forro?
+1854,Forro interno,Possui Forro interno?
+1855,Foto CD,Possui Foto CD?
+1856,Fotografias por,Fotografias por?
+1857,Fotos,Possui Fotos?
+1858,Fragância,Qual Fragância?
+1859,Fragrância,Qual Fragrância?
+1860,Fralda para banho,É Fralda para banho?
+1861,Frangância,Possui Frangância?
+1862,Freio,Possui Freio?
+1863,Freios,Possui Freios?
+1864,Frequecirc.Ncia,Frequecirc.Ncia?
+1865,Frequência,Qual Frequência?
+1866,Freqüência,Qual Freqüência?
+1867,Frequencia (Hz),Qual a Frequencia (Hz)?
+1868,Frequência (Hz),Qual a Frequência (Hz)?
+1869,Frequência com Tecnologia,Qual Frequência com Tecnologia?
+1870,Frequência da rede (Hz),Qual a Frequência da rede (Hz)?
+1871,Frequência de Resposta,Qual Frequência de Resposta?
+1872,Frequência em HZ,Qual Frequência em HZ?
+1873,Fritadeira: cesta removível?,A fritadeira tem cesta removível?
+1874,Fronteiras,Possui Fronteiras?
+1875,Frquência (Hz),Qual a Frquência (Hz)?
+1876,Frutas Recomendadas,Frutas Recomendadas?
+1877,Função,Qual Função?
+1878,Função Câmera Fotográfica,Possui Função Câmera Fotográfica?
+1879,Função Copiadora,Possui Função Copiadora?
+1880,Função Demo,Possui Função Demo?
+1881,Função depurador,Possui Função depurador?
+1882,Função exaustor,Possui Função exaustor?
+1883,Função gravação,Possui Função gravação?
+1884,Função Karaokê,Possui Função Karaokê?
+1885,Função Multiângulo,Possui Função Multiângulo?
+1886,Função mute,Possui Função mute?
+1887,Função Pausa,Possui Função Pausa?
+1888,Função Rediscagem,Possui Função Rediscagem?
+1889,Função refrigerador,Possui Função refrigerador?
+1890,Função repelente,Possui Função repelente?
+1891,Função Resume,Possui Função Resume?
+1892,Função sleep,Possui Função sleep?
+1893,Função Soneca,Possui Função Soneca?
+1894,Função Swing,Possui Função Swing?
+1895,Função Telefone,Possui Função Telefone?
+1896,Função temperatura,Possui Função temperatura?
+1897,Função Umidificador,Possui Função Umidificador?
+1898,Função Ventilar,Possui Função Ventilar?
+1899,Funccedil.Otilde.Es,Funccedil.Otilde.Es?
+1900,Funciona apenas online,Funciona apenas online?
+1901,Editor da Versão Original,Quem é Editor da Versão Original?
+1902,Editor Técnico,Quem é Editor Técnico?
+1903,Editora,Qual a Editora?
+1904,Editor-chefe,Editor-chefe?
+1905,Edredom dupla face,Possui Edredom dupla face?
+1906,Efeito 3D,Possui Efeito 3D?
+1907,Efeitos,Quais Efeitos?
+1908,Efeitos digitais,Quais Efeitos digitais?
+1909,Efeitos Especiais,Quais Efeitos Especiais?
+1910,Efeitos musicais,Possui Efeitos musicais?
+1911,Efeitos visuais,Quais Efeitos visuais?
+1912,Eficiência,Eficiência?
+1913,Eficiência energética,Qual Eficiência energética?
+1914,Elástico para fixação de roupa,Possui Elástico para fixação de roupa?
+1915,Elétrico,É Elétrico?
+1916,Eliminação de fiapos,Possui Eliminação de fiapos?
+1917,Embalados Individualmente,São Embalados Individualmente?
+1918,Embalagem,Qual Embalagem?
+1919,Empilhável,É Empilhável?
+1920,Empunhadura,Possui Empunhadura?
+1921,Empunhadura anatômica,Possui Empunhadura anatômica?
+1922,Empurrador de Alimentos,É Empurrador de Alimentos?
+1923,Enchimento,Qual Enchimento?
+1924,Encordoamento,Possui Encordoamento?
+1925,Encosto,Possui Encosto?
+1926,Encosto ajustável,Possui Encosto ajustável?
+1927,Encosto de Cabeça,Possui Encosto de Cabeça?
+1928,Encosto reclinável,Possui Encosto reclinável?
+1929,Engate,Possui Engate?
+1930,Engrenagem,Possui Engrenagem?
+1931,Entrada auxiliar para MP3 ou Ipod,Possui Entrada auxiliar para MP3 ou Ipod?
+1932,Entrada com zíper,Possui Entrada com zíper?
+1933,Entrada para fone de ouvido,Possui Entrada para fone de ouvido?
+1934,Entrada para qual modelo de Cartão de Memória,Possui Entrada para qual modelo de Cartão de Memória?
+1935,Entrada/Saída,Entrada/Saída?
+1936,Entradas,Possui quantas Entradas?
+1937,Entradas de ar,Possui Entradas de ar?
+1938,Entrevistado,Qual Entrevistado?
+1939,Entrevistador,Qual Entrevistador?
+1940,Envelope,Possui Envelope?
+1941,Envelope incluso,Possui Envelope incluso?
+1942,Equalizações,Possui Equalizações?
+1943,Equalizador,Possui Equalizador?
+1944,Equalizador de vídeo,Possui Equalizador de vídeo?
+1945,Equalizadores,Possui Equalizadores?
+1946,Equipamentos compatíveis,Quais Equipamentos compatíveis?
+1947,Ergonômico,É Ergonômico?
+1948,Escada,Possui Escada?
+1949,Escada Dupla,Possui Escada Dupla?
+1950,Escala,Qual Escala?
+1951,Escala de aferição (ml),Qual a Escala de aferição (ml)?
+1952,Escolar,É Escolar?
+1953,Escorredor,Possui Escorredor?
+1954,Esguicho,Possui Esguicho?
+1955,Esguicho com regulagem,Possui Esguicho com regulagem?
+1956,Espaçamento Ideal Entre as Peças,Qual Espaçamento Ideal Entre as Peças?
+1957,Espaçamento no Plantio,Qual Espaçamento no Plantio?
+1958,Espaço para aniversários,Possui Espaço para aniversários?
+1959,Fauna e Flora,Possui Fauna e Flora?
+1960,Fax Modem,Possui Fax Modem?
+1961,Fechamento,Qual Fechamento?
+1962,Fechamento hermético,Possui Fechamento hermético?
+1963,Fecho,Qual Fecho?
+1964,Felpuda,É Felpuda?
+1965,Felpudo,É Felpudo?
+1966,Ferragens,Possui que tipos de Ferragens?
+1967,Ferramenta Indicada para Aplicação,Qual Ferramenta Indicada para Aplicação?
+1968,Fila de chamadas,Possui Fila de chamadas?
+1969,Filmadora,É Filmadora?
+1970,Filtro,Possui Filtro?
+1971,Filtro de água,Possui Filtro de água?
+1972,Filtro de entrada de água,Possui Filtro de entrada de água?
+1973,Filtro de proteção ativa,Possui Filtro de proteção ativa?
+1974,Filtro lavável,Possui Filtro lavável?
+1975,Filtro para Impurezas,Possui Filtro para Impurezas?
+1976,Filtros,Possui Filtros?
+1977,Finalidade,Qual Finalidade?
+1978,Fingerboard,Fingerboard?
+1979,Fixação,Qual Fixação?
+1980,Fixação com elástico,Possui Fixação com elástico?
+1981,Fixação com zíper,Possui Fixação com zíper?
+1982,Fixo,É Fixo?
+1983,Flash,Qual Flash?
+1984,Flexível,É Flexível?
+1985,Floração/Germinação,Floração/Germinação?
+1986,Fluorescente,É Fluorescente?
+1987,Fluosforecente,É Fluosforecente?
+1988,Flutuante,É Flutuante?
+1989,Fluxo de litros/hora,Qual Fluxo de litros/hora?
+1990,Fole embutido,Possui Fole embutido?
+1991,Folhas,Quais Folhas?
+1992,Folhas coloridas,Possui Folhas coloridas?
+1993,Folhas decoradas,Possui Folhas decoradas?
+1994,Folhas inclusas,Vem com folhas inclusas?
+1995,Folhas pautadas,Possui Folhas pautadas?
+1996,Fonte,Fonte?
+1997,Fonte de Alimentação,Fonte de Alimentação?
+1998,Formato,Qual o formato?
+1999,Formato 12/24 horas,Possui Formato 12/24 horas?
+2000,Formato da Base,Qual o Formato da Base?
+2001,Dimensões aproximadas do monofone - cm (AxLxP),Quais as dimensões do monofone? (Altura x Largura x Profundidade)
+2002,Dimensões aproximadas do Mouse (cm) - AxLxP,Quais as dimensões do mouse? (Altura x Largura x Profundidade)
+2003,Dimensões aproximadas do móvel montado - cm (AxLxP),Quais as dimensões do móvel montado? (Altura x Largura x Profundidade)
+2004,Dimensões aproximadas do produto - AxLxP (cm),"Quais as dimensões da embalagem, juntamente com o produto? (Altura x Largura x Profundidade)"
+2005,Dimensões do Produto (LxC),Quais as Dimensões do Produto (LxC)?
+2006,Dimensões do Produto sem Embalagem (AxLxP),"Quais as dimensões do produto, sem embalagem? (Altura x Largura x Profundidade)"
+2007,Dimensões Embalagem - Cm (AxLxP),Quais as Dimensões Embalagem - Cm (AxLxP)?
+2008,Dimensões externas (cm),Quais as Dimensões externas (cm)?
+2009,Dimensões externas do barco inflado,Quais as Dimensões externas do barco inflado?
+2010,Dimensões internas (cm),Quais as Dimensões internas (cm)?
+2011,Dimensões internas do barco inflado,Quais as Dimensões internas do barco inflado?
+2012,Dimensões Produto - cm (AxLxP),Quais as dimensões do produto? (Altura x Largura x Profundidade)
+2013,Dimensões sem embalagem (AxLxP),"Quais as dimensões do produto, sem embalagem? (Altura x Largura x Profundidade)"
+2014,DimensoesProduto5561,DimensoesProduto5561?
+2015,Dimensotilde.Es,Dimensotilde.Es?
+2016,Dimensotilde.Es Aproximadas da Embalagem do Produto (Cm) - Axlxp,Quais Dimensotilde.Es Aproximadas da Embalagem do Produto (Cm) - Axlxp?
+2017,Dimensotilde.Es Aproximadas do Produto (Cm) - Axlxp,Quais Dimensotilde.Es Aproximadas do Produto (Cm) - Axlxp?
+2018,DinvX,Possui DinvX?
+2019,Direcionadores de Ar,Possui Direcionadores de Ar?
+2020,Direct Navigator,Possui Direct Navigator?
+2021,Discagem Abreviada,Possui Discagem Abreviada?
+2022,Disco Rígido,Disco Rígido?
+2023,Dispenser de água externo/interno,Possui Dispenser de água externo/interno?
+2024,Dispenser individuais,Possui Dispenser individuais?
+2025,Dispensers individuais,Possui Dispensers individuais?
+2026,Display,Qual Display?
+2027,Display com LED colorido,Possui Display com LED colorido?
+2028,Display Digital,Possui Display Digital?
+2029,Display iluminado,Possui Display iluminado?
+2030,Display Luminoso,Possui Display Luminoso?
+2031,Display/Monitor,Possui Display/Monitor?
+2032,Display/Tela,Qual Display/Tela?
+2033,Display/Visor,Display/Visor?
+2034,Dispositivo de segurança,Possui Dispositivo de segurança?
+2035,Distância do furo central ao eixo,Qual a Distância do furo central ao eixo?
+2036,Distância Entre as Marcações,Qual a Distância Entre as Marcações?
+2037,Distância entre furos,Qual a Distância entre furos?
+2038,Distância Focal,Qual Distância Focal?
+2039,Distância fora da base,Qual Distância fora da base?
+2040,Distância Máxima de Alcance,Qual a Distância Máxima de Alcance?
+2041,Distância Máxima Entre os Módulos (m),Qual a Distância Máxima Entre os Módulos (m)?
+2042,Distância Mínima de Alcance,Qual a Distância Mínima de Alcance?
+2043,Distorção Harmônica Total,Qual Distorção Harmônica Total?
+2044,Distribuição de ração,Qual Distribuição de ração?
+2045,Divisórias inclusas,Possui Divisórias inclusas?
+2046,Dobrável,É Dobrável?
+2047,DOI,Qual o DOI?
+2048,Dolby Digital,Possui Dolby Digital?
+2049,Dosagem/Posologia,Qual Dosagem/Posologia?
+2050,Dreno de degelo,Possui Dreno de degelo?
+2051,Drives,Possui Drives?
+2052,DTS,Possui DTS?
+2053,Dual Time,Possui Dual Time?
+2054,Ducha manual,Possui Ducha manual?
+2055,Dupla emissão de ondas,Possui Dupla emissão de ondas?
+2056,Dupla Face,Possui Dupla Face?
+2057,Duplo Deck,Possui Duplo Deck?
+2058,Duplo Horário,Possui Duplo Horário?
+2059,Duração (em Minutos),Qual a Duração (em Minutos)?
+2060,Duração Aproximada da Bateria,Qual Duração Aproximada da Bateria?
+2061,Duração da bateria,Qual a Duração da bateria?
+2062,Duração da bateria com o fone fora da base,Qual Duração da bateria com o fone fora da base?
+2063,DVE (Realçador Digital de Vídeo),Possui DVE (Realçador Digital de Vídeo)?
+2064,EAN,Qual o EAN?
+2065,"EAN do Item - Código de Barras do Item. (Quando Tiver Mais de um Ean P/ o Mesmo Item, Devem Estar Separados por "","" (virgula)","EAN do Item - Código de Barras do Item. (Quando Tiver Mais de um Ean P/ o Mesmo Item, Devem Estar Separados por "","" (virgula)?"
+2066,Ecológico,É Ecológico?
+2067,Edição,Qual a Edição?
+2068,Edição Especial,É Edição Especial?
+2069,Editado por,Editado por?
+2070,Editor Associado,Quem é Editor Associado?
+2071,Editor Consultor,Quem é Editor Consultor?
+2072,Espaço para anotações,Possui Espaço para anotações?
+2073,Espaço para anotações pessoais,Possui Espaço para anotações pessoais?
+2074,Espaço para objetos decorativos,Possui Espaço para objetos decorativos?
+2075,Espaço requerido no HD,Qual o Espaço requerido no HD?
+2076,Espelho,Possui Espelho?
+2077,Espessura,Qual o Espessura?
+2078,Espessura da caixa (cm),Qual a Espessura da caixa (cm)?
+2079,Espessura da lâmina (cm),Qual a Espessura da lâmina (cm)?
+2080,Espessura da linha,Qual o Espessura da linha?
+2081,Espessura do traço,Qual o Espessura do traço?
+2082,Espessura do Traço (mm),Qual Espessura do Traço (mm)?
+2083,Espessura Mínima da Porta,Qual Espessura Mínima da Porta?
+2084,Espeto Giratório,Possui Espeto Giratório?
+2085,Espetos Giratórios,Possui Espetos Giratórios?
+2086,Espetos Inclusos,Possui Espetos Inclusos?
+2087,Espiral,Possui Espiral?
+2088,Espuma,Qual Espuma?
+2089,Estabilizador de Imagem,Possui Estabilizador de Imagem?
+2090,Estabilizadores laterais,Possui Estabilizadores laterais?
+2091,Estágios de regulação,Quantos Estágios de regulação?
+2092,Estampa,Qual o Estampa?
+2093,Estampa/Cor,Qual o Estampa/Cor?
+2094,Estampada,É Estampada?
+2095,Estampado,É Estampado?
+2096,Estandarte,Qual Estandarte?
+2097,Estéreo,É Estéreo?
+2098,Estilo,Qual Estilo?
+2099,Estilo de Fone,Qual Estilo de Fone?
+2100,Estilo de letras,Qual Estilo de letras?
+2101,Controle de Velocidade,Possui Controle de Velocidade?
+2102,Controle de volume,Possui Controle de volume?
+2103,Controle do Volume,Possui Controle do Volume?
+2104,Controle remoto,Possui Controle remoto?
+2105,Controle Remoto:,Possui Controle Remoto:?
+2106,Controles,Possui Controles?
+2107,Controles de Tons,Quais Controles de Tons?
+2108,controlVolumeAudio,Possui controlVolumeAudio?
+2109,Conversão 3D,Possui Conversão 3D?
+2110,Conversão de passos em km,Possui Conversão de passos em km?
+2111,Conversor AC/DC,Possui Conversor AC/DC?
+2112,Conversor Digital Integrado,Possui Conversor Digital Integrado?
+2113,Coolers,Quais Coolers?
+2114,Coordenação Editorial por,Coordenação Editorial por?
+2115,Cópia controlada,Possui Cópia controlada?
+2116,COR,Qual a COR?
+2117,Cor - Ficha Técnica,Qual Cor - Ficha Técnica?
+2118,Desmontável/Dobrável,É Desmontável/Dobrável?
+2119,Desodorizador,Possui Desodorizador?
+2120,Despertador,Possui Despertador?
+2121,Detalhes,Detalhes?
+2122,Determina nível de condicionamento físico,Determina nível de condicionamento físico?
+2123,Dial luminoso,Possui Dial luminoso?
+2124,Diâmetro,Qual Diâmetro?
+2125,Diâmetro Arame,Qual o Diâmetro Arame?
+2126,Diâmetro da Boca,Qual o Diâmetro da Boca?
+2127,Diâmetro da Lente,Qual o Diâmetro da Lente?
+2128,Diâmetro da panela (cm),Qual o Diâmetro da panela (cm)?
+2129,Diâmetro de cada peça (cm),Qual o Diâmetro de cada peça (cm)?
+2130,Diâmetro de Entrada,Qual o Diâmetro de Entrada?
+2131,Diâmetro do corte,Qual Diâmetro do corte?
+2132,Diâmetro do Fio,Qual o Diâmetro do Fio?
+2133,Diâmetro do Guarda-chuva Aberto,Qual o Diâmetro do Guarda-chuva Aberto?
+2134,Diâmetro do vidro (cm),Qual o Diâmetro do vidro (cm)?
+2135,Diâmetro dos furos,Qual Diâmetro dos furos?
+2136,Diâmetro externo da esfera,Qual Diâmetro externo da esfera?
+2137,Diâmetro/Largura,Qual Diâmetro/Largura?
+2138,Dicas,Quais Dicas?
+2139,Diet,Diet?
+2140,Diferenciais,Quais os Diferenciais?
+2141,Digital,É Digital?
+2142,Digital Video Enhancer,Possui Digital Video Enhancer?
+2143,Diluição,Qual Diluição?
+2144,Dimensão da Área de Pesagem,Qual Dimensão da Área de Pesagem?
+2145,Dimensão Externa (cm),Qual Dimensão Externa (cm)?
+2146,Dimensões (A X L X P Mm),Quais as Dimensões (A X L X P Mm)?
+2147,Dimensões (AxL),Quais as Dimensões (AxL)?
+2148,Dimensões (L X P X A),Quais as Dimensões (L X P X A)?
+2149,Dimensões Aproximadas Cm (Axlxp),Quais as Dimensões Aproximadas Cm (Axlxp)?
+2150,Dimensões aproximadas da arte - cm (AxLxP),Quais as Dimensões aproximadas da arte - cm (AxLxP)?
+2151,Dimensões aproximadas da base - cm (AxLxP),Quais as dimensões da base? (Altura x Largura x Profundidade)
+2152,Dimensões Aproximadas da Cesta - Cm (AxLxP),Quais as Dimensões Aproximadas da Cesta - Cm (AxLxP)?
+2153,Dimensões aproximadas da CPU (cm) - AxLxP,Qual a resolução? (megapixels / pixels)
+2154,Dimensões Aproximadas da Embalagem - cm (AxLxP),Quais as dimensões da embalagem? (Altura x Largura x Profundidade)
+2155,Dimensões Aproximadas da Embalagem (AxLxP),Quais as Dimensões Aproximadas da Embalagem (AxLxP)?
+2156,Dimensões aproximadas da embalagem (cm),Quais as dimensões da CPU? (Altura x Largura x Profundidade)
+2157,Dimensões aproximadas da embalagem (cm) - AxLxP,"Quais as Características das peças? (xícara, pires e prato)"
+2158,Dimensões aproximadas da embalagem c/ produto - cm (AxLxP),"Quais as dimensões da embalagem, com o produto? (Altura x Largura x Profundidade)"
+2159,Dimensões aproximadas da embalagem c/ produto (AxLxP),"Quais as dimensões da embalagem, com o produto? (Altura x Largura x Profundidade)"
+2160,Dimensões aproximadas da embalagem com produto - cm (AxLxP),"Quais as dimensões da embalagem, com o produto? (Altura x Largura x Profundidade)"
+2161,Dimensões Aproximadas da Embalagem do Produto,Quais as Dimensões Aproximadas da Embalagem do Produto?
+2162,Dimensões aproximadas da embalagem do produto - cm (AxLxP),Quais as dimensões da embalagem? (Altura x Largura x Profundidade)
+2163,Dimensões Aproximadas da Embalagem do Produto (AxLxP),Quais as Dimensões Aproximadas da Embalagem do Produto (AxLxP)?
+2164,Dimensões Aproximadas da Embalagem do Produto (Cm) - Axlxc,Quais as Dimensões Aproximadas da Embalagem do Produto (Cm) - Axlxc?
+2165,Dimensões aproximadas da embalagem do produto (cm) - AxLxP,"Quais as dimensões do produto, sem a base? (Altura x Largura x Profundidade)"
+2166,Dimensões aproximadas da produto - cm (AxLxP),Quais as dimensões do produto? (Altura x Largura x Profundidade)
+2167,Dimensões aproximadas das peças (cm) - AxLxP,Quais as dimensões das peças? (Altura x Largura x Profundidade)
+2168,Dimensões aproximadas de cada peça,Quais as dimensões de cada peça?
+2169,Dimensões aproximadas de cada peça (cm) - AxLxP,Quais as dimensões de cada peça? (Altura x Largura x Profundidade)
+2170,Dimensões aproximadas do produto - cm  (AxLxP),Quais as dimensões do produto? (Altura x Largura x Profundidade)
+2171,Dimensões aproximadas do produto - cm (AxLxP),Quais as dimensões do produto? (Altura x Largura x Profundidade)
+2172,Dimensões aproximadas do produto (AxLxP),Quais as dimensões do produto? (Altura x Largura x Profundidade)
+2173,Dimensões aproximadas do produto (AxLxP)cm,Quais as dimensões do produto? (Altura x Largura x Profundidade)
+2174,Dimensões aproximadas do produto (c/ base) - AxLxP,Quais as dimensões do produto? (Altura x Largura x Profundidade)
+2175,Dimensões aproximadas do produto (cm - AxLxP),Quais as dimensões do produto? (cm)
+2176,Dimensões aproximadas do produto (cm),Quais as dimensões da embalagem? (Altura x Largura x Profundidade)
+2177,Dimensões Aproximadas do Produto (Cm) - Axlxc,Quais as Dimensões Aproximadas do Produto (Cm) - Axlxc?
+2178,Dimensões aproximadas do produto (cm) - AxLxP,Quais as dimensões do produto? (Altura x Largura x Profundidade)
+2179,Dimensões aproximadas do produto (cm) - AxLxP ou Diâmetro x P,"Quais as dimensões do produto? (Altura x Largura x Profundidade, ou Diâmetro x Profundidade)"
+2180,Dimensões aproximadas do produto (cm) - AxLxP:,Quais as dimensões do produto? (Altura x Largura x Profundidade)
+2181,Dimensões aproximadas do produto (cm) - AxLxP: *,Quais as dimensões do produto? (Altura x Largura x Profundidade)
+2182,Dimensões aproximadas do produto (s/ base) - AxLxP,"Quais as dimensões do produto, sem a base? (Altura x Largura x Profundidade)"
+2183,Dimensões Aproximadas do Produto C/ Embalagem - Cm (AxLxP),Quais as Dimensões Aproximadas do Produto C/ Embalagem - Cm (AxLxP)?
+2184,Dimensões aproximadas do produto c/ embalagem (cm - AxLxP),Quais as dimensões do produto? (cm)
+2185,Dimensões aproximadas do produto c/ embalagem (cm) - AxLxP,"Quais as dimensões do produto, com a embalagem? (Altura x Largura x Profundidade)"
+2186,Dimensões aproximadas do produto c/ pés niveladores - cm (AxLxP),"Quais as dimensões do produto, com os pés niveladores? (Altura x Largura x Profundidade)"
+2187,Dimensões Aproximadas do Produto com Embalagem,Quais as Dimensões Aproximadas do Produto com Embalagem?
+2188,Dimensões aproximadas do produto com embalagem (AxLxP),"Quais as dimensões do produto, com a embalagem? (Altura x Largura x Profundidade)"
+2189,Dimensões Aproximadas do Produto com Embalagem (cm) - AxLxP,Quantas xícaras prepara?
+2190,Dimensões aproximadas do produto inflado (cm) - AxLxP,Qual o tamanho do produto inflado? (Altura x Largura x Profundidade)
+2191,Dimensões aproximadas do produto montado (cm) - AxLxP,Quais as dimensões do produto montado? (Altura x Largura x Profundidade)
+2192,Dimensões aproximadas do produto sem embalagem (AxLxP),"Quais as dimensões do produto, sem a embalagem? (Altura x Largura x Profundidade)"
+2193,Dimensões aproximadas do teclado (cm) - AxLxP,Quais as dimensões do teclado? (Altura x Largura x Profundidade)
+2194,Dimensões Cm (Axlxp),Quais as Dimensões Cm (Axlxp)?
+2195,Dimensões da Embalagem - Cm (AxLxP),Quais as Dimensões da Embalagem - Cm (AxLxP)?
+2196,Dimensões das Bocas,Quais as Dimensões das Bocas?
+2197,Dimensões do Assento - Cm (LxA),Quais as Dimensões do Assento - Cm (LxA)?
+2198,Dimensões do Encosto - Cm (LxA),Quais as Dimensões do Encosto - Cm (LxA)?
+2199,Dimensões do produto - cm (AxLxP),Quais as dimensões do produto? (Altura x Largura x Profundidade)
+2200,Dimensões do Produto (AxLxP),Quais as dimensões do produto? (Altura x Largura x Profundidade)
+2201,Composição/Material,Qual a Composição/Material?
+2202,Composição/Material da base,Qual a Composição/Material da base?
+2203,Composição/Material do corpo,Qual Composição/Material do corpo?
+2204,Composição/Material do Gabinete,Qual Composição/Material do Gabinete?
+2205,Composição/Material/Tecido,Qual Composição/Material/Tecido?
+2206,Composição/papel,Qual Composição/papel?
+2207,Composição/Tecido,Qual Composição/Tecido?
+2208,Composiccedil.Atilde.O/Material,Composiccedil.Atilde.O/Material?
+2209,Compressor,Possui Compressor?
+2210,Comprimento,Qual Comprimento?
+2211,Comprimento da Barra,Qual o Comprimento da Barra?
+2212,Comprimento da Cabeceira,Qual o Comprimento da Cabeceira?
+2213,Comprimento da lâmina,Qual Comprimento da lâmina?
+2214,Comprimento da Magueira (cm):,Qual o Comprimento da Magueira (cm):?
+2215,Comprimento da Mangueira (cm),Qual o Comprimento da Mangueira (cm)?
+2216,Comprimento da pista,Qual Comprimento da pista?
+2217,Comprimento da Pulseira (cm),Qual a Comprimento da Pulseira (cm)?
+2218,Comprimento do Cabo,Qual o Comprimento do Cabo?
+2219,Comprimento do Cano,Qual Comprimento do Cano?
+2220,Comprimento do fio,Qual Comprimento do fio?
+2221,Comprimento do fio (cm),Qual o Comprimento do fio (cm)?
+2222,"Comprimento do fio (cm, m)",Qual a resolução máxima? (em megapixels)
+2223,Comprimento do Produto (Montado)(Cm),Qual o Comprimento do Produto (Montado)(Cm)?
+2224,Comprimento do Tronco (cm),Qual o Comprimento do Tronco (cm)?
+2225,Comprimento total,Qual Comprimento total?
+2226,Cor (es),Quais as cores?
+2227,Cor (Id 42427),Qual a Cor (Id 42427)?
+2228,Cor / Acabamento,Qual a Cor / Acabamento?
+2229,Cor da Armação,Qual a Cor da Armação?
+2230,Cor da Caixa,Qual a Cor da Caixa?
+2231,Cor da cerveja,Qual Cor da cerveja?
+2232,Cor da Cuba,Qual a Cor da Cuba?
+2233,Cor da Ferragem,Qual a Cor da Ferragem?
+2234,Cor da guitarra,Qual Cor da guitarra?
+2235,Cor da impressora,Qual Cor da impressora?
+2236,Cor da Pulseira,Qual Cor da Pulseira?
+2237,Cor da tinta,Qual Cor da tinta?
+2238,Cor das ferragens,Qual Cor das ferragens?
+2239,Cor das Lentes,Qual a Cor das Lentes?
+2240,Cor do Contrabaixo,Qual a Cor do Contrabaixo?
+2241,Cor do Item,Qual Cor do Item?
+2242,Cor do Produto,Qual Cor do Produto?
+2243,Cor Módulo Externo,Qual a Cor Módulo Externo?
+2244,Cor Módulo Interno,Qual a Cor Módulo Interno?
+2245,Cor/Acabamento,Qual Cor/Acabamento?
+2246,Cor/Estampa,Qual Cor/Estampa?
+2247,cor5561,Qual cor5561?
+2248,Cordão,Qual Cordão?
+2249,Cordas,Tem quantas Cordas?
+2250,Cores,Quais Cores?
+2251,Coronha,Qual Coronha?
+2252,Corpo,Qual Corpo?
+2253,Correia,Qual Correia?
+2254,Corrente,Qual Corrente?
+2255,Corrente (A),Qual a Corrente (A)?
+2256,Corrente Máxima (A),Qual Corrente Máxima (A)?
+2257,Correntes marítimas,Possui Correntes marítimas?
+2258,Cortador de fita manual,Possui Cortador de fita manual?
+2259,Cortador de Linhas,Possui Cortador de Linhas?
+2260,Cortador de Metal,Possui Cortador de Metal?
+2261,Corte (cm),Qual Corte (cm)?
+2262,Cortiça do Todel,Possui Cortiça do Todel?
+2263,Coxim,Qual Coxim?
+2264,Cravelhas,Possui Cravelhas?
+2265,Criado por,Criado por?
+2266,Crocante,É Crocante?
+2267,Cronógrafo,Possui Cronógrafo?
+2268,Cronômetro,Possui Cronômetro?
+2269,Cuba Móvel,Possui Cuba Móvel?
+2270,Cuidados,Quais Cuidados?
+2271,Curvas,Possui Curvas?
+2272,Dados do treino,Possui Dados do treino?
+2273,Data de lançamento,Qual Data de lançamento?
+2274,Data de Publicação,Qual a Data de Publicação?
+2275,Data e Hora,Possui Data e Hora?
+2276,Datums,Quais Datums?
+2277,Decodificadores,Possui Decodificadores?
+2278,Decorada,É Decorada?
+2279,Decorado,É Decorado?
+2280,Degelo automático,Possui Degelo automático?
+2281,Degraus,Possui Degraus?
+2282,Delimita o tempo de ligações externa,Delimita o tempo de ligações externa?
+2283,Delimitações de Cores,Quais Delimitações de Cores?
+2284,Delimitações por Cores,Possui Delimitações por Cores?
+2285,Densidade,Qual Densidade?
+2286,Depósito,Possui Depósito?
+2287,Descanso de Pés,Possui Descanso de Pés?
+2288,Descanso para Espetos Parados,Possui Descanso para Espetos Parados?
+2289,Descrição / Chamada Vendedor,Qual Descrição / Chamada Vendedor?
+2290,Descrição do assento,Descrição do assento
+2291,Descrição do cinto,Descrição do cinto
+2292,Descrição e número  de peças,Descrição e número  de peças
+2293,Descrição e número de peças,Descrição e número de peças
+2294,Descrição e número de produtos da cesta,Descrição e número de produtos da cesta
+2295,Desenho,Qual Desenho?
+2296,Desenvolvedor,Quem é o Desenvolvedor?
+2297,Design anatômico,Possui Design anatômico?
+2298,Design da Capa ou Arte por,Qual Design da Capa ou Arte por?
+2299,Deslocamento teórico,Qual Deslocamento teórico?
+2300,Desmontável,É Desmontável?
+2301,Clima,Qual Clima?
+2302,Clip de Cinto,Possui Clip de Cinto?
+2303,Clip para cinto,Possui Clip para cinto?
+2304,ClipparaCinto,Possui ClipparaCinto?
+2305,Closed Caption,Possui Closed Caption?
+2306,Coacute.Digo de Barras,Coacute.Digo de Barras?
+2307,Cobertura / Regiões de Abrangência,Quais Cobertura / Regiões de Abrangência?
+2308,Cobertura/Regiões de Abrangência,Qual Cobertura/Regiões de Abrangência?
+2309,Cobre-corrente,Qual Cobre-corrente?
+2310,Cobreleito dupla face,Possui Cobreleito dupla face?
+2311,Código,Qual o Código?
+2312,Código da Certificação,Qual Código da Certificação?
+2313,Código de barras,Qual o Código de barras?
+2314,Código de Bloqueio,Qual Código de Bloqueio?
+2315,Código do Fabricante,Qual o Código do Fabricante?
+2316,Código FIPE,Qual o Código FIPE?
+2317,Co-editor,Qual Co-editor?
+2318,Cofre com Chave,Possui Cofre com Chave?
+2319,Cofre Eletrônico,Possui Cofre Eletrônico?
+2320,Colar ajustável ao pescoço,Possui Colar ajustável ao pescoço?
+2321,Colchão incluso,Possui Colchão incluso?
+2322,Colchão tipo,Qual Colchão tipo?
+2323,Coleção,Qual a coleção?
+2324,Coleção / Sortimento,Qual Coleção / Sortimento?
+2325,Coleção/Personagem,Qual Coleção/Personagem?
+2326,Coleção/Sortimento,Qual Coleção/Sortimento?
+2327,Coletânea,É Coletânea?
+2328,Colheita,Colheita?
+2329,Coloração,Qual Coloração?
+2330,Colorido por,Colorido por?
+2331,Com,Com quem?
+2332,Com Abas,Com Abas?
+2333,Com Argola,Quais Com Argola?
+2334,Com argola?,É Com argola??
+2335,Com aroma,É Com aroma?
+2336,Com barra,É Com barra?
+2337,Com bolso,É Com bolso?
+2338,Com capuz,É Com capuz?
+2339,Com essência,É Com essência?
+2340,Combustível,Combustível?
+2341,Comentários por,Comentários por?
+2342,Como Brincar,Como Brincar?
+2343,Como Jogar,Como Jogar?
+2344,Compartimento congelamento rápido,Possui Compartimento congelamento rápido?
+2345,Compartimento extra frio,Possui Compartimento extra frio?
+2346,Compartimento Inferior,Possui Compartimento Inferior?
+2347,Compartimentos,Quantos Compartimentos?
+2348,Computador de bordo,Possui Computador de bordo?
+2349,Comunicação ou Interface,Qual Comunicação ou Interface?
+2350,Concentração,Qual Concentração?
+2351,Condição do Item,Qual Condição do Item?
+2352,Conectividade,Qual Conectividade?
+2353,Conector,Qual Conector?
+2354,Conexão,Qual Conexão?
+2355,Conexão à Internet,Qual Conexão à Internet?
+2356,Conexão HDMI,Qual Conexão HDMI?
+2357,Conexão para Extensão Telefônica,Possui Conexão para Extensão Telefônica?
+2358,Conexões,Quais as conexões disponíveis?
+2359,Conexões / Portas,Quais Conexões / Portas?
+2360,Conexões HDMI,Possui Conexões HDMI?
+2361,Conexões para PC,Possui Conexões para PC?
+2362,Conexões USB,Quais Conexões USB?
+2363,Conferência,Possui Conferência?
+2364,Configuração do Perfil do Usuário,Possui Configuração do Perfil do Usuário?
+2365,Congelador,Possui Congelador?
+2366,Congelamento rápido,Possui Congelamento rápido?
+2367,Conjunto de Instruções,Conjunto de Instruções?
+2368,Consumo,Qual Consumo?
+2369,Consumo (CPM),Qual o Consumo (CPM)?
+2370,Consumo (kw),Qual o Consumo (kw)?
+2371,Consumo (Kw/h),Qual o Consumo (Kw/h)?
+2372,Consumo (kWh),Qual o Consumo (kWh)?
+2373,Consumo de água (em litros),Qual a Consumo de água (em litros)?
+2374,Consumo de Energia,Qual o Consumo de Energia?
+2375,Consumo de energia (Kw/h),Qual o Consumo de energia (Kw/h)?
+2376,Consumo de gás,Qual Consumo de gás?
+2377,Consumo em stand by,Qual Consumo em stand by?
+2378,Consumo em stand-by,Qual Consumo em stand-by?
+2379,Consumo máximo de gás,Qual Consumo máximo de gás?
+2380,Contador de Voltas,Possui Contador de Voltas?
+2381,Contém Glúten,Contém Glúten?
+2382,Contém Lactose,Contém Lactose?
+2383,Conteuacute.Do da Embalagem,Conteuacute.Do da Embalagem?
+2384,Conteúdo da embalagem,O que vem na embalagem?
+2385,Conteúdo do Jogo,Qual Conteúdo do Jogo?
+2386,Conteúdo do Kit,Qual Conteúdo do Kit?
+2387,Conteúdo e Medidas,Qual Conteúdo e Medidas?
+2388,Conteúdo Extra,Qual Conteúdo Extra?
+2389,Conteúdo/Peças,Qual Conteúdo/Peças?
+2390,conteudoEmbalagem5561,Qual conteudoEmbalagem5561?
+2391,Contra indicação,Possui Contra indicação?
+2392,Contra-indicação,Possui Contra-indicação?
+2393,Contra-indicações,Possui Contra-indicações?
+2394,Contraste,Qual Contraste?
+2395,Contribuições por,Contribuições por?
+2396,Controladores de Ar,Controladores de Ar?
+2397,Controle de imagem,Possui Controle de imagem?
+2398,Controle de luminosidade,Possui Controle de luminosidade?
+2399,Controle de som,Possui Controle de som?
+2400,Controle de temperatura,Possui Controle de temperatura?
+2401,Características do Selim,Quais Características do Selim?
+2402,Caracteristicas do tampo,Quais Caracteristicas do tampo?
+2403,Características do tampo,Quais Características do tampo?
+2404,Características do trilho,Quais Características do trilho?
+2405,Características do vidro,Quais Características do vidro?
+2406,Características do visor,Quais Características do visor?
+2407,Características dos batedores,Quais Características dos batedores?
+2408,Características dos Freios,Quais Características dos Freios?
+2409,Características dos Pneus,Quais Características dos Pneus?
+2410,Características dos queimadores,Quais Características dos queimadores?
+2411,Características e material do Aro,Quais Características e material do Aro?
+2412,Características e material do Bico,Quais Características e material do Bico?
+2413,Características Fax,Quais Características Fax?
+2414,Características Impressora,Quais Características Impressora?
+2415,Características Mouse Fire Button,Quais as Características Mouse Fire Button?
+2416,Características Mouse Gamer Warrior Mo207,Quais as Características Mouse Gamer Warrior Mo207?
+2417,Características Mousepad Warrior,Quais as Características Mousepad Warrior?
+2418,Características Rodas,Quais Características Rodas?
+2419,Características Teclado Gamer,Quais as Características Teclado Gamer?
+2420,Características Teclado Gamer Tc160,Quais as Características Teclado Gamer Tc160?
+2421,Características Unidade Receptora,Quais Características Unidade Receptora?
+2422,Características Unidade Transmissora,Quais Características Unidade Transmissora?
+2423,Carrinho,É Carrinho?
+2424,Carrinho de transporte,Possui Carrinho de transporte?
+2425,Cartela de adesivos,Possui Cartela de adesivos?
+2426,Cartões de Memória compatíveis,Possui Cartões de Memória compatíveis?
+2427,Casting (poder de arremesso),Qual o Casting (poder de arremesso)?
+2428,Categoria,Qual a Categoria?
+2429,Cavalete,Qual Cavalete?
+2430,CD Player,Possui CD Player?
+2431,Central de Alarme,Possui Central de Alarme?
+2432,Certificação do Inmetro,Possui Certificação do Inmetro?
+2433,Certificação InMetro,É Certificação InMetro?
+2434,Certificaccedil.Atilde.O:,Certificaccedil.Atilde.O:?
+2435,Certificações,Certificações?
+2436,Certificada pelo InMetro,É Certificada pelo InMetro?
+2437,Certificado,Possui Certificado?
+2438,Certificado pelo INMETRO,É Certificado pelo INMETRO?
+2439,Certificado:,Certificado:?
+2440,Cervejaria,Qual a Cervejaria?
+2441,Cesto,Possui Cesto?
+2442,Cesto aramado,Possui Cesto aramado?
+2443,Cesto para compra,Possui Cesto para compra?
+2444,Cesto removível,Possui Cesto removível?
+2445,Cetificação do Inmetro,Possui Cetificação do Inmetro?
+2446,Chaise,Possui Chaise?
+2447,Chamada / Texto Vendedor,Qual a Chamada / Texto Vendedor?
+2448,Chamada da Operadora,Qual a Chamada da Operadora?
+2449,Chamada em espera,Possui Chamada em espera?
+2450,Chamada simultânea,Possui Chamada simultânea?
+2451,Chave,Qual Chave?
+2452,Chave (s),Possui Chave (s)?
+2453,Chave de Segurança,Possui Chave de Segurança?
+2454,Chave para mudança de temperatura,Possui Chave para mudança de temperatura?
+2455,Child Lock,Possui Child Lock?
+2456,Chipset,Possui Chipset?
+2457,Ciclo,Qual Ciclo?
+2458,Ciclo de Trabalho (%),Ciclo de Trabalho (%)?
+2459,Ciclo mensal de trabalho,Qual Ciclo mensal de trabalho?
+2460,Ciclos de secagem,Possui Ciclos de secagem?
+2461,Cinto,Possui Cinto?
+2462,Cinto abdominal,Possui Cinto abdominal?
+2463,Cinto de segurança,Possui Cinto de segurança?
+2464,Cinto frontal,Possui Cinto frontal?
+2465,Circuito,Qual Circuito?
+2466,Circunferência,Qual Circunferência?
+2467,Circunferência máxima,Qual Circunferência máxima?
+2468,Classe de Isolamento,Classe de Isolamento?
+2469,"Compartimentos (nichos, entre outros)","Quantos Compartimentos (nichos, entre outros)?"
+2470,Compartimentos da barraca,Quantos Compartimentos da barraca?
+2471,Compartimentos externos,Quantos Compartimentos externos?
+2472,Compartimentos infláveis,Quantos Compartimentos infláveis?
+2473,Compartimentos internos,Quantos Compartimentos internos?
+2474,Compatibilidade,Qual Compatibilidade?
+2475,Compatibilidade (serve para Qualquer Kit Higiene para Coleira),Compatibilidade (serve para Qualquer Kit Higiene para Coleira)?
+2476,Compatibilidade (tipo de colchão ou box),É compatível com quais outros produtos? (tipo de colchão ou box)
+2477,Compatibilidade (tipo de colchão),Qual Compatibilidade (tipo de colchão)?
+2478,Compatibilidade (tipo de travesseiro),Qual Compatibilidade (tipo de travesseiro)?
+2479,Compatibilidade com Notebook e PC,Possui Compatibilidade com Notebook e PC?
+2480,Compatibilidade de produtos,Compatibilidade de produtos?
+2481,Compatível com,Compatível com?
+2482,Compatível com cartões de memória tipo,É Compatível com cartões de memória tipo?
+2483,Compatível com cinto de segurança,É Compatível com cinto de segurança?
+2484,Componentes,Quais Componentes?
+2485,Componentes do Conjunto,Quais Componentes do Conjunto?
+2486,Componentes do Kit,Quais Componentes do Kit?
+2487,Componentes do sistema,Quais Componentes do sistema?
+2488,Composicao,Qual Composicao?
+2489,Composição,Qual a Composição?
+2490,Composição (Fios),Qual a Composição (Fios)?
+2491,Composição / Ingredientes,Qual Composição / Ingredientes?
+2492,Composição / Material,Composição / Material?
+2493,Composição Aromática,Qual Composição Aromática?
+2494,Composição da Armação,Qual Composição da Armação?
+2495,Composição da Tenda/Cobertura,Qual Composição da Tenda/Cobertura?
+2496,Composicao do Item,Qual Composicao do Item?
+2497,Composição Enchimento,Qual Composição Enchimento?
+2498,Composição Revestimento,Qual Composição Revestimento?
+2499,Composição/ Material,Qual a Composição/Material?
+2500,Composição/Ingredientes,Qual Composição/Ingredientes?
+2501,Capacidade de café moído,Qual a Capacidade de café moído?
+2502,Capacidade de carga (kg),Qual a Capacidade de carga (kg)?
+2503,"Capacidade de Dejetos na Bandeja/gaveta (ml, Kg)","Qual a Capacidade de Dejetos na Bandeja/gaveta (ml, Kg)?"
+2504,Capacidade de espessura de fatias,Qual a Capacidade de espessura de fatias?
+2505,Capacidade de folhas para perfuração,Qual a Capacidade de folhas para perfuração?
+2506,Capacidade de forno (lts),Qual a Capacidade de forno (lts)?
+2507,Capacidade de Fotos,Qual a Capacidade de Fotos?
+2508,Capacidade de frangos,Qual a Capacidade de frangos?
+2509,Capacidade de Frascos,Qual a Capacidade de Frascos?
+2510,Capacidade de garrafas,Qual a Capacidade de garrafas?
+2511,"Capacidade de grãos, café moído e/ou borra de café","Qual a Capacidade de grãos, café moído e/ou borra de café?"
+2512,Capacidade de Grãos; Café Moído; Borra de Café,Qual a Capacidade de Grãos; Café Moído; Borra de Café?
+2513,Capacidade de Linha,Qual a Capacidade de Linha?
+2514,Capacidade de lugares (pessoas),Qual a Capacidade de lugares (pessoas)?
+2515,Capacidade de Memória,Qual a Capacidade de Memória?
+2516,Capacidade de mídia,Qual a Capacidade de mídia?
+2517,Capacidade de Peso Suportada,Qual a Capacidade de Peso Suportada?
+2518,Capacidade de preparo,Qual a Capacidade de preparo?
+2519,Capacidade de Produção,Qual a Capacidade de Produção?
+2520,Capacidade de ração (Kg),Qual a Capacidade de ração (Kg)?
+2521,Capacidade de Refrigeração (BTUs),Qual a Capacidade de Refrigeração (BTUs)?
+2522,Capacidade de roupa seca e/ ou molhada,Qual a Capacidade de roupa seca e/ ou molhada?
+2523,Capacidade de sabão no reservatório (Lts),Qual a Capacidade de sabão no reservatório (Lts)?
+2524,Capacidade de Sacolas,Qual a Capacidade de Sacolas?
+2525,"Capacidade de Urina na Bandeja (l, Ml)","Qual a Capacidade de Urina na Bandeja (l, Ml)?"
+2526,Capacidade de ventilação,Qual a Capacidade de ventilação?
+2527,Capacidade de xícaras,Qual a Capacidade de xícaras?
+2528,Capacidade de xícaras/água (em litros),"Quais as dimensões do produto, sem a base? (Altura x Largura x Profundidade)"
+2529,Capacidade do CD player,Qual a Capacidade do CD player?
+2530,Capacidade do cesto (L),Qual a Capacidade do cesto (L)?
+2531,Capacidade do corte (em diâmetros - cm),Qual o peso? (kg)
+2532,Capacidade do Disco Rígido,Qual a Capacidade do Disco Rígido?
+2533,Capacidade do filtro de água (litros),Qual a Capacidade do filtro de água (litros)?
+2534,Capacidade do freezer (em litros),Qual a Capacidade do freezer (em litros)?
+2535,Capacidade do Refrigerador (em litros),Qual a Capacidade do Refrigerador (em litros)?
+2536,Capacidade do reservatório (L),Qual a Capacidade do reservatório (L)?
+2537,Capacidade do saco coletor (em litros),Qual a Capacidade do saco coletor (em litros)?
+2538,Capacidade em Litros,Qual a Capacidade em Litros?
+2539,Características,Quais Características?
+2540,Características Copiadora,Quais Características Copiadora?
+2541,Características da Armação,Quais as Características da Armação?
+2542,Características da Base para Colchão,Quais Características da Base para Colchão?
+2543,Características da capa,Quais Características da capa?
+2544,Características da chapa,Quais Características da chapa?
+2545,Características da Engrenagem,Quais Características da Engrenagem?
+2546,Características da Mesa,Quais as Características da Mesa?
+2547,Características da porta,Quais Características da porta?
+2548,Características da Porta / Tampo,Quais as Características da Porta / Tampo?
+2549,Características da porta/tampo,Quais Características da porta/tampo?
+2550,Características da rodinhas,Quais Características da rodinhas?
+2551,Características da tampa,Quais Características da tampa?
+2552,Características da tela / monitor,Quais Características da tela / monitor?
+2553,Características da tela ou display,Quais Características da tela ou display?
+2554,Características Da(s) Lâmina(s),Quais as Características Da(s) Lâmina(s)?
+2555,"Características da(s) peça(s): xícara, pires e prato","Quais as Características das peças? (xícara, pires e prato)"
+2556,Características das cordas,Quais as a Características das cordas?
+2557,Características das Ferragens,Quais as Características das Ferragens?
+2558,Características das Folhas,Quais as Características das Folhas?
+2559,Características das Folhas / Páginas,Quais as Características das Folhas / Páginas?
+2560,Características das folhas/páginas,Quais Características das folhas/páginas?
+2561,Características das hélices,Quais Características das hélices?
+2562,Características das Lentes,Quais as Características das Lentes?
+2563,Características das Manoplas,Quais Características das Manoplas?
+2564,Características das rodas,Quais Características das rodas?
+2565,Características das Rodas laterais,Quais Características das Rodas laterais?
+2566,Características das Rodinhas,Quais as Características das Rodinhas?
+2567,Características de desempenho,Quais Características de desempenho?
+2568,Características Digitalizadora,Quais Características Digitalizadora?
+2569,Características do Arco,Quais as Características do Arco?
+2570,Características do Assento,Quais Características do Assento?
+2571,Características do braço,Quais Características do braço?
+2572,Características do cabo,Quais Características do cabo?
+2573,Características do cinto,Quais Características do cinto?
+2574,Características do Cobre-Corrente,Quais Características do Cobre-Corrente?
+2575,Características do controle,Quais Características do controle?
+2576,Características do Corpo,Quais as Características do Corpo?
+2577,Características do corpo da guitarra,Quais Características do corpo da guitarra?
+2578,Características do Corpo do Contrabaixo,Quais as Características do Corpo do Contrabaixo?
+2579,Características do display,Quais Características do display?
+2580,Características do Encosto,Quais Características do Encosto?
+2581,Características do filtro,Quais Características do filtro?
+2582,Características do Formato,Quais as Características do Formato?
+2583,Características do Forno,Quais Características do Forno?
+2584,Características do Freio,Quais Características do Freio?
+2585,Características do fundo e das faixas,Quais Características do fundo e das faixas?
+2586,Características do Garfo,Quais Características do Garfo?
+2587,Características do Guidão,Quais Características do Guidão?
+2588,Características do Monitor,Quais Características do Monitor?
+2589,Características do Motor,Quais Características do Motor?
+2590,Características do Movimento central,Quais Características do Movimento central?
+2591,Características do Para-lamas,Quais Características do Para-lamas?
+2592,Características do Pedivela,Quais Características do Pedivela?
+2593,Características do produto,Quais Características do produto?
+2594,Características do Quadro,Quais Características do Quadro?
+2595,Classificação,Qual Classificação?
+2596,Classificação A a Z,Possui Classificação A a Z?
+2597,Classificação Autor,Qual Classificação Autor?
+2598,Classificação Energética,Qual Classificação Energética?
+2599,Classificação Energética Inmetro,Qual Classificação Energética Inmetro?
+2600,Classificação indicativa,Qual Classificação indicativa?
+2601,Back,Back?
+2602,Bacteriostática (promove ação germicida imadiata),É Bacteriostática (promove ação germicida imadiata)?
+2603,Baias,Quais Baias?
+2604,Baixo nível de ruído,Tem Baixo nível de ruído?
+2605,Baixo ruído,Tem Baixo ruído?
+2606,Balanço,Possui Balanço?
+2607,Banco acolchoado,Possui Banco acolchoado?
+2608,Banco anatômico,Possui Banco anatômico?
+2609,Banda,Qual a Banda?
+2610,Caixas acústicas embutidas,Possui Caixas acústicas embutidas?
+2611,Caixas Acústicas Embutidas?,Possui Caixas Acústicas Embutidas??
+2612,Caixas Acústicas sem Fio (Wireless),Possui Caixas Acústicas sem Fio (Wireless)?
+2613,Caixas Acústicas tipo,Possui Caixas Acústicas tipo?
+2614,Calcula o ìndice de Massa Corpórea (IMC),Calcula o ìndice de Massa Corpórea (IMC)?
+2615,Cálculo de velocidade,Possui Cálculo de velocidade?
+2616,Calendário,Possui Calendário?
+2617,Calendários,Possui Calendários?
+2618,Calibragem,Possui Calibragem?
+2619,Calibre,Qual Calibre?
+2620,Câmbio Dianteiro,Qual Câmbio Dianteiro?
+2621,Câmbio Traseiro,Qual Câmbio Traseiro?
+2622,Câmera,Possui Câmera?
+2623,Câmera frontal,Possui Câmera frontal?
+2624,Câmera Integrada,Possui Câmera Integrada?
+2625,Câmera traseira,Possui Câmera traseira?
+2626,Campainhas,Possui Campainhas?
+2627,Campana,Possui Campana?
+2628,Campanha,Campanha?
+2629,Campo de visão,Qual Campo de visão?
+2630,Canais,Quantos Canais?
+2631,Canais de Áudio,Quantos Canais de Áudio?
+2632,Canal 1,Qual Canal 1?
+2633,Canal de Recepção,Qual Canal de Recepção?
+2634,Canal Monotipo,Qual Canal Monotipo?
+2635,Canal Stereo tipo,Qual Canal Stereo tipo?
+2636,Cancelamento de Ruído,Possui Cancelamento de Ruído?
+2637,cancRuidoAudio,Possui cancRuidoAudio?
+2638,Canos de Embocadura,Quais Canos de Embocadura?
+2639,Capa,Possui Capa?
+2640,Capa almofadada,Possui Capa almofadada?
+2641,Capa costurada,Possui Capa costurada?
+2642,Capa de Chuva,Possui Capa de Chuva?
+2643,Capa decorada,Possui Capa decorada?
+2644,Capa dura,Possui Capa dura?
+2645,Capa Sintetica,Possui Capa Sintetica?
+2646,Capacidade,Qual a Capacidade?
+2647,Capacidade (adultos até 70 kg e crianças até 10kg),Qual a Capacidade (adultos até 70 kg e crianças até 10kg)?
+2648,Capacidade (em litros),Qual a Capacidade (em litros)?
+2649,Capacidade (folhas),Qual a Capacidade (folhas)?
+2650,Capacidade (HD),Qual a Capacidade (HD)?
+2651,Capacidade (Kg),Qual o Capacidade (Kg)?
+2652,Capacidade (Kg/ml),Qual a Capacidade (Kg/ml)?
+2653,Capacidade (L),Qual a Capacidade (L)?
+2654,"Capacidade (l, ml, Kg, g, latas ou garrafas)","Qual a Capacidade (l, ml, Kg, g, latas ou garrafas)?"
+2655,Capacidade (Latas),Qual a Capacidade (Latas)?
+2656,Capacidade (Litros),Qual a Capacidade (Litros)?
+2657,Capacidade (lts),Qual a Capacidade (lts)?
+2658,Capacidade (mAh),Qual a Capacidade (mAh)?
+2659,Capacidade (mAh) e Tempo de Recarga (hs),Qual a Capacidade (mAh) e Tempo de Recarga (hs)?
+2660,Capacidade (ml),Qual a Capacidade (ml)?
+2661,Capacidade (ml/Kg),Qual a Capacidade (ml/Kg)?
+2662,Capacidade (ml/litros),Qual a Capacidade (ml/litros)?
+2663,Capacidade (Pares de Sapato),Qual a Capacidade (Pares de Sapato)?
+2664,Capacidade (pessoas),Qual a Capacidade (pessoas)?
+2665,Capacidade (quantas xícaras prepara),Quantas xícaras prepara?
+2666,Capacidade (unidades/hora),Qual a Capacidade (unidades/hora)?
+2667,Capacidade cartões,Qual a Capacidade cartões?
+2668,Capacidade da bandeja,Qual a Capacidade da bandeja?
+2669,Capacidade da bolsa coletora,Qual a Capacidade da bolsa coletora?
+2670,Capacidade da caçamba (L),Qual a Capacidade da caçamba (L)?
+2671,Capacidade da jarra (em litros),Qual a Capacidade da jarra (em litros)?
+2672,Capacidade da Mochila (L),Qual a Capacidade da Mochila (L)?
+2673,Capacidade da panela (L),Qual a Capacidade da panela (L)?
+2674,Capacidade da tigela (em litros),Qual a Capacidade da tigela (em litros)?
+2675,Capacidade da tigela/copo (em litros),"Quais as Características das peças? (xícara, pires e prato)"
+2676,Capacidade de água no reservatório (L),Qual a Capacidade de água no reservatório (L)?
+2677,Capacidade de água no reservatório (Lts),Qual a Capacidade de água no reservatório (Lts)?
+2678,Capacidade de armazenamento,Qual a Capacidade de armazenamento?
+2679,Capacidade de Armazenamento (Kg),Qual a Capacidade de Armazenamento (Kg)?
+2680,Capacidade de borra de café,Qual a Capacidade de borra de café?
+2681,Capacidade de café em grãos,Qual a Capacidade de café em grãos?
+2682,Capacidade folhas,Qual a Capacidade folhas?
+2683,Capacidade grampos,Qual a Capacidade grampos?
+2684,Capacidade líquida,Qual a Capacidade líquida?
+2685,Capacidade Max de Contatos,Qual a Capacidade Max de Contatos?
+2686,Capacidade máxima (Kg),Qual a Capacidade máxima (Kg)?
+2687,Capacidade para quantos pães/sanduiches/waffles/em Kg para Panificadoras,Possui Capacidade para quantos pães/sanduiches/waffles/em Kg para Panificadoras?
+2688,Capacidade total (kg),Qual a Capacidade total (kg)?
+2689,Capacidade Total de Armazenamento,Qual a Capacidade Total de Armazenamento?
+2690,Capacidade Total de Armazenamento (em litros),Qual a Capacidade Total de Armazenamento (em litros)?
+2691,Capacidade Total de Armazenamento (L),Qual a Capacidade Total de Armazenamento (L)?
+2692,Capota,Possui Capota?
+2693,Capota Removível,Possui Capota Removível?
+2694,Captação,Possui Captação?
+2695,Capuz,Possui Capuz?
+2696,Caracterísitica das Rodas,Quais Caracterísitica das Rodas?
+2697,Característica,Quais Característica?
+2698,Característica do copo/tigela/tampa,Quais Característica do copo/tigela/tampa?
+2699,Característica do produto,Quais Característica do produto?
+2700,Característica(s),Quais Característica(s)?
+2701,Aparelhos compatíveis,Quais Aparelhos compatíveis?
+2702,Aplicação,Qual a Aplicação?
+2703,Aplicação / Compatibilidade,Qual a Aplicação / Compatibilidade?
+2704,Aplicações/Equipamentos,Quais Aplicações/Equipamentos?
+2705,Aplicações/Superfícies,Quais Aplicações/Superfícies?
+2706,Aplicações/Tintas,Quais as aplicações / tintas?
+2707,Aplicador de detergente integrado,Possui Aplicador de detergente integrado?
+2708,Aplicativos,Possui Aplicativos?
+2709,Aplique/Decoração,Possui Aplique/Decoração?
+2710,Apoio de embarcações,Possui Apoio de embarcações?
+2711,Apoio de polegar,Possui Apoio de polegar?
+2712,Apoio destacável,Possui Apoio destacável?
+2713,Apoio do Polegar Regulável,Possui Apoio do Polegar Regulável?
+2714,Apoio para o braço,Possui Apoio para o braço?
+2715,Bandas,Quais Bandas?
+2716,Bandeja,Possui Bandeja?
+2717,Bandeja Auxiliar,Qual Bandeja Auxiliar?
+2718,Bandeja Coletora de Gordura,Tem Bandeja Coletora de Gordura?
+2719,Bandeja coletora de resíduos,Possui Bandeja coletora de resíduos?
+2720,Bandeja coletora de resíduos removível,Possui Bandeja coletora de resíduos removível?
+2721,Bandeja de água removível,Possui Bandeja de água removível?
+2722,Bandeja de resíduos,Possui Bandeja de resíduos?
+2723,Barbeador Elétrico,Barbeador Elétrico?
+2724,Barômetro,Possui Barômetro?
+2725,Barra de Reforço,Possui Barra de Reforço?
+2726,Barramento,Qual o Barramento?
+2727,Barreiras antivazamento,Possui Barreiras antivazamento?
+2728,Barreiras Laterais,Possui Barreiras Laterais?
+2729,Base,Possui Base?
+2730,Base ajustável,Possui Base ajustável?
+2731,Base Antiaderente,Possui Base Antiaderente?
+2732,Base antiderrapante,Possui Base antiderrapante?
+2733,Base anti-derrapante,Possui Base anti-derrapante?
+2734,Base Giratória,Possui Base Giratória?
+2735,Base/Soquete,Qual Base/Soquete?
+2736,Bases compatíveis,Quais Bases compatíveis?
+2737,Bass Boost,Possui Bass Boost?
+2738,Bass Bost,Possui Bass Bost?
+2739,Batedeira,Batedeira?
+2740,Batedores,Possui Batedores?
+2741,Bateria,Possui Bateria?
+2742,Bavete,Possui Bavete?
+2743,Bebedouro,Bebedouro?
+2744,Benefícios,Quais Benefícios?
+2745,Bico Simétrico,Possui Bico Simétrico?
+2746,Bicos Ortodônticos,Possui Bicos Ortodônticos?
+2747,Bicos ortodônticos?,Possui Bicos ortodônticos??
+2748,Bip de Câmbio,Possui Bip de Câmbio?
+2749,Bitola,Qual Bitola?
+2750,Bitola em Milímetros,Qual Bitola em Milímetros?
+2751,Bitola em Polegadas,Qual Bitola em Polegadas?
+2752,Bloqueio de Canais,Possui Bloqueio de Canais?
+2753,"Bloqueio de ligações: DDD, DDI, Celular","Possui Bloqueio de ligações: DDD, DDI, Celular?"
+2754,Bloqueio de teclado,Possui Bloqueio de teclado?
+2755,Bluetooth,Possui Bluetooth?
+2756,Bluetooth integrado,Possui Bluetooth integrado?
+2757,bluetooth5561,Possui bluetooth5561?
+2758,Blu-ray,Possui Blu-ray?
+2759,Bocal,Bocal?
+2760,Boiler 100 L,Boiler 100 L?
+2761,Boiler 200 L,Boiler 200 L?
+2762,Boiler 50 L,Boiler 50 L?
+2763,Bolsa coletora,Possui Bolsa coletora?
+2764,Bolsa plástica,Possui Bolsa plástica?
+2765,Bolso frontal,Possui Bolso frontal?
+2766,Bolso lateral,Possui Bolso lateral?
+2767,Bolso para guardar objetos,Possui Bolso para guardar objetos?
+2768,Boquilha,Possui Boquilha?
+2769,Bordada,É Bordada?
+2770,Bordado,É Bordado?
+2771,Borracha,Possui Borracha?
+2772,Botões iluminados,Possui Botões iluminados?
+2773,Braços,Quais Braços?
+2774,Braços com Ajuste de Altura,Possui Braços com Ajuste de Altura?
+2775,Bridge,Qual Bridge?
+2776,Brilho,Possui Brilho?
+2777,Brinquedo com luz,É um Brinquedo com luz?
+2778,Brinquedo com som,É um Brinquedo com som?
+2779,Brinquedo com voz,É um Brinquedo com voz?
+2780,Brinquedos compatíveis,Quais Brinquedos compatíveis?
+2781,Bula,Possui Bula?
+2782,Bumbo,Possui Bumbo?
+2783,Busca de estações,Possui Busca de estações?
+2784,Busca super rápida,Possui Busca super rápida?
+2785,Bússola,Possui Bússola?
+2786,Buzina,Possui Buzina?
+2787,Cabeça (polegadas),Possui Cabeça (polegadas)?
+2788,Cabeceira tipo,Possui Cabeceira tipo?
+2789,Cabelos,Possui Cabelos?
+2790,Cabides removíveis,Possui Cabides removíveis?
+2791,Cabo,Possui Cabo?
+2792,Cabo ergonômico,Possui Cabo ergonômico?
+2793,Cabo flexível,Possui Cabo flexível?
+2794,Cabo giratório,Possui Cabo giratório?
+2795,Cache,Possui Cache?
+2796,Cachê,Possui Cachê?
+2797,Cadeado,Possui Cadeado?
+2798,Cadeiras inclusas,Possui Cadeiras inclusas?
+2799,Cadeirinha para Crianças,Possui Cadeirinha para Crianças?
+2800,Caixa,Possui Caixa?
+2801,Alimentação controle remoto,Qual a Alimentação controle remoto?
+2802,Alimentação do controle remoto,Possui Alimentação do controle remoto?
+2803,Alimentação Monitor,Qual a Alimentação Monitor?
+2804,Alimentação veículo,Qual a Alimentação veículo?
+2805,"Alimentação, tipo de bateria","Qual a Alimentação, tipo de bateria?"
+2806,Alimentação/ Voltagem,Qual a Alimentação/ Voltagem?
+2807,Alimentação/Tipo de bateria,Qual a Alimentação/Tipo de bateria?
+2808,Alimentação/Voltagem,Qual Alimentação/Voltagem?
+2809,Alimentação: tipo de bateria,Qual a Alimentação: tipo de bateria?
+2810,Alimentação: Tipo de Bateria/Carregamento,Qual a Alimentação: Tipo de Bateria/Carregamento?
+2811,Alimentaccedil.Atilde.O:,Alimentaccedil.Atilde.O:?
+2812,Alimentador Automático,Possui Alimentador Automático?
+2813,Alimentos recomendados,Quais Alimentos recomendados?
+2814,Almofada Inclusa,Possui Almofada Inclusa?
+2815,Alta performance,Possui Alta performance?
+2816,Alto poder de absorção,Possui Alto poder de absorção?
+2817,Alto-Falante,Alto-Falante?
+2818,Alto-falante embutido,Possui Alto-falante embutido?
+2819,Alto-Falante Integrado,Possui Alto-Falante Integrado?
+2820,Alto-falantes,Possui a Alto-falantes?
+2821,Alto-falantes integrados,Possui Alto-falantes integrados?
+2822,Altura,Qual a Altura?
+2823,Altura (cm),Qual a Altura (cm)?
+2824,Altura (Embalado) (Mm),Qual a Altura (Embalado) (Mm)?
+2825,Altura (Mm),Qual a Altura (Mm)?
+2826,Altura ajustável,Possui a Altura ajustável?
+2827,Altura Aproximada,Qual a Altura Aproximada?
+2828,Altura aproximada da superfície,Qual a Altura aproximada da superfície?
+2829,Altura aproximado (cm),Qual a Altura aproximado (cm)?
+2830,Apoio para os pés,Possui Apoio para os pés?
+2831,Apoio para os Pés Regulável,Possui Apoio para os Pés Regulável?
+2832,Apoio para os Pés Removível,Possui Apoio para os Pés Removível?
+2833,Apresentação,Qual a Apresentação?
+2834,Aprovado pelo INMETRO,É Aprovado pelo INMETRO?
+2835,Aprovado pelo INMETRO / CONTRAN,É Aprovado pelo INMETRO / CONTRAN?
+2836,Aquecimento,Qual Aquecimento?
+2837,Ar Condicionado 12.000 Btus,Ar Condicionado 12.000 Btus?
+2838,Ar Condicionado 15.000 Btus,Ar Condicionado 15.000 Btus?
+2839,Ar Condicionado 18.000 Btus,Ar Condicionado 18.000 Btus?
+2840,Ar Condicionado 21.000 Btus,Ar Condicionado 21.000 Btus?
+2841,Ar Condicionado 24.000 Btus,Ar Condicionado 24.000 Btus?
+2842,Ar Condicionado 30.000 Btus,Ar Condicionado 30.000 Btus?
+2843,Ar Condicionado 36.000 Btus,Ar Condicionado 36.000 Btus?
+2844,Ar Condicionado 7.000 Btus,Ar Condicionado 7.000 Btus?
+2845,Ar Condicionado 9.000 Btus,Ar Condicionado 9.000 Btus?
+2846,Ar Quente,Possui Ar Quente?
+2847,Área de atuação (m²),Qual a Área de atuação (m²)?
+2848,Área de trabalho,Qual a Área de trabalho?
+2849,Área de utilização indicada,Qual a Área de utilização indicada?
+2850,Área de ventilação (m2),Qual a Área de ventilação (m2)?
+2851,Área Indicada,Qual a Área Indicada?
+2852,Área indicada (m2),Qual a Área indicada (m2)?
+2853,Armação para mosquiteiro,Possui Armação para mosquiteiro?
+2854,Aro,Qual o Aro?
+2855,Aro das Rodas Dianteiras,Qual o Aro das Rodas Dianteiras?
+2856,Aro das Rodas Traseiras,Qual o Aro das Rodas Traseiras?
+2857,Aroma,Qual o Aroma?
+2858,Aroma/Fragância,Qual o Aroma/Fragância?
+2859,Aros,Aros?
+2860,Arquivo,Arquivo?
+2861,Articulada,É Articulada?
+2862,Articulado,É Articulado?
+2863,Articulável,É Articulável?
+2864,Artista,Qual o Artista?
+2865,Aspira,Aspira?
+2866,Aspira líquidos,Aspira líquidos?
+2867,Aspira sólidos,Aspira sólidos?
+2868,Aspiração,Possui Aspiração?
+2869,Aspirador de Pó e Água,Aspirador de Pó e Água?
+2870,Assento,Possui Assento?
+2871,Assento acolchoado,Possui Assento acolchoado?
+2872,Assento lavável,O assento é lavável?
+2873,Assento Removível,Possui Assento Removível?
+2874,Assunto,Qual o Assunto?
+2875,Atenção,Atenção?
+2876,Atenccedil.Atilde.O:,Atenccedil.Atilde.O:?
+2877,Atividade,Qual a Atividade?
+2878,Atividades,Quais Atividades?
+2879,Atóxica,É Atóxica?
+2880,Atóxico,É Atóxico?
+2881,Atraso para desligar,Possui Atraso para desligar?
+2882,Atualização do conteúdo,Qual a frequência de Atualização do conteúdo?
+2883,Áudio,Quais formatos de Áudio?
+2884,Auto filtro do código DDD local,Possui Auto filtro do código DDD local?
+2885,Auto numeração,Possui Auto numeração?
+2886,Autocolante,Possui Autocolante?
+2887,Auto-escova,Possui Auto-escova?
+2888,Autolimpante,Possui Autolimpante?
+2889,Automático,Possui Automático?
+2890,Autonomia (km),Qual a Autonomia (km)?
+2891,Autonomia de Uso,Qual a Autonomia de Uso?
+2892,Autor,Quem são os autores?
+2893,Autor do Item,Quem él o Autor do Item?
+2894,Autor(a),Quem são os autores?
+2895,Autor/Artista,Qual Autor/Artista?
+2896,Aviso Importante:,Possui Aviso Importante:?
+2897,Aviso Sobre o Produto,Possui Aviso Sobre o Produto?
+2898,Aviso sonoro de bateria fraca,Possui Aviso sonoro de bateria fraca?
+2899,Aviso:,Qual Aviso:?
+2900,Bacias hidrográficas,Possui Bacias hidrográficas?
+2901,Acessórios - Alças,Possui Acessórios - Alças?
+2902,Acessórios - Cantoneira de Estruturação,Possui Acessórios - Cantoneira de Estruturação?
+2903,Acessórios - Estrado,Possui Acessórios - Estrado?
+2904,Acessórios - Rodízios,Possui Acessórios - Rodízios?
+2905,Acessórios da Banheira,Acessórios da Banheira?
+2906,Acessórios Inclusos,Possui Acessórios Inclusos?
+2907,Aciona Fechadura Eletrônica,Possui Aciona Fechadura Eletrônica?
+2908,Acionamento Digital,Possui Acionamento Digital?
+2909,Acolchoado,É Acolchoado?
+2910,Acompanha carga?,Acompanha carga?
+2911,Acompanha colchão,Acompanha colchão?
+2912,Acompanha Controle Remoto,Acompanha Controle Remoto?
+2913,Acompanha Dobradiça,Acompanha Dobradiça?
+2914,Acompanha Fechadura,Acompanha Fechadura?
+2915,Acompanha Fio,Acompanha Fio?
+2916,Acompanha Fixação,Acompanha Fixação?
+2917,Acompanha Guarnição,Acompanha Guarnição?
+2918,Acompanha Impressora,Acompanha Impressora?
+2919,Acompanha Lâmpada,Acompanha Lâmpada?
+2920,Acompanha Puxador,Acompanha Puxador?
+2921,Acompanha Trinco,Acompanha Trinco?
+2922,Acompanha Vidro,Acompanha Vidro?
+2923,Acondicionamento,Qual Acondicionamento?
+2924,Acústico,É Acústico?
+2925,Adaptado por,Adaptado por?
+2926,Adaptador,Possui Adaptador?
+2927,Adubação,Adubação?
+2928,Advanced Surround,Possui Advanced Surround?
+2929,Afinação,Qual a Afinação?
+2930,Afinador,Possui Afinador?
+2931,Afinador integrado,Possui Afinador integrado?
+2932,Agenda,Qual Agenda?
+2933,"Agenda, capacidade máxima de contatos","Possui a Agenda, capacidade máxima de contatos?"
+2934,Agentes Naturais,Possui Agentes Naturais?
+2935,Ajustável,É Ajustável?
+2936,Ajustável / Regulável,Possui Ajustável / Regulável?
+2937,Ajustável/Regulável,Possui Ajustável/Regulável?
+2938,Ajuste de Altura da Cadeira,Possui Ajuste de Altura da Cadeira?
+2939,Ajuste de Porção de Alimento a Ser Dispensado,Possui Ajuste de Porção de Alimento a Ser Dispensado?
+2940,Ajuste de profundidade,Possui Ajuste de profundidade?
+2941,Ajuste de Temperatura,Possui Ajuste de Temperatura?
+2942,Ajuste de velocidade,Possui Ajuste de velocidade?
+2943,Ajuste Hidráulico de Altura,Possui Ajuste Hidráulico de Altura?
+2944,Ajuste para caminhada e corrida,Possui Ajuste para caminhada e corrida?
+2945,Alarme,Possui Alarme?
+2946,Alarme de porta aberta,Possui Alarme de porta aberta?
+2947,Alarme de temperatura,Possui Alarme de temperatura?
+2948,Alarme integrado,Possui Alarme integrado?
+2949,Altura Cintura,Qual a Altura Cintura?
+2950,Altura com Tampa (cm),Qual a Altura com Tampa (cm)?
+2951,Altura da árvore montada,Qual a Altura da árvore montada?
+2952,Altura do Coelho,Qual a Altura do Coelho?
+2953,Altura do coelho (cm),Qual a Altura do coelho (cm)?
+2954,Altura do Ovo com Copo,Qual a Altura do Ovo com Copo?
+2955,Altura do ovo com copo (cm),Qual a Altura do ovo com copo (cm)?
+2956,Altura do Pneu,Qual a Altura do Pneu?
+2957,Altura do Produto (Montado)(Cm),Qual a Altura do Produto (Montado)(Cm)?
+2958,Altura máxima e mínima do tripé,Qual a Altura máxima e mínima do tripé?
+2959,Altura Máxima Indicada,Qual a Altura Máxima Indicada?
+2960,Altura Recomendada,Qual a Altura Recomendada?
+2961,Altura regulável,Tem Altura regulável?
+2962,Altura Salto,Qual a Altura Salto?
+2963,Altura Sem Tampa (cm),Qual a Altura Sem Tampa (cm)?
+2964,Altura total do produto montado (cm),Qual a Altura total do produto montado (cm)?
+2965,Altura: 12 Cm,Qual a Altura: 12 Cm?
+2966,Amadurecimento,Qual a forma de Amadurecimento?
+2967,Ambiente,Qual o Ambiente?
+2968,Ambiente Indicado,Ambiente Indicado?
+2969,Amortecedor,Possui a Amortecedor?
+2970,Amostra de sangue necessária,Qual a Amostra de sangue necessária?
+2971,Amperagem,Qual Amperagem?
+2972,Ampliação,Possui Ampliação?
+2973,Ampliação de foto,Possui Ampliação de foto?
+2974,Amplificada,É Amplificada?
+2975,Amplificador,Possui Amplificador?
+2976,Amplificadores,Possui Amplificadores?
+2977,Analógico,É Analógico?
+2978,Anatômico,É Anatômico?
+2979,Anel Anti-furto,Possui Anel Anti-furto?
+2980,Angulação,Qual Angulação?
+2981,Ângulo de detecção,Qual o Ângulo de detecção?
+2982,Ângulo de Visão,Qual o Ângulo de Visão?
+2983,Animal,Para qual Animal?
+2984,Ano,Qual o ano?
+2985,Ano de fabricação do original,Qual o Ano de fabricação do original?
+2986,Ano de Lançamento,Qual o Ano de Lançamento?
+2987,Ano de produção,Qual o Ano de produção?
+2988,Ano Veiculo,Qual Ano Veiculo?
+2989,Ano/Edição,Qual o Ano/Edição?
+2990,Antena,Possui Antena?
+2991,Antiaderente,É Antiaderente?
+2992,Antialérgica,É Antialérgica?
+2993,Antialérgico,É Antialérgico?
+2994,Antiestático,É Antiestático?
+2995,Antimofo,É Antimofo?
+2996,Antioxidante,É Antioxidante?
+2997,Anvisa (nº),Qual o número de registro na Anvisa (nº)?
+2998,Ao vivo,É Ao vivo?
+2999,Aparador de pêlos,Possui Aparador de pêlos?
+3000,Aparelho de Som,Qual Aparelho de Som?
+3001,**Alimentação,Qual a forma de alimentação?
+3002,**Altura (cm),Qual a Altura (cm)?
+3003,**Aparelhos Compatíveis,Quais Aparelhos compatíveis?
+3004,**Canais,Quantos Canais?
+3005,**Certificado,Possui Certificado?
+3006,**Código da Certificação,Qual Código da Certificação?
+3007,**Composição/Material,Qual a Composição/Material?
+3008,**Conexões,Quais as conexões disponíveis?
+3009,**Conteúdo da Embalagem,O que vem na embalagem?
+3010,**Cor,Qual a cor?
+3011,**Dimensões Aproximadas da Embalagem (cm) - AxLxP,"Quais as Características das peças? (xícara, pires e prato)"
+3012,**Dimensões Aproximadas da Embalagem C/ Produto (AxLxP),"Quais as dimensões da embalagem, com o produto? (Altura x Largura x Profundidade)"
+3013,**Dimensões Aproximadas do Produto Sem Embalagem (AxLxP),"Quais as dimensões do produto, sem a embalagem? (Altura x Largura x Profundidade)"
+3014,**Dimensões da Embalagem - Cm (AxLxP),Quais as Dimensões da Embalagem - Cm (AxLxP)?
+3015,**Dimensões do Produto - Cm (AxLxP),Quais as dimensões do produto? (Altura x Largura x Profundidade)
+3016,**Dimensões Embalagem - Cm (AxLxP),Quais as Dimensões Embalagem - Cm (AxLxP)?
+3017,**Dimensões Produto - Cm (AxLxP),Quais as dimensões do produto? (Altura x Largura x Profundidade)
+3018,**Equalizador,Possui Equalizador?
+3019,**Funcionalidade,Quais as funcionalidades?
+3020,**Funções,Quias as funções? 
+3021,**Garantia do Fornecedor,Qual o tempo de garantia?
+3022,**Idade Recomendada,Qual a faixa etária indicada?
+3023,**Largura (cm),Qual a Largura (cm)?
+3024,**Mais Informações,Mais informações importantes
+3025,**Material/Composição,Qual a Composição/Material?
+3026,**Modelo,Qual o modelo?
+3027,**Peso Aproximado da Embalagem do Produto (kg),Qual o peso? (kg)
+3028,**Peso da Embalagem C/ Produto (kg),Possui **Peso da Embalagem C/ Produto (kg)?
+3029,**Peso Liq. Aproximado do Produto (Kg),Qual o Peso liq. aproximado do produto (Kg)?
+3030,**Peso Liq. do Produto (Kg),Qual o Peso Liq. do Produto (Kg)?
+3031,**Potência (W),Qual a potência em watts?
+3032,**Profundidade (cm),Qual a Profundidade (cm)?
+3033,**Recomendações de Uso,Quais as recomendações de uso?
+3034,**Referência do Modelo,Qual a Referência do Produto?
+3035,**sac,Como posso entrar em contato com o Serviço de Atendimento ao Consumidor (SAC) e Suporte?
+3036,**Tipo,Qual Tipo?
+3037,**Tipo de Acessório para Mergulho,Qual o Tipo de acessório para mergulho?
+3038,**Tipo de Produto,Qual o Tipo de Produto?
+3039,**Voltagem,Qual a voltagem?
+3040,21cm,21cm?
+3041,"23,8cm","Qual 23,8cm?"
+3042,3D Sound,Possui 3D Sound?
+3043,589g,589g?
+3044,"7,3cm","7,3cm?"
+3045,A ação do brinquedo depende de pilha/bateria,A ação do brinquedo depende de pilha/bateria?
+3046,A Accedil.Atilde.O do Brinquedo Depende de Pilha/Bateria,A Accedil.Atilde.O do Brinquedo Depende de Pilha/Bateria?
+3047,À gás,É à gás?
+3048,"À prova d&#x27;água","É à prova d&#x27;água?"
+3049,À Prova D'água,Possui À Prova D'água?
+3050,Abastecimento de água,Possui Abastecimento de água?
+3051,Abertura,Possui Abertura?
+3052,Abertura da Lente,Qual a Abertura da Lente?
+3053,Abertura de entrada,Possui Abertura de entrada?
+3054,Abertura de viseira,Possui Abertura de viseira?
+3055,Abertura do diafragma,Possui Abertura do diafragma?
+3056,Abertura do Rolo (mm),Qual a Abertura do Rolo (mm)?
+3057,Abertura lateral,Possui Abertura lateral?
+3058,Abertura para Ventilação,Possui Abertura para Ventilação?
+3059,Aberturas,Aberturas?
+3060,Absorção de Água,Qual Absorção de Água?
+3061,Absorção de urina (l/Kg),Qual a capacidade de Absorção de urina (l/Kg)?
+3062,Acabamento,Qual o Acabamento?
+3063,Acabamento dos Braços,Qual o Acabamento dos Braços?
+3064,Acabamento Lateral,Qual o Acabamento Lateral?
+3065,Acabamento Superfície,Qual o Acabamento Superfície?
+3066,Ação,Qual a Ação?
+3067,Ação do Produto,Qual a Ação do Produto?
+3068,Acendimento,Qual a forma de Acendimento?
+3069,Acendimento Automático,Possui Acendimento Automático?
+3070,Alarme sonoro,Possui Alarme sonoro?
+3071,Alarme visual,Possui Alarme visual?
+3072,Alça,Possui Alça?
+3073,Alça de apoio,Possui Alça de apoio?
+3074,Alça de mão,Possui Alça de mão?
+3075,Alça de ombro,Possui Alça de ombro?
+3076,Alça de ombro ajustável,Possui Alça de ombro ajustável?
+3077,Alça de transporte,Possui Alça de transporte?
+3078,Alça para transporte,Possui Alça para transporte?
+3079,Alça Reguláveis,Possui Alça Reguláveis?
+3080,Alcance,Qual o Alcance?
+3081,Alcance do Bluetooth,Qual o Alcance do Bluetooth?
+3082,Alcance do flash,Qual o Alcance do flash?
+3083,Alcance do foco,Qual o Alcance do foco?
+3084,Alças,Possui a Alças?
+3085,Alças / Puxadores,Possui Alças / Puxadores?
+3086,Alças ajustáveis,Possui Alças ajustáveis?
+3087,Alças laterais,Possui Alças laterais?
+3088,Alças laterais para transporte,Possui Alças laterais para transporte?
+3089,Alças móveis e fixas,Possui Alças móveis e fixas?
+3090,Alças reguláveis,Possui Alças reguláveis?
+3091,Alérgico,É Alérgico?
+3092,Alerta de Velocidade,Possui a Alerta de Velocidade?
+3093,Alerta vibratório,Possui Alerta vibratório?
+3094,Alertas,Possui a Alertas?
+3095,Alimentação,Qual a forma de alimentação?
+3096,"Alimentação (pilha, bateria, entre outros) - quantidade","Qual a Alimentação (pilha, bateria, entre outros) - quantidade?"
+3097,"Alimentação (pilhas, baterias, entre outros) - quantidade","Possui Alimentação (pilhas, baterias, entre outros) - quantidade?"
+3098,Alimentação (tipo de bateria),Qual a Alimentação (tipo de bateria)?
+3099,Alimentação Alternativa,Qual a Alimentação Alternativa?
+3100,Alimentação Câmera,Qual a Alimentação Câmera?
+3101,Acendimento inteligente,Possui Acendimento inteligente?
+3102,Acessórios,Possui Acessórios?

@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+kaggle.json
+*.duckdb
+_tmp/
+catalogo_raw/
+catalogo_build/
+data/
