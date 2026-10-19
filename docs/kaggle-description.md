@@ -1,4 +1,4 @@
-**114.6 million offers from 7,179 Brazilian online stores (2019–2024)**, with spec sheets, barcodes, categories and **18.3 million product groups**: the same item sold by different stores, linked by an 11-rule matching engine (EAN, name fingerprints, metaphone, n-grams, URL and an image signature).
+**114.6 million offers from 7,179 Brazilian online stores (2019–2024)**, with spec sheets, barcodes, categories and **18.3 million product groups**: the same item sold by different stores, linked by a two-hop matching engine over 11 text and code keys (EAN, exact name, name fingerprints, metaphone, n-grams, URL, short EAN + brand) plus an image signature.
 
 The catalog powered a network of Brazilian product sites (price comparison, spec sheets, size guides, brand customer service). Code, documentation and a small sample: https://github.com/CaiqueDourado/catalogo-produtos-ecommerce-brasil
 

@@ -36,31 +36,27 @@ The runbook lived as a comment in the main crawler page and listed the order in 
 
 ## 3. Matching (`group_id`)
 
-Routine `agrupa_insere_grupos_produtos_similares_novo.sql`. A new offer joins an existing group when it matches on one of these keys, tried in this order:
+Routine `agrupa_insere_grupos_produtos_similares_novo_tabela_temp.sql`. For each offer not yet grouped:
 
-1. `EAN longo` (13–14 digits)
-2. `productName` (exact)
-3. `productName_fingerprint`
-4. `productName_metaphone`
-5. `productName_ngram`
-6. `productName_tokenizada_fingerprint`
-7. `productUrl`
-8. `EAN curto + Brand`, `+ Brand fingerprint`, `+ Brand tokenizada`, `+ Brand ngram`
-9. `productImage_hash_Imagio_ComputeHash` (image signature)
+1. **Hop 1:** collect every offer that shares one of these keys with it:
+   `EAN longo` (long EAN), `productName` (exact), `productName_fingerprint`, `productName_metaphone`, `productName_ngram`, `productName_tokenizada_fingerprint`, `productUrl`, `EAN curto + Brand` / `+ Brand tokenizada` / `+ Brand fingerprint` / `+ Brand ngram` (short EAN plus 4 forms of the brand), and `productImage_hash_Imagio_ComputeHash` (image signature).
+2. **Word check:** drop the long-EAN matches whose names share no word (logged in `temp_agrupamentos_ignorados`).
+3. **Hop 2:** collect every offer that shares a key with the hop-1 offers, in the full table.
+4. **Group:** if any collected offer already has a group, all join the lowest group id; otherwise a new group is created. Each offer records the key it came through.
 
-Safeguards:
+Safeguards before matching:
 
-- **EAN blacklist** (`ignored_in_grouping`): codes repeated in more than 5 products of the same store, letters only, truncated with "+", 15 or more different names, starting with 000, "SEM GTIN".
-- **Word-overlap check** on EAN matches: when the two names share too few tokens, the match is refused and logged (`temp_agrupamentos_ignorados`).
-- **Generic images:** an image signature shared by more than 100 products marks the image as generic and the group is split.
+- **EAN blacklist** (`ignored_in_grouping`): "SEM GTIN", 1000000000000 and similar placeholders, letters only, truncated with "+" ("90E+12"), codes in more than 5 products of the same store.
+- **Generic brands** ("Importado", "Original", "Não Informado"…) blanked before the brand keys; fingerprint and metaphone keys only for names with enough words.
+- **Generic images:** an image signature shared by more than 100 products is not used as a key.
 
-A second pass (**two-hop regrouping**) looks for products similar to those already in each group. `group_rule_original` is the rule of the first match; `group_rule` is the rule after regrouping. Regrouping finds more matches but can chain unrelated products, which is why `grupos.group_flag` exists.
+Periodic **regrouping** ran the same routine again over existing groups, pulling in products similar to their members. `group_rule_original` is the rule of the first match; `group_rule` is the rule after regrouping. Regrouping finds more matches but can chain unrelated products, which is why `grupos.group_flag` exists.
 
 Group names: when a group is created or reactivated, `short_name` is the shortest name among offers with an image (preferring offers with a price), `long_name` the longest. A group is `active` when at least one offer has a downloaded image.
 
 ## 4. Image signature
 
-Images were downloaded (85.8 million download jobs spread over 12–15 machines, coordinated by a queue table in SQL Server), shrunk to 16×16 grayscale with ImageMagick and hashed with SHA-256. The 32 hash bytes were stored as decimal numbers written one after the other (80–84 characters), the format kept in `image_hash`. Equal signatures mean the same picture regardless of size and compression. A signature on more than 100 products marks a generic image.
+Images were downloaded (85.8 million download jobs spread over 12–15 machines, coordinated by a queue table in SQL Server), shrunk to 16×16 grayscale with ImageMagick and hashed with SHA-256. The 32 hash bytes were stored as decimal numbers written one after the other (80–84 characters), the format kept in `image_hash`. Equal signatures mean the same image after shrinking. Because SHA-256 is exact, a difference of 1 in a single pixel gives a different signature, so in practice it links offers that share the same image file (sister stores such as Americanas, Submarino and Shoptime), not copies the store resized or recompressed. A perceptual hash compared by Hamming distance would catch those (see the README). A signature on more than 100 products marks a generic image.
 
 ## 5. Normalization at the source (2020)
 
@@ -84,3 +80,4 @@ Done in place in the database, so the original store text is not available for o
    - customer-service rows of brands that asked for removal dropped (the only deletion).
 4. `scripts/validate.py` checks counts, keys, rules and that no affiliate id leaked.
 5. `scripts/sample.py` makes the GitHub sample.
+6. `scripts/make_figures.py` draws the README figures from the sample.

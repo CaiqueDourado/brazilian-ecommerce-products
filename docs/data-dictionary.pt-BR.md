@@ -46,7 +46,7 @@ Chaves da ficha técnica que receberam um título em forma de pergunta para os s
 
 ## grupos.parquet (18.328.454 linhas)
 
-Grupos de produto: a mesma peça vendida em lojas diferentes, ligada pelo agrupamento em 11 regras e 2 saltos.
+Grupos de produto: a mesma peça vendida em lojas diferentes, ligada pelo agrupamento em 2 saltos sobre 11 chaves de texto e código mais a assinatura da imagem (ver [metodologia](methodology.md)).
 
 | Coluna | Tipo | Descrição |
 |---|---|---|
@@ -85,7 +85,7 @@ Uma linha por oferta coletada (produto numa loja).
 | group_id | int | Grupo do produto (→ grupos.id). Vazio em 7,4 mi ofertas, em parte porque a carga das imagens baixadas zerava o grupo |
 | group_rule | texto | Regra que pôs a oferta no grupo atual (após o reagrupamento): `EAN longo`, `productName`, `productName_fingerprint`, `productName_metaphone`, `productName_ngram`, `productName_tokenizada_fingerprint`, `productUrl`, `productImage_hash_Imagio_ComputeHash`, `EAN curto + Brand` (e variações) |
 | group_rule_original | texto | Regra do primeiro agrupamento, o mais conservador. Vazia quando um script de desagrupamento apagou o valor |
-| image_hash | texto | Assinatura da imagem: a foto reduzida a 16×16 em tons de cinza e passada por SHA-256. Fotos iguais em tamanhos diferentes têm a mesma assinatura. Formato: os 32 bytes escritos em decimal e colados (80–84 caracteres), como estava no banco. Mantido assim: não há conversão segura para hexadecimal, e para comparar imagens funciona do mesmo jeito |
+| image_hash | texto | Assinatura da imagem: a foto reduzida a 16×16 em tons de cinza e passada por SHA-256. A mesma imagem (mesmos pixels depois da redução) tem a mesma assinatura; como o hash é exato, uma foto redimensionada ou recomprimida pela loja costuma ter assinatura diferente. Formato: os 32 bytes escritos em decimal e colados (80–84 caracteres), como estava no banco. Mantido assim: não há conversão segura para hexadecimal, e para comparar imagens funciona do mesmo jeito |
 | image_width / image_height | int | Dimensões da imagem **depois** de otimizada. Podem vir de outra imagem por uma falha de concorrência no download. Usar com cuidado |
 | image_is_generic | bool | `true` quando a mesma assinatura aparece em mais de 100 produtos (imagem "sem foto", logo da loja). Essas imagens não contam no agrupamento |
 

@@ -48,7 +48,7 @@ Spec-sheet keys that were given a question-style title for the sites.
 
 ## grupos.parquet (18,328,454 rows): product groups
 
-The same item sold by different stores, linked by the 11-rule, two-hop matching (see [methodology](methodology.md)).
+The same item sold by different stores, linked by the two-hop matching over 11 text and code keys plus the image signature (see [methodology](methodology.md)).
 
 | Column | Type | Description |
 |---|---|---|
@@ -87,7 +87,7 @@ One row per collected offer (a product in a store).
 | group_id | int | Product group (→ grupos.id). Empty for 7.4M offers, partly because loading downloaded images cleared the group |
 | group_rule | text | Rule that put the offer in its current group (after regrouping): `EAN longo` (long EAN), `productName`, `productName_fingerprint`, `productName_metaphone`, `productName_ngram`, `productName_tokenizada_fingerprint`, `productUrl`, `productImage_hash_Imagio_ComputeHash`, `EAN curto + Brand` (short EAN + brand, and variants) |
 | group_rule_original | text | Rule of the first, most conservative match. Empty when an ungrouping script erased it |
-| image_hash | text | Image signature: the photo shrunk to 16×16 grayscale and hashed with SHA-256. The same photo at different sizes has the same signature. Format: the 32 bytes written in decimal and concatenated (80–84 characters), as stored in the database. Kept as is: there is no safe conversion to hex, and it works the same for comparing images |
+| image_hash | text | Image signature: the photo shrunk to 16×16 grayscale and hashed with SHA-256. The same image (same pixels after shrinking) has the same signature; because the hash is exact, a photo the store resized or recompressed usually gets a different signature. Format: the 32 bytes written in decimal and concatenated (80–84 characters), as stored in the database. Kept as is: there is no safe conversion to hex, and it works the same for comparing images |
 | image_width / image_height | int | Size of the image **after** optimization. May belong to another image because of a race condition in the downloader. Use with care |
 | image_is_generic | bool | `true` when the same signature appears on more than 100 products ("no photo" images, store logos). These images do not count for matching |
 
