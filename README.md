@@ -185,7 +185,7 @@ Safeguards that kept it from merging everything:
 
 `group_rule_original` keeps the key of the first match; `group_rule` the key after regrouping, which merges more and sometimes chains too far. The 3,107 groups with more than 1,000 offers and the 11,743 with more than 10 brands are flagged in `grupos.group_flag`. Use `group_rule_original` and `group_flag = 'ok'` when precision matters.
 
-The routine itself is published read-only in [legacy/](legacy/), with its known issues. Its logic is now a tested library, **[DedupKit](https://github.com/CaiqueDourado/DedupKit)** (Python and .NET, same results in both). It fixes the fingerprint, checks shared words on every barcode match and refuses pairs whose names state different sizes, voltages or colours. On this dataset's sample, that check alone would split 762 of the 4,030 groups: "Mass Way 2500 400g" vs "500g", "Squeeze 500ml" vs "750ml", "Toalheiro 220v" vs "127v".
+The routine itself is published read-only in [legacy/](legacy/), with its known issues. Its logic is now a tested library, **[DedupKit](https://github.com/CaiqueDourado/DedupKit)** (Python and .NET, same results in both). It fixes the fingerprint, checks shared words on every barcode match and refuses pairs whose names state different sizes, voltages or colours. On this dataset's sample, that check alone would split 795 of the 4,030 groups, mostly because they kept every size of a shoe or garment together: "Mass Way 2500 400g" vs "500g", "Squeeze 500ml" vs "750ml", "Toalheiro 220v" vs "127v".
 
 ## The image signature
 

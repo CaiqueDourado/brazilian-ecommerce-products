@@ -40,7 +40,7 @@ What was found while profiling the raw export and reading the code that produced
 - **Offers without a group (7.4M):** in part because loading downloaded images back cleared `productGroupId`.
 - **`group_rule_original` empty:** some ungrouping scripts erased it.
 - **Fingerprint bug:** the fingerprint key used by two matching rules dropped every other token, so some fingerprint matches are weaker than the name suggests. [DedupKit](https://github.com/CaiqueDourado/DedupKit) reproduces it (`legacy_fingerprint`) and measures its effect.
-- **No attribute check:** offers that share a barcode or a photo were merged even when their names state different sizes, voltages or colours. Re-checking the sample with [DedupKit](https://github.com/CaiqueDourado/DedupKit) would split 762 of its 4,030 groups.
+- **No attribute check:** offers that share a barcode or a photo were merged even when their names state different sizes, voltages or colours. Re-checking the sample with [DedupKit](https://github.com/CaiqueDourado/DedupKit) would split 795 of its 4,030 groups.
 - **Group names are not refreshed** when offers leave a group, and `active` only checks for an image, not a price.
 - **Image size:** `image_width` / `image_height` describe the optimized image and may belong to another image, because of a race condition between download threads.
 - **EAN origin key:** the crawler never filled the key column of the identifier table. `source_key` recovers it from the spec sheet when the same code is there.

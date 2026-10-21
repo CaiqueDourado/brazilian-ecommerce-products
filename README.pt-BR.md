@@ -185,7 +185,7 @@ As proteções que impediam de juntar tudo:
 
 `group_rule_original` guarda a chave do primeiro casamento; `group_rule`, a chave depois do reagrupamento, que junta mais e às vezes encadeia demais. Os 3.107 grupos com mais de 1.000 ofertas e os 11.743 com mais de 10 marcas estão marcados em `grupos.group_flag`. Use `group_rule_original` e `group_flag = 'ok'` quando precisar de precisão.
 
-A rotina está publicada, só para leitura, em [legacy/](legacy/), com os problemas conhecidos. A lógica dela virou uma biblioteca testada, **[DedupKit](https://github.com/CaiqueDourado/DedupKit)** (Python e .NET, com os mesmos resultados nas duas). Ela corrige o fingerprint, confere palavras em todo casamento por código e recusa pares cujos nomes dizem tamanhos, voltagens ou cores diferentes. Na amostra deste dataset, só essa conferência dividiria 762 dos 4.030 grupos: "Mass Way 2500 400g" vs "500g", "Squeeze 500ml" vs "750ml", "Toalheiro 220v" vs "127v".
+A rotina está publicada, só para leitura, em [legacy/](legacy/), com os problemas conhecidos. A lógica dela virou uma biblioteca testada, **[DedupKit](https://github.com/CaiqueDourado/DedupKit)** (Python e .NET, com os mesmos resultados nas duas). Ela corrige o fingerprint, confere palavras em todo casamento por código e recusa pares cujos nomes dizem tamanhos, voltagens ou cores diferentes. Na amostra deste dataset, só essa conferência dividiria 795 dos 4.030 grupos, a maioria porque juntavam todos os tamanhos de um calçado ou roupa: "Mass Way 2500 400g" vs "500g", "Squeeze 500ml" vs "750ml", "Toalheiro 220v" vs "127v".
 
 ## A assinatura da imagem
 

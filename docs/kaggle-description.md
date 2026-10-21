@@ -8,7 +8,7 @@ The catalog powered a network of Brazilian product sites (price comparison, spec
 
 ![Matching flow](https://raw.githubusercontent.com/CaiqueDourado/catalogo-produtos-ecommerce-brasil/main/docs/img/matching.png)
 
-The matching logic is now a tested library, **DedupKit** (Python and .NET): https://github.com/CaiqueDourado/DedupKit. It also refuses pairs whose names state different sizes, voltages or colours; on the GitHub sample, that check alone would split 762 of the 4,030 groups. The original SQL routine is published read-only in the repository's `legacy/` folder.
+The matching logic is now a tested library, **DedupKit** (Python and .NET): https://github.com/CaiqueDourado/DedupKit. It also refuses pairs whose names state different sizes, voltages or colours; on the GitHub sample, that check alone would split 795 of the 4,030 groups. The original SQL routine is published read-only in the repository's `legacy/` folder.
 
 ![Image signature](https://raw.githubusercontent.com/CaiqueDourado/catalogo-produtos-ecommerce-brasil/main/docs/img/image-signature.png)
 
