@@ -36,7 +36,7 @@ The runbook lived as a comment in the main crawler page and listed the order in 
 
 ## 3. Matching (`group_id`)
 
-Routine `agrupa_insere_grupos_produtos_similares_novo_tabela_temp.sql`. For each offer not yet grouped:
+Routine `agrupa_insere_grupos_produtos_similares_novo_tabela_temp.sql`, published read-only as [legacy/agrupa_insere_grupos_produtos_similares.sql](../legacy/agrupa_insere_grupos_produtos_similares.sql) (known issues in [legacy/README.md](../legacy/README.md)). For each offer not yet grouped:
 
 1. **Hop 1:** collect every offer that shares one of these keys with it:
    `EAN longo` (long EAN), `productName` (exact), `productName_fingerprint`, `productName_metaphone`, `productName_ngram`, `productName_tokenizada_fingerprint`, `productUrl`, `EAN curto + Brand` / `+ Brand tokenizada` / `+ Brand fingerprint` / `+ Brand ngram` (short EAN plus 4 forms of the brand), and `productImage_hash_Imagio_ComputeHash` (image signature).
@@ -53,6 +53,8 @@ Safeguards before matching:
 Periodic **regrouping** ran the same routine again over existing groups, pulling in products similar to their members. `group_rule_original` is the rule of the first match; `group_rule` is the rule after regrouping. Regrouping finds more matches but can chain unrelated products, which is why `grupos.group_flag` exists.
 
 Group names: when a group is created or reactivated, `short_name` is the shortest name among offers with an image (preferring offers with a price), `long_name` the longest. A group is `active` when at least one offer has a downloaded image.
+
+The same logic, with the fingerprint fixed, a word check on every code match and an attribute check (sizes, voltages, colours), is now the library [DedupKit](https://github.com/CaiqueDourado/DedupKit). `LEGACY_RULES` with `mode="two_hop"` reproduces this routine's behaviour for comparison.
 
 ## 4. Image signature
 

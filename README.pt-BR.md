@@ -185,6 +185,8 @@ As proteções que impediam de juntar tudo:
 
 `group_rule_original` guarda a chave do primeiro casamento; `group_rule`, a chave depois do reagrupamento, que junta mais e às vezes encadeia demais. Os 3.107 grupos com mais de 1.000 ofertas e os 11.743 com mais de 10 marcas estão marcados em `grupos.group_flag`. Use `group_rule_original` e `group_flag = 'ok'` quando precisar de precisão.
 
+A rotina está publicada, só para leitura, em [legacy/](legacy/), com os problemas conhecidos. A lógica dela virou uma biblioteca testada, **[DedupKit](https://github.com/CaiqueDourado/DedupKit)** (Python e .NET, com os mesmos resultados nas duas). Ela corrige o fingerprint, confere palavras em todo casamento por código e recusa pares cujos nomes dizem tamanhos, voltagens ou cores diferentes. Na amostra deste dataset, só essa conferência dividiria 762 dos 4.030 grupos: "Mass Way 2500 400g" vs "500g", "Squeeze 500ml" vs "750ml", "Toalheiro 220v" vs "127v".
+
 ## A assinatura da imagem
 
 <p align="center"><img src="docs/img/image-signature.pt-BR.png" alt="Cinco passos: foto do produto, redução a 16x16, tons de cinza, SHA-256, uso como chave de agrupamento" width="900"></p>
@@ -285,9 +287,11 @@ A única exclusão: contatos de SAC das marcas que pediram remoção (224 linhas
 - **Testar as funções de texto com casos em português.** O fingerprint que eu usava descartava uma palavra sim, uma não. Uma rotina de categorias apagou toda categoria com número, como "Galaxy J5".
 - **Separar ingestão de enriquecimento.** A carga das imagens baixadas zerava o grupo do produto, e por isso parte das 7,4 milhões de ofertas está sem grupo.
 - **Usar um hash perceptual nas imagens**, como mostrado acima: agora na [SimilarImageFinder](https://github.com/CaiqueDourado/SimilarImageFinder).
+- **Comparar atributos antes de juntar.** Mesmo EAN ou mesma foto não basta quando os nomes dizem 400g e 500g: agora no [DedupKit](https://github.com/CaiqueDourado/DedupKit).
 
 ## Relacionados
 
+- [DedupKit](https://github.com/CaiqueDourado/DedupKit): o agrupamento deste catálogo, reescrito como biblioteca em Python e .NET, com conferência de atributos e trilha de auditoria.
 - [SimilarImageFinder](https://github.com/CaiqueDourado/SimilarImageFinder): a assinatura de imagem deste catálogo, reescrita como biblioteca em Python e .NET, com hashes perceptuais.
 - [taxonomia-google-produtos-ptbr](https://github.com/CaiqueDourado/taxonomia-google-produtos-ptbr): a taxonomia de produtos do Google em português, usada para classificar produtos deste data lake.
 - [municipios-e-estados-do-brasil](https://github.com/CaiqueDourado/municipios-e-estados-do-brasil) e [paises-do-mundo-ptbr](https://github.com/CaiqueDourado/paises-do-mundo-ptbr): outras tabelas de referência do mesmo projeto.

@@ -185,6 +185,8 @@ Safeguards that kept it from merging everything:
 
 `group_rule_original` keeps the key of the first match; `group_rule` the key after regrouping, which merges more and sometimes chains too far. The 3,107 groups with more than 1,000 offers and the 11,743 with more than 10 brands are flagged in `grupos.group_flag`. Use `group_rule_original` and `group_flag = 'ok'` when precision matters.
 
+The routine itself is published read-only in [legacy/](legacy/), with its known issues. Its logic is now a tested library, **[DedupKit](https://github.com/CaiqueDourado/DedupKit)** (Python and .NET, same results in both). It fixes the fingerprint, checks shared words on every barcode match and refuses pairs whose names state different sizes, voltages or colours. On this dataset's sample, that check alone would split 762 of the 4,030 groups: "Mass Way 2500 400g" vs "500g", "Squeeze 500ml" vs "750ml", "Toalheiro 220v" vs "127v".
+
 ## The image signature
 
 <p align="center"><img src="docs/img/image-signature.png" alt="Five steps: product photo, shrink to 16x16, grayscale, SHA-256, use as a matching key" width="900"></p>
@@ -285,9 +287,11 @@ The only deletion: customer-service contacts of brands that asked for removal (2
 - **Test text functions with Portuguese cases.** The fingerprint I used dropped every other word. A category routine deleted every category containing a digit, such as "Galaxy J5".
 - **Keep ingestion apart from enrichment.** Loading downloaded images back cleared the product's group, which explains part of the 7.4M offers without a group.
 - **Use a perceptual hash for images**, as shown above: now [SimilarImageFinder](https://github.com/CaiqueDourado/SimilarImageFinder).
+- **Compare attributes before merging.** A shared barcode or photo is not enough when the names say 400g and 500g: now [DedupKit](https://github.com/CaiqueDourado/DedupKit).
 
 ## Related
 
+- [DedupKit](https://github.com/CaiqueDourado/DedupKit): the matching of this catalog, rewritten as a Python and .NET library, with an attribute check and an audit trail.
 - [SimilarImageFinder](https://github.com/CaiqueDourado/SimilarImageFinder): the image signature of this catalog, rewritten as a Python and .NET library with perceptual hashes.
 - [taxonomia-google-produtos-ptbr](https://github.com/CaiqueDourado/taxonomia-google-produtos-ptbr): Google's product taxonomy in Portuguese, used to classify products from this data lake.
 - [municipios-e-estados-do-brasil](https://github.com/CaiqueDourado/municipios-e-estados-do-brasil) and [paises-do-mundo-ptbr](https://github.com/CaiqueDourado/paises-do-mundo-ptbr): other reference tables from the same project.
