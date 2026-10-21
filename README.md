@@ -291,6 +291,7 @@ The only deletion: customer-service contacts of brands that asked for removal (2
 
 ## Related
 
+- [pares-matching-produtos-ptbr](https://github.com/CaiqueDourado/pares-matching-produtos-ptbr): labelled pairs of these offers for product matching, with hard negatives and 780 pairs checked one by one ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/pares-matching-produtos-ptbr)).
 - [DedupKit](https://github.com/CaiqueDourado/DedupKit): the matching of this catalog, rewritten as a Python and .NET library, with an attribute check and an audit trail.
 - [SimilarImageFinder](https://github.com/CaiqueDourado/SimilarImageFinder): the image signature of this catalog, rewritten as a Python and .NET library with perceptual hashes.
 - [taxonomia-google-produtos-ptbr](https://github.com/CaiqueDourado/taxonomia-google-produtos-ptbr): Google's product taxonomy in Portuguese, used to classify products from this data lake.
