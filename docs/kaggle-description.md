@@ -2,6 +2,22 @@
 
 The catalog powered a network of Brazilian product sites (price comparison, spec sheets, size guides, brand customer service). Code, documentation and a small sample: https://github.com/CaiqueDourado/catalogo-produtos-ecommerce-brasil
 
+![One product, many stores](https://raw.githubusercontent.com/CaiqueDourado/catalogo-produtos-ecommerce-brasil/main/docs/img/one-product-many-stores.png)
+
+## How offers were grouped
+
+![Matching flow](https://raw.githubusercontent.com/CaiqueDourado/catalogo-produtos-ecommerce-brasil/main/docs/img/matching.png)
+
+![Image signature](https://raw.githubusercontent.com/CaiqueDourado/catalogo-produtos-ecommerce-brasil/main/docs/img/image-signature.png)
+
+The image signature links offers that share the same image file and finds "no photo" placeholders. Because SHA-256 is exact, it does not match a photo the store resized or recompressed:
+
+![Exact vs perceptual hash](https://raw.githubusercontent.com/CaiqueDourado/catalogo-produtos-ecommerce-brasil/main/docs/img/exact-vs-perceptual-hash.png)
+
+## Barcodes in the real world
+
+![Barcode quality](https://raw.githubusercontent.com/CaiqueDourado/catalogo-produtos-ecommerce-brasil/main/docs/img/barcode-quality.png)
+
 ## Files
 
 | File | Rows | Content |
