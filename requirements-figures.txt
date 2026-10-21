@@ -1,0 +1,6 @@
+# README figures only (scripts/make_figures.py)
+-r requirements.txt
+matplotlib==3.11.2
+numpy==2.5.3
+pillow==12.3.0
+similar-image-finder @ git+https://github.com/CaiqueDourado/SimilarImageFinder@v0.1.0#subdirectory=python

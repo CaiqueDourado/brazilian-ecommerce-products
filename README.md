@@ -8,6 +8,7 @@
 [![Data: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey.svg)](LICENSE-DATA.md)
 [![Code: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE)
 [![Kaggle](https://img.shields.io/badge/Kaggle-full%20dataset-20BEFF.svg)](https://www.kaggle.com/datasets/caiquedourado/catalogo-produtos-ecommerce-brasil)
+[![Notebook](https://img.shields.io/badge/Kaggle-notebook-20BEFF.svg)](https://www.kaggle.com/code/caiquedourado/notebook-catalogo-produtos-ecommerce-brasil)
 
 [Leia em português](README.pt-BR.md)
 
@@ -188,7 +189,7 @@ Safeguards that kept it from merging everything:
 
 <p align="center"><img src="docs/img/image-signature.png" alt="Five steps: product photo, shrink to 16x16, grayscale, SHA-256, use as a matching key" width="900"></p>
 
-Every product photo was downloaded (85.8 million download jobs spread over 12 to 15 machines, coordinated by a queue table in SQL Server), shrunk to 16×16 grayscale and hashed with SHA-256. It is cheap: 256 bytes per image, and comparing two images means comparing two strings in an index.
+Every product photo was downloaded (85.8 million download jobs spread over 12 to 15 machines, coordinated by a queue table in SQL Server), shrunk to 16×16 grayscale, and the 16×16 thumbnail was hashed with SHA-256. It is cheap: 256 bytes per image, and comparing two images means comparing two strings in an index.
 
 It did two jobs well:
 
@@ -199,7 +200,7 @@ What it did not do is match the same photo after a store resized or recompressed
 
 <p align="center"><img src="docs/img/exact-vs-perceptual-hash.png" alt="The same photo at 1000 and 300 pixels gives different SHA-256 signatures, but a difference hash differs by only 1 of 256 bits" width="900"></p>
 
-Today I would keep the 16×16 grayscale step and replace SHA-256 with a perceptual hash (dHash or pHash), compared by Hamming distance.
+That is what I would do today, and it is now a library: **[SimilarImageFinder](https://github.com/CaiqueDourado/SimilarImageFinder)** (Python and .NET, same results in both). It keeps the 16×16 gray idea, hashes decoded pixels instead of the encoded thumbnail (the old values also changed when the images moved to AWS), and adds pHash, border trimming, a search index for millions of hashes and the generic-image detector used here. Its benchmark on product photos shows why pHash: aHash and dHash confuse different products on white backgrounds.
 
 ## Barcodes in the real world
 
@@ -216,6 +217,8 @@ One in five values in the "EAN" field of Brazilian stores is not a valid GTIN. `
 - Training and test pairs for product matching (entity resolution) in Portuguese: offers in the same group are positive pairs; the refused EAN pairs are hard negatives (to be published as a separate dataset).
 
 ## Getting started
+
+The quickest way in is the [exploratory notebook on Kaggle](https://www.kaggle.com/code/caiquedourado/notebook-catalogo-produtos-ecommerce-brasil): it runs on the full data in about 5 minutes and covers stores, prices, matching keys, barcodes, spec sheets and image signatures.
 
 Full data (Kaggle) with DuckDB:
 
@@ -281,10 +284,11 @@ The only deletion: customer-service contacts of brands that asked for removal (2
 - **Keep raw data before normalizing.** Names, brands and categories were normalized in place in 2020, and the stores' original text was lost. A plural rule turned "Home" into "Homes".
 - **Test text functions with Portuguese cases.** The fingerprint I used dropped every other word. A category routine deleted every category containing a digit, such as "Galaxy J5".
 - **Keep ingestion apart from enrichment.** Loading downloaded images back cleared the product's group, which explains part of the 7.4M offers without a group.
-- **Use a perceptual hash for images**, as shown above.
+- **Use a perceptual hash for images**, as shown above: now [SimilarImageFinder](https://github.com/CaiqueDourado/SimilarImageFinder).
 
 ## Related
 
+- [SimilarImageFinder](https://github.com/CaiqueDourado/SimilarImageFinder): the image signature of this catalog, rewritten as a Python and .NET library with perceptual hashes.
 - [taxonomia-google-produtos-ptbr](https://github.com/CaiqueDourado/taxonomia-google-produtos-ptbr): Google's product taxonomy in Portuguese, used to classify products from this data lake.
 - [municipios-e-estados-do-brasil](https://github.com/CaiqueDourado/municipios-e-estados-do-brasil) and [paises-do-mundo-ptbr](https://github.com/CaiqueDourado/paises-do-mundo-ptbr): other reference tables from the same project.
 

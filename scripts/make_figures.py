@@ -1,6 +1,7 @@
 """Draw the README figures (English and Portuguese) into docs/img/.
 
-Usage:  python scripts/make_figures.py
+Usage:  pip install -r requirements-figures.txt
+        python scripts/make_figures.py
 
 Reads the sample (sample/*.csv) for the price example and fixed numbers from the full build for the
 barcode chart. The image-signature figures use a drawn lamp, not a real store photo (images are not
@@ -14,6 +15,7 @@ import io
 from pathlib import Path
 
 import duckdb
+import similar_image_finder as sif
 import matplotlib
 
 matplotlib.use("Agg")
@@ -42,7 +44,7 @@ T = {
         "sig_title": "Image signature: from product photo to a matching key",
         "steps": ["1. Product photo", "2. Shrink to 16×16", "3. Grayscale", "4. SHA-256"],
         "subs": ["as downloaded\nfrom the store", "256 pixels left;\nfine detail is gone",
-                 "one byte per pixel\n(0 = black, 255 = white)", "of the 256 bytes, written in\ndecimal: the image_hash"],
+                 "one byte per pixel\n(0 = black, 255 = white)", "of the 16×16 file, written\nin decimal: the image_hash"],
         "use": "5. Use it",
         "use1": "Same signature on two offers\n→ same image\n→ the offers join one group\n   (one of the 12 matching keys)",
         "use2": "Same signature on more than\n100 products\n→ \"no photo\" placeholder or logo\n→ image_is_generic = true,\n   no longer used for matching",
@@ -51,8 +53,8 @@ T = {
         "diff": "difference: {n} of 256 pixels, max {m}",
         "sha": "SHA-256 (used in this dataset)",
         "sha_txt": "Completely different: a change of 1 in one pixel changes every byte.\nIt matches only the same image file, as served by sister stores.",
-        "dh": "Difference hash (dHash, what I would use today)",
-        "dh_txt": "{b} of 256 bits differ → compare by Hamming distance\n(a few bits apart = same picture).",
+        "dh": "Perceptual hash (pHash, what I would use today)",
+        "dh_txt": "{b} of 64 bits differ → compare by Hamming distance\n(a few bits apart = same picture). Library: SimilarImageFinder.",
         "dh_txt2": "Matches resized and recompressed copies of the same photo.",
         "price_title": "One product, many stores: Taschibra TLF 28 pendant lamp",
         "price_sub": "Group 415923 · {n} priced offers in {s} stores · R\\$ {lo} to R\\$ {hi} (+{pct}%) · prices collected on different dates, 2019–2020",
@@ -85,7 +87,7 @@ T = {
         "sig_title": "Assinatura da imagem: da foto do produto a uma chave de agrupamento",
         "steps": ["1. Foto do produto", "2. Reduz a 16×16", "3. Tons de cinza", "4. SHA-256"],
         "subs": ["como foi baixada\nda loja", "sobram 256 pixels;\nos detalhes somem",
-                 "um byte por pixel\n(0 = preto, 255 = branco)", "dos 256 bytes, escrito em\ndecimal: o image_hash"],
+                 "um byte por pixel\n(0 = preto, 255 = branco)", "do arquivo 16×16, escrito\nem decimal: o image_hash"],
         "use": "5. Uso",
         "use1": "Mesma assinatura em duas ofertas\n→ mesma imagem\n→ as ofertas entram no mesmo grupo\n   (uma das 12 chaves)",
         "use2": "Mesma assinatura em mais de\n100 produtos\n→ imagem \"sem foto\" ou logo\n→ image_is_generic = true,\n   deixa de agrupar",
@@ -94,8 +96,8 @@ T = {
         "diff": "diferença: {n} de 256 pixels, no máximo {m}",
         "sha": "SHA-256 (usado nesta base)",
         "sha_txt": "Totalmente diferentes: mudar 1 num pixel muda todos os bytes.\nSó acha o mesmo arquivo de imagem, como o das lojas do mesmo grupo.",
-        "dh": "Hash de diferença (dHash, o que eu usaria hoje)",
-        "dh_txt": "{b} de 256 bits diferem → comparar pela distância de Hamming\n(poucos bits de diferença = mesma foto).",
+        "dh": "Hash perceptual (pHash, o que eu usaria hoje)",
+        "dh_txt": "{b} de 64 bits diferem → comparar pela distância de Hamming\n(poucos bits de diferença = mesma foto). Biblioteca: SimilarImageFinder.",
         "dh_txt2": "Acha cópias redimensionadas e recomprimidas da mesma foto.",
         "price_title": "Um produto, muitas lojas: pendente Taschibra TLF 28",
         "price_sub": "Grupo 415923 · {n} ofertas com preço em {s} lojas · R\\$ {lo} a R\\$ {hi} (+{pct}%) · preços coletados em datas diferentes, 2019–2020",
@@ -202,9 +204,10 @@ def fig_signature(t: dict, big: Image.Image) -> None:
 
 
 def fig_hash(t: dict, big: Image.Image, small: Image.Image) -> None:
-    g1, g2 = gray16(big), gray16(small)
+    a, b = sif.load_gray(big), sif.load_gray(small)
+    g1, g2 = a.resize(16, 16), b.resize(16, 16)
     diff = np.abs(g1.astype(int) - g2.astype(int))
-    bits = int((dhash(big) != dhash(small)).sum())
+    bits = sif.perceptual_hash(a) - sif.perceptual_hash(b)
     fig = plt.figure(figsize=(12, 4.4), dpi=110)
     fig.text(0.03, 0.90, t["hash_title"], fontsize=19, weight="bold", color=INK)
     fig.text(0.03, 0.82, t["hash_sub"], fontsize=11.5, color=MUTED)
@@ -220,7 +223,7 @@ def fig_hash(t: dict, big: Image.Image, small: Image.Image) -> None:
     ax = fig.add_axes([0.53, 0.08, 0.45, 0.66])
     ax.axis("off")
     ax.text(0, 0.97, t["sha"], fontsize=13, weight="bold", color=INK, va="top")
-    ax.text(0, 0.84, signature(g1)[:42] + "…\n" + signature(g2)[:42] + "…", family="DejaVu Sans Mono",
+    ax.text(0, 0.84, sif.exact_signature(a)[:42] + "…\n" + sif.exact_signature(b)[:42] + "…", family="DejaVu Sans Mono",
             fontsize=10.5, color=INK, va="top")
     ax.text(0, 0.64, t["sha_txt"], fontsize=10.5, color=MUTED, va="top")
     ax.text(0, 0.40, t["dh"], fontsize=13, weight="bold", color=INK, va="top")

@@ -3,9 +3,5 @@ duckdb==1.5.6
 ftfy==6.3.1
 pandas==3.0.5
 pyarrow==26.0.0
-# README figures only (scripts/make_figures.py)
-matplotlib==3.11.2
-numpy==2.5.3
-pillow==12.3.0
 # export from SQL Server only (scripts/export_sqlserver.py); needs an ODBC driver
 # pyodbc

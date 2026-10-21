@@ -56,7 +56,19 @@ Group names: when a group is created or reactivated, `short_name` is the shortes
 
 ## 4. Image signature
 
-Images were downloaded (85.8 million download jobs spread over 12–15 machines, coordinated by a queue table in SQL Server), shrunk to 16×16 grayscale with ImageMagick and hashed with SHA-256. The 32 hash bytes were stored as decimal numbers written one after the other (80–84 characters), the format kept in `image_hash`. Equal signatures mean the same image after shrinking. Because SHA-256 is exact, a difference of 1 in a single pixel gives a different signature, so in practice it links offers that share the same image file (sister stores such as Americanas, Submarino and Shoptime), not copies the store resized or recompressed. A perceptual hash compared by Hamming distance would catch those (see the README). A signature on more than 100 products marks a generic image.
+Images were downloaded (85.8 million download jobs spread over 12–15 machines, coordinated by a queue table in SQL Server). For each image, Magick.NET (ImageMagick):
+
+1. resized it to fit in 16×16;
+2. converted it to grayscale, unless the image was entirely black;
+3. wrote the 16×16 thumbnail to a stream and hashed those bytes with SHA-256.
+
+The 32 hash bytes were stored as decimal numbers written one after the other (80–84 characters), the format kept in `image_hash`. Images with the same signature reused the same file on disk.
+
+Equal signatures mean the same thumbnail. Because SHA-256 is exact, a difference of 1 in a single pixel gives a different signature, so in practice it links offers that share the same image file (sister stores such as Americanas, Submarino and Shoptime), not copies the store resized or recompressed. And because the hash covered the encoded thumbnail, its bytes could change with the ImageMagick version: when the images were moved to AWS and hashed again, the values did not match the local ones, and a correction column was created.
+
+In this dataset, a signature on more than 100 products marks a generic image (`image_is_generic`). The original database also flagged entirely black images automatically.
+
+The technique was rewritten as a library, [SimilarImageFinder](https://github.com/CaiqueDourado/SimilarImageFinder): hashes of decoded pixels, identical in Python and .NET, with pHash for resized and recompressed copies.
 
 ## 5. Normalization at the source (2020)
 

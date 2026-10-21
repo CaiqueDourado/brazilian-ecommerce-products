@@ -8,6 +8,7 @@
 [![Dados: CC BY 4.0](https://img.shields.io/badge/dados-CC%20BY%204.0-lightgrey.svg)](LICENSE-DATA.md)
 [![Código: MIT](https://img.shields.io/badge/código-MIT-blue.svg)](LICENSE)
 [![Kaggle](https://img.shields.io/badge/Kaggle-base%20completa-20BEFF.svg)](https://www.kaggle.com/datasets/caiquedourado/catalogo-produtos-ecommerce-brasil)
+[![Notebook](https://img.shields.io/badge/Kaggle-notebook-20BEFF.svg)](https://www.kaggle.com/code/caiquedourado/notebook-catalogo-produtos-ecommerce-brasil)
 
 [Read in English](README.md)
 
@@ -188,7 +189,7 @@ As proteções que impediam de juntar tudo:
 
 <p align="center"><img src="docs/img/image-signature.pt-BR.png" alt="Cinco passos: foto do produto, redução a 16x16, tons de cinza, SHA-256, uso como chave de agrupamento" width="900"></p>
 
-Cada foto de produto foi baixada (85,8 milhões de tarefas de download distribuídas entre 12 e 15 máquinas, coordenadas por uma fila em tabela do SQL Server), reduzida a 16×16 em tons de cinza e passada por SHA-256. É barato: 256 bytes por imagem, e comparar duas imagens é comparar dois textos num índice.
+Cada foto de produto foi baixada (85,8 milhões de tarefas de download distribuídas entre 12 e 15 máquinas, coordenadas por uma fila em tabela do SQL Server), reduzida a 16×16 em tons de cinza, e a miniatura 16×16 foi passada por SHA-256. É barato: 256 bytes por imagem, e comparar duas imagens é comparar dois textos num índice.
 
 Funcionou bem em duas frentes:
 
@@ -199,7 +200,7 @@ O que ela não fazia era reconhecer a mesma foto depois que a loja a redimension
 
 <p align="center"><img src="docs/img/exact-vs-perceptual-hash.pt-BR.png" alt="A mesma foto com 1000 e 300 pixels gera assinaturas SHA-256 diferentes, mas o hash de diferença muda só 1 de 256 bits" width="900"></p>
 
-Hoje eu manteria a redução a 16×16 em cinza e trocaria o SHA-256 por um hash perceptual (dHash ou pHash), comparado pela distância de Hamming.
+É o que eu faria hoje, e virou uma biblioteca: **[SimilarImageFinder](https://github.com/CaiqueDourado/SimilarImageFinder)** (Python e .NET, com os mesmos resultados nas duas). Ela mantém a ideia do 16×16 em cinza, calcula o hash sobre os pixels decodificados em vez da miniatura codificada (os valores antigos também mudaram quando as imagens foram para a AWS) e acrescenta pHash, remoção de borda, um índice de busca para milhões de hashes e o detector de imagens genéricas usado aqui. O teste dela com fotos de produto mostra por que pHash: aHash e dHash confundem produtos diferentes em fundo branco.
 
 ## Códigos de barras na vida real
 
@@ -216,6 +217,8 @@ Um em cada cinco valores no campo "EAN" das lojas brasileiras não é um GTIN v�
 - Pares de treino e teste para casamento de produtos (entity resolution) em português: ofertas do mesmo grupo são pares positivos; os pares de EAN recusados são negativos difíceis (serão publicados numa base à parte).
 
 ## Começando
+
+O jeito mais rápido de começar é o [notebook de exploração no Kaggle](https://www.kaggle.com/code/caiquedourado/notebook-catalogo-produtos-ecommerce-brasil): roda na base completa em cerca de 5 minutos e cobre lojas, preços, chaves de agrupamento, códigos de barras, fichas técnicas e assinaturas de imagem.
 
 Base completa (Kaggle) com DuckDB:
 
@@ -281,10 +284,11 @@ A única exclusão: contatos de SAC das marcas que pediram remoção (224 linhas
 - **Guardar o dado bruto antes de normalizar.** Nome, marca e categoria foram normalizados no próprio lugar em 2020, e o texto original da loja se perdeu. Uma regra de plural transformou "Home" em "Homes".
 - **Testar as funções de texto com casos em português.** O fingerprint que eu usava descartava uma palavra sim, uma não. Uma rotina de categorias apagou toda categoria com número, como "Galaxy J5".
 - **Separar ingestão de enriquecimento.** A carga das imagens baixadas zerava o grupo do produto, e por isso parte das 7,4 milhões de ofertas está sem grupo.
-- **Usar um hash perceptual nas imagens**, como mostrado acima.
+- **Usar um hash perceptual nas imagens**, como mostrado acima: agora na [SimilarImageFinder](https://github.com/CaiqueDourado/SimilarImageFinder).
 
 ## Relacionados
 
+- [SimilarImageFinder](https://github.com/CaiqueDourado/SimilarImageFinder): a assinatura de imagem deste catálogo, reescrita como biblioteca em Python e .NET, com hashes perceptuais.
 - [taxonomia-google-produtos-ptbr](https://github.com/CaiqueDourado/taxonomia-google-produtos-ptbr): a taxonomia de produtos do Google em português, usada para classificar produtos deste data lake.
 - [municipios-e-estados-do-brasil](https://github.com/CaiqueDourado/municipios-e-estados-do-brasil) e [paises-do-mundo-ptbr](https://github.com/CaiqueDourado/paises-do-mundo-ptbr): outras tabelas de referência do mesmo projeto.
 
