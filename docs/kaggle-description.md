@@ -8,11 +8,15 @@ The catalog powered a network of Brazilian product sites (price comparison, spec
 
 ![Matching flow](https://raw.githubusercontent.com/CaiqueDourado/catalogo-produtos-ecommerce-brasil/main/docs/img/matching.png)
 
+The matching logic is now a tested library, **DedupKit** (Python and .NET): https://github.com/CaiqueDourado/DedupKit. It also refuses pairs whose names state different sizes, voltages or colours; on the GitHub sample, that check alone would split 762 of the 4,030 groups. The original SQL routine is published read-only in the repository's `legacy/` folder.
+
 ![Image signature](https://raw.githubusercontent.com/CaiqueDourado/catalogo-produtos-ecommerce-brasil/main/docs/img/image-signature.png)
 
 The image signature links offers that share the same image file and finds "no photo" placeholders. Because SHA-256 is exact, it does not match a photo the store resized or recompressed:
 
 ![Exact vs perceptual hash](https://raw.githubusercontent.com/CaiqueDourado/catalogo-produtos-ecommerce-brasil/main/docs/img/exact-vs-perceptual-hash.png)
+
+The signature is now a library with perceptual hashes, **SimilarImageFinder** (Python and .NET): https://github.com/CaiqueDourado/SimilarImageFinder. On 442 real photos from this catalog, the exact signature found 20 of 348 copies; a 256-bit pHash found all of them and matched no different picture.
 
 ## Barcodes in the real world
 
@@ -57,6 +61,17 @@ duckdb.sql("""
     GROUP BY 1 ORDER BY offers DESC LIMIT 20
 """)
 ```
+
+## Libraries rewritten from this catalog
+
+- DedupKit: product matching for Brazilian Portuguese data (fingerprints, phonetic key, barcode rules, attribute check, audit trail). https://github.com/CaiqueDourado/DedupKit
+- SimilarImageFinder: perceptual image hashing (aHash, dHash, pHash) with the same results in Python and .NET. https://github.com/CaiqueDourado/SimilarImageFinder
+
+## Related datasets
+
+- Google product taxonomy in Portuguese, used to classify these products: https://www.kaggle.com/datasets/caiquedourado/taxonomia-google-produtos-ptbr
+- Brazilian municipalities and states: https://www.kaggle.com/datasets/caiquedourado/municipios-e-estados-do-brasil
+- Countries of the world in Portuguese: https://www.kaggle.com/datasets/caiquedourado/paises-do-mundo-ptbr
 
 ## Documentation
 

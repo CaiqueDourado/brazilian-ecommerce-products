@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- Kaggle description and notebook link the libraries rewritten from this catalog (DedupKit, SimilarImageFinder); data dictionary links DedupKit in `group_rule`.
 - Matching: the original SQL routine published read-only in `legacy/`, with its known issues; links to DedupKit, the library rewritten from it; data quality notes the missing attribute check.
 - Image signature: links to SimilarImageFinder, the library rewritten from it; methodology describes the original Magick.NET steps and the local × AWS mismatch; figure uses pHash.
 - Figure dependencies moved to `requirements-figures.txt`.
