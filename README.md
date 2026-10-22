@@ -295,7 +295,7 @@ The only deletion: customer-service contacts of brands that asked for removal (2
 - [DedupKit](https://github.com/CaiqueDourado/DedupKit): the matching of this catalog, rewritten as a Python and .NET library, with an attribute check and an audit trail.
 - [SimilarImageFinder](https://github.com/CaiqueDourado/SimilarImageFinder): the image signature of this catalog, rewritten as a Python and .NET library with perceptual hashes.
 - [taxonomia-google-produtos-ptbr](https://github.com/CaiqueDourado/taxonomia-google-produtos-ptbr): Google's product taxonomy in Portuguese, used to classify products from this data lake.
-- [municipios-e-estados-do-brasil](https://github.com/CaiqueDourado/municipios-e-estados-do-brasil) and [paises-do-mundo-ptbr](https://github.com/CaiqueDourado/paises-do-mundo-ptbr): other reference tables from the same project.
+- [municipios-e-estados-do-brasil](https://github.com/CaiqueDourado/municipios-e-estados-do-brasil), [paises-do-mundo-ptbr](https://github.com/CaiqueDourado/paises-do-mundo-ptbr) and [nomes-e-sobrenomes-brasil](https://github.com/CaiqueDourado/nomes-e-sobrenomes-brasil): other reference tables from the same data lake.
 
 ## License and use
 

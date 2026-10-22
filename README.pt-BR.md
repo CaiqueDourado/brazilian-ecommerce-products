@@ -295,7 +295,7 @@ A única exclusão: contatos de SAC das marcas que pediram remoção (224 linhas
 - [DedupKit](https://github.com/CaiqueDourado/DedupKit): o agrupamento deste catálogo, reescrito como biblioteca em Python e .NET, com conferência de atributos e trilha de auditoria.
 - [SimilarImageFinder](https://github.com/CaiqueDourado/SimilarImageFinder): a assinatura de imagem deste catálogo, reescrita como biblioteca em Python e .NET, com hashes perceptuais.
 - [taxonomia-google-produtos-ptbr](https://github.com/CaiqueDourado/taxonomia-google-produtos-ptbr): a taxonomia de produtos do Google em português, usada para classificar produtos deste data lake.
-- [municipios-e-estados-do-brasil](https://github.com/CaiqueDourado/municipios-e-estados-do-brasil) e [paises-do-mundo-ptbr](https://github.com/CaiqueDourado/paises-do-mundo-ptbr): outras tabelas de referência do mesmo projeto.
+- [municipios-e-estados-do-brasil](https://github.com/CaiqueDourado/municipios-e-estados-do-brasil), [paises-do-mundo-ptbr](https://github.com/CaiqueDourado/paises-do-mundo-ptbr) e [nomes-e-sobrenomes-brasil](https://github.com/CaiqueDourado/nomes-e-sobrenomes-brasil): outras tabelas de referência do mesmo data lake.
 
 ## Licença e uso
 
