@@ -69,6 +69,7 @@ duckdb.sql("""
 
 ## Related datasets
 
+- Reviews of these products (2.87 million, with sentiment, clauses and pros and cons): https://www.kaggle.com/datasets/caiquedourado/reviews-produtos-ptbr
 - Product matching pairs built from these offers (hard negatives, 780 pairs checked one by one): https://www.kaggle.com/datasets/caiquedourado/pares-matching-produtos-ptbr
 - Google product taxonomy in Portuguese, used to classify these products: https://www.kaggle.com/datasets/caiquedourado/taxonomia-google-produtos-ptbr
 - Brazilian municipalities and states: https://www.kaggle.com/datasets/caiquedourado/municipios-e-estados-do-brasil

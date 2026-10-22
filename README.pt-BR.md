@@ -291,6 +291,7 @@ A única exclusão: contatos de SAC das marcas que pediram remoção (224 linhas
 
 ## Relacionados
 
+- [reviews-produtos-ptbr](https://github.com/CaiqueDourado/reviews-produtos-ptbr): 2,87 milhões de reviews destes produtos, com sentimento, cláusulas e prós e contras ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/reviews-produtos-ptbr)).
 - [pares-matching-produtos-ptbr](https://github.com/CaiqueDourado/pares-matching-produtos-ptbr): pares rotulados destas ofertas para matching de produtos, com negativos difíceis e 780 pares conferidos um a um ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/pares-matching-produtos-ptbr)).
 - [DedupKit](https://github.com/CaiqueDourado/DedupKit): o agrupamento deste catálogo, reescrito como biblioteca em Python e .NET, com conferência de atributos e trilha de auditoria.
 - [SimilarImageFinder](https://github.com/CaiqueDourado/SimilarImageFinder): a assinatura de imagem deste catálogo, reescrita como biblioteca em Python e .NET, com hashes perceptuais.
