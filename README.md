@@ -169,6 +169,10 @@ The catalog powered a network of sites I built from 2019 to 2024: price comparis
 - [Atendimento ao Consumidor](https://web.archive.org/web/20201101002617/https://atendimentoaoconsumidor.com.br/assistencia-tecnica-garantia-energetico-monster-energy-47ml)
 - [Busca Produto](https://web.archive.org/web/2020/https://buscaproduto.com.br/)
 
+[![Tudo Sobre Produtos](https://raw.githubusercontent.com/CaiqueDourado/CaiqueDourado/main/assets/tudosobreprodutos_primeira_versao.png)](https://web.archive.org/web/20251021032358/https://tudosobreprodutos.com.br/tudo-sobre-bebedouro-cadence-pure-vita-elegant-0v)
+
+*Tudo Sobre Produtos, first version (2020), [archived on the Wayback Machine](https://web.archive.org/web/20251021032358/https://tudosobreprodutos.com.br/tudo-sobre-bebedouro-cadence-pure-vita-elegant-0v).*
+
 The full runbook of the original pipeline is in [docs/methodology.md](docs/methodology.md).
 
 ## Matching: the same item in different stores
@@ -292,6 +296,7 @@ The only deletion: customer-service contacts of brands that asked for removal (2
 ## Related
 
 - [reviews-produtos-ptbr](https://github.com/CaiqueDourado/reviews-produtos-ptbr): 2.87 million reviews of these products, with sentiment, clauses and pros and cons ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/reviews-produtos-ptbr)).
+- [lojas-virtuais-brasil](https://github.com/CaiqueDourado/lojas-virtuais-brasil): 63,974 Brazilian online stores with platform, SSL and Reclame Aqui reputation, including stores whose feeds fed this catalog ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/lojas-virtuais-brasil)).
 - [pares-matching-produtos-ptbr](https://github.com/CaiqueDourado/pares-matching-produtos-ptbr): labelled pairs of these offers for product matching, with hard negatives and 780 pairs checked one by one ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/pares-matching-produtos-ptbr)).
 - [DedupKit](https://github.com/CaiqueDourado/DedupKit): the matching of this catalog, rewritten as a Python and .NET library, with an attribute check and an audit trail.
 - [SimilarImageFinder](https://github.com/CaiqueDourado/SimilarImageFinder): the image signature of this catalog, rewritten as a Python and .NET library with perceptual hashes.

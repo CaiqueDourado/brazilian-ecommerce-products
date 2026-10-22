@@ -22,6 +22,12 @@ The signature is now a library with perceptual hashes, **SimilarImageFinder** (P
 
 ![Barcode quality](https://raw.githubusercontent.com/CaiqueDourado/catalogo-produtos-ecommerce-brasil/main/docs/img/barcode-quality.png)
 
+## The sites it powered
+
+From 2019 to 2024 the catalog fed the author's sites: price comparison, spec sheets, size guides, brand customer-service pages and "everything about" each product. Every product page was built from one group in this data: [Tudo Sobre Produtos](https://web.archive.org/web/20251021032358/https://tudosobreprodutos.com.br/tudo-sobre-bebedouro-cadence-pure-vita-elegant-0v), [Preço Atualizado](https://web.archive.org/web/2020/https://precoatualizado.com.br/), [Tamanhos](https://web.archive.org/web/20241107071917/https://tamanhos.com.br/tamanhos-medidas-dimensoes-voltimetro-digital-com-remote-0-a-0v-bateria-som-carro-azul-asx), [Atendimento ao Consumidor](https://web.archive.org/web/20201101002617/https://atendimentoaoconsumidor.com.br/assistencia-tecnica-garantia-energetico-monster-energy-47ml), [Busca Produto](https://web.archive.org/web/2020/https://buscaproduto.com.br/).
+
+![Tudo Sobre Produtos, first version (2020)](https://raw.githubusercontent.com/CaiqueDourado/CaiqueDourado/main/assets/tudosobreprodutos_primeira_versao.png)
+
 ## Files
 
 | File | Rows | Content |

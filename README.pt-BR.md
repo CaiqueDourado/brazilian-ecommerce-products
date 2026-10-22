@@ -169,6 +169,10 @@ O catálogo foi a base de uma rede de sites que eu construí entre 2019 e 2024: 
 - [Atendimento ao Consumidor](https://web.archive.org/web/20201101002617/https://atendimentoaoconsumidor.com.br/assistencia-tecnica-garantia-energetico-monster-energy-47ml)
 - [Busca Produto](https://web.archive.org/web/2020/https://buscaproduto.com.br/)
 
+[![Tudo Sobre Produtos](https://raw.githubusercontent.com/CaiqueDourado/CaiqueDourado/main/assets/tudosobreprodutos_primeira_versao.png)](https://web.archive.org/web/20251021032358/https://tudosobreprodutos.com.br/tudo-sobre-bebedouro-cadence-pure-vita-elegant-0v)
+
+*Tudo Sobre Produtos, primeira versão (2020), [arquivado no Wayback Machine](https://web.archive.org/web/20251021032358/https://tudosobreprodutos.com.br/tudo-sobre-bebedouro-cadence-pure-vita-elegant-0v).*
+
 O roteiro completo do pipeline original está em [docs/methodology.md](docs/methodology.md).
 
 ## O agrupamento: a mesma peça em lojas diferentes
@@ -292,6 +296,7 @@ A única exclusão: contatos de SAC das marcas que pediram remoção (224 linhas
 ## Relacionados
 
 - [reviews-produtos-ptbr](https://github.com/CaiqueDourado/reviews-produtos-ptbr): 2,87 milhões de reviews destes produtos, com sentimento, cláusulas e prós e contras ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/reviews-produtos-ptbr)).
+- [lojas-virtuais-brasil](https://github.com/CaiqueDourado/lojas-virtuais-brasil): 63.974 lojas virtuais brasileiras com plataforma, SSL e reputação no Reclame Aqui, incluindo as lojas cujos feeds alimentaram este catálogo ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/lojas-virtuais-brasil)).
 - [pares-matching-produtos-ptbr](https://github.com/CaiqueDourado/pares-matching-produtos-ptbr): pares rotulados destas ofertas para matching de produtos, com negativos difíceis e 780 pares conferidos um a um ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/pares-matching-produtos-ptbr)).
 - [DedupKit](https://github.com/CaiqueDourado/DedupKit): o agrupamento deste catálogo, reescrito como biblioteca em Python e .NET, com conferência de atributos e trilha de auditoria.
 - [SimilarImageFinder](https://github.com/CaiqueDourado/SimilarImageFinder): a assinatura de imagem deste catálogo, reescrita como biblioteca em Python e .NET, com hashes perceptuais.
