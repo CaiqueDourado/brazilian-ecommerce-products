@@ -295,6 +295,7 @@ A única exclusão: contatos de SAC das marcas que pediram remoção (224 linhas
 
 ## Relacionados
 
+- [google-keywords-dataset](https://github.com/CaiqueDourado/google-keywords-dataset): 38 milhões de buscas do Google com volume e CPC, muitas sobre estes produtos, e os padrões de busca usados para escolher os sites que este catálogo alimentou ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/google-keywords-dataset)).
 - [reviews-produtos-ptbr](https://github.com/CaiqueDourado/reviews-produtos-ptbr): 2,87 milhões de reviews destes produtos, com sentimento, cláusulas e prós e contras ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/reviews-produtos-ptbr)).
 - [lojas-virtuais-brasil](https://github.com/CaiqueDourado/lojas-virtuais-brasil): 63.974 lojas virtuais brasileiras com plataforma, SSL e reputação no Reclame Aqui, incluindo as lojas cujos feeds alimentaram este catálogo ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/lojas-virtuais-brasil)).
 - [pares-matching-produtos-ptbr](https://github.com/CaiqueDourado/pares-matching-produtos-ptbr): pares rotulados destas ofertas para matching de produtos, com negativos difíceis e 780 pares conferidos um a um ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/pares-matching-produtos-ptbr)).

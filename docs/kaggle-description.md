@@ -75,6 +75,7 @@ duckdb.sql("""
 
 ## Related datasets
 
+- Google searches with volume and CPC (38 million, Brazil first), many about these products: https://www.kaggle.com/datasets/caiquedourado/google-keywords-dataset
 - Reviews of these products (2.87 million, with sentiment, clauses and pros and cons): https://www.kaggle.com/datasets/caiquedourado/reviews-produtos-ptbr
 - Product matching pairs built from these offers (hard negatives, 780 pairs checked one by one): https://www.kaggle.com/datasets/caiquedourado/pares-matching-produtos-ptbr
 - FIPE vehicle prices and specifications, with vehicle × product matches pointing to this catalog's groups (`group_id`): https://www.kaggle.com/datasets/caiquedourado/fipe-ficha-tecnica-veiculos

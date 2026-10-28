@@ -295,6 +295,7 @@ The only deletion: customer-service contacts of brands that asked for removal (2
 
 ## Related
 
+- [google-keywords-dataset](https://github.com/CaiqueDourado/google-keywords-dataset): 38 million Google searches with volume and CPC, many of them about these products, and the search patterns used to choose the sites this catalog fed ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/google-keywords-dataset)).
 - [reviews-produtos-ptbr](https://github.com/CaiqueDourado/reviews-produtos-ptbr): 2.87 million reviews of these products, with sentiment, clauses and pros and cons ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/reviews-produtos-ptbr)).
 - [lojas-virtuais-brasil](https://github.com/CaiqueDourado/lojas-virtuais-brasil): 63,974 Brazilian online stores with platform, SSL and Reclame Aqui reputation, including stores whose feeds fed this catalog ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/lojas-virtuais-brasil)).
 - [pares-matching-produtos-ptbr](https://github.com/CaiqueDourado/pares-matching-produtos-ptbr): labelled pairs of these offers for product matching, with hard negatives and 780 pairs checked one by one ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/pares-matching-produtos-ptbr)).
