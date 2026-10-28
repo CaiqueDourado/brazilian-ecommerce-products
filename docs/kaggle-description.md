@@ -77,6 +77,7 @@ duckdb.sql("""
 
 - Reviews of these products (2.87 million, with sentiment, clauses and pros and cons): https://www.kaggle.com/datasets/caiquedourado/reviews-produtos-ptbr
 - Product matching pairs built from these offers (hard negatives, 780 pairs checked one by one): https://www.kaggle.com/datasets/caiquedourado/pares-matching-produtos-ptbr
+- FIPE vehicle prices and specifications, with vehicle × product matches pointing to this catalog's groups (`group_id`): https://www.kaggle.com/datasets/caiquedourado/fipe-ficha-tecnica-veiculos
 - Google product taxonomy in Portuguese, used to classify these products: https://www.kaggle.com/datasets/caiquedourado/taxonomia-google-produtos-ptbr
 - Brazilian municipalities and states: https://www.kaggle.com/datasets/caiquedourado/municipios-e-estados-do-brasil
 - Countries of the world in Portuguese: https://www.kaggle.com/datasets/caiquedourado/paises-do-mundo-ptbr
