@@ -8,7 +8,7 @@ authors:
 version: 1.0.0
 date-released: 2026-10-18
 license: CC-BY-4.0
-repository-code: "https://github.com/CaiqueDourado/catalogo-produtos-ecommerce-brasil"
+repository-code: "https://github.com/CaiqueDourado/brazilian-ecommerce-products"
 url: "https://www.kaggle.com/datasets/caiquedourado/catalogo-produtos-ecommerce-brasil"
 keywords:
   - brazil

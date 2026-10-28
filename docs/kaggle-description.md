@@ -1,26 +1,26 @@
 **114.6 million offers from 7,179 Brazilian online stores (2019–2024)**, with spec sheets, barcodes, categories and **18.3 million product groups**: the same item sold by different stores, linked by a two-hop matching engine over 11 text and code keys (EAN, exact name, name fingerprints, metaphone, n-grams, URL, short EAN + brand) plus an image signature.
 
-The catalog powered a network of Brazilian product sites (price comparison, spec sheets, size guides, brand customer service). Code, documentation and a small sample: https://github.com/CaiqueDourado/catalogo-produtos-ecommerce-brasil
+The catalog powered a network of Brazilian product sites (price comparison, spec sheets, size guides, brand customer service). Code, documentation and a small sample: https://github.com/CaiqueDourado/brazilian-ecommerce-products
 
-![One product, many stores](https://raw.githubusercontent.com/CaiqueDourado/catalogo-produtos-ecommerce-brasil/main/docs/img/one-product-many-stores.png)
+![One product, many stores](https://raw.githubusercontent.com/CaiqueDourado/brazilian-ecommerce-products/main/docs/img/one-product-many-stores.png)
 
 ## How offers were grouped
 
-![Matching flow](https://raw.githubusercontent.com/CaiqueDourado/catalogo-produtos-ecommerce-brasil/main/docs/img/matching.png)
+![Matching flow](https://raw.githubusercontent.com/CaiqueDourado/brazilian-ecommerce-products/main/docs/img/matching.png)
 
 The matching logic is now a tested library, **DedupKit** (Python and .NET): https://github.com/CaiqueDourado/DedupKit. It also refuses pairs whose names state different sizes, voltages or colours; on the GitHub sample, that check alone would split 795 of the 4,030 groups. The original SQL routine is published read-only in the repository's `legacy/` folder.
 
-![Image signature](https://raw.githubusercontent.com/CaiqueDourado/catalogo-produtos-ecommerce-brasil/main/docs/img/image-signature.png)
+![Image signature](https://raw.githubusercontent.com/CaiqueDourado/brazilian-ecommerce-products/main/docs/img/image-signature.png)
 
 The image signature links offers that share the same image file and finds "no photo" placeholders. Because SHA-256 is exact, it does not match a photo the store resized or recompressed:
 
-![Exact vs perceptual hash](https://raw.githubusercontent.com/CaiqueDourado/catalogo-produtos-ecommerce-brasil/main/docs/img/exact-vs-perceptual-hash.png)
+![Exact vs perceptual hash](https://raw.githubusercontent.com/CaiqueDourado/brazilian-ecommerce-products/main/docs/img/exact-vs-perceptual-hash.png)
 
 The signature is now a library with perceptual hashes, **SimilarImageFinder** (Python and .NET): https://github.com/CaiqueDourado/SimilarImageFinder. On 442 real photos from this catalog, the exact signature found 20 of 348 copies; a 256-bit pHash found all of them and matched no different picture.
 
 ## Barcodes in the real world
 
-![Barcode quality](https://raw.githubusercontent.com/CaiqueDourado/catalogo-produtos-ecommerce-brasil/main/docs/img/barcode-quality.png)
+![Barcode quality](https://raw.githubusercontent.com/CaiqueDourado/brazilian-ecommerce-products/main/docs/img/barcode-quality.png)
 
 ## The sites it powered
 
@@ -85,9 +85,9 @@ duckdb.sql("""
 
 ## Documentation
 
-- Data dictionary (EN / PT): https://github.com/CaiqueDourado/catalogo-produtos-ecommerce-brasil/blob/main/docs/data-dictionary.md
-- Methodology: https://github.com/CaiqueDourado/catalogo-produtos-ecommerce-brasil/blob/main/docs/methodology.md
-- Data quality: https://github.com/CaiqueDourado/catalogo-produtos-ecommerce-brasil/blob/main/docs/data-quality.md
+- Data dictionary (EN / PT): https://github.com/CaiqueDourado/brazilian-ecommerce-products/blob/main/docs/data-dictionary.md
+- Methodology: https://github.com/CaiqueDourado/brazilian-ecommerce-products/blob/main/docs/methodology.md
+- Data quality: https://github.com/CaiqueDourado/brazilian-ecommerce-products/blob/main/docs/data-quality.md
 
 ## License
 

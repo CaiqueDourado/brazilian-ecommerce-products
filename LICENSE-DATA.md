@@ -7,7 +7,7 @@ Copyright (c) 2026 Caique Dourado
 
 Suggested credit:
 
-> Catálogo de produtos do e-commerce brasileiro, by Caique Dourado, https://github.com/CaiqueDourado/catalogo-produtos-ecommerce-brasil, CC BY 4.0.
+> Catálogo de produtos do e-commerce brasileiro, by Caique Dourado, https://github.com/CaiqueDourado/brazilian-ecommerce-products, CC BY 4.0.
 
 Product names, brands, prices and spec sheets are factual information collected from Brazilian online stores and public affiliate feeds between 2019 and 2024. Product images are not distributed; only an image signature (hash) is included. Trademarks belong to their owners.
 
