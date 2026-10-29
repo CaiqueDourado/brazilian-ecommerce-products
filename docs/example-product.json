@@ -1,0 +1,484 @@
+{
+  "group": {
+    "id": 1341338,
+    "short_name": "Cd Player Automotivo Lenoxx Ar613 1 Din USB Mp3 Sd Aux Rca Frente Destacável Equalizador 4 X 15w Rms",
+    "offers": 15,
+    "stores": 8,
+    "brands": 1,
+    "group_flag": "ok",
+    "created_at": "2019-07-09 16:12:53"
+  },
+  "offers": [
+    {
+      "id": 5178626,
+      "store": {
+        "id": 1,
+        "name": "Submarino",
+        "url": "submarino.com.br",
+        "platform": "Awin/Zanox"
+      },
+      "name": "Cd Player Automotivo Lenoxx Ar613 1 Din USB Mp3 Sd Aux Rca Frente Destacável Equalizador 4 X 15w Rms",
+      "brand": "Lenoxx",
+      "price": 129.9,
+      "price_flag": "ok",
+      "availability": "disponivel",
+      "collected_at": "2019-04-21 06:46:15",
+      "group_rule_original": "productImage_hash_Imagio_ComputeHash",
+      "group_rule": "productImage_hash_Imagio_ComputeHash",
+      "image_is_generic": false,
+      "eans": [],
+      "categories": [
+        {
+          "category": "Automotivos",
+          "category_normalized": "Automotivos"
+        },
+        {
+          "category": "Som Automotivo",
+          "category_normalized": "Som"
+        }
+      ],
+      "ficha": {
+        "Código": "28186648",
+        "Código de Barras": null,
+        "Conexões": "Usb, P2",
+        "Formatos de Tela": "LCD",
+        "Modos de Reprodução": "CD, CD-RW e MP3",
+        "Conteúdo da Embalagem": "01 MP3 Player, 01 Capa Protetora para o Painel Frontal, Chicotes para Instalação, Manual do Usuário",
+        "Marca": "Lenoxx"
+      }
+    },
+    {
+      "id": 5178627,
+      "store": {
+        "id": 2,
+        "name": "Americanas",
+        "url": "americanas.com.br",
+        "platform": "Awin/Zanox"
+      },
+      "name": "Cd Player Automotivo Lenoxx Ar613 1 Din USB Mp3 Sd Aux Rca Frente Destacável Equalizador 4 X 15w Rms",
+      "brand": "Lenoxx",
+      "price": 129.9,
+      "price_flag": "ok",
+      "availability": "disponivel",
+      "collected_at": "2019-04-21 06:46:15",
+      "group_rule_original": "productUrl",
+      "group_rule": "productImage_hash_Imagio_ComputeHash",
+      "image_is_generic": false,
+      "eans": [],
+      "categories": [
+        {
+          "category": "Som Automotivo",
+          "category_normalized": "Som"
+        },
+        {
+          "category": "Automotivos",
+          "category_normalized": "Automotivos"
+        }
+      ],
+      "ficha": {
+        "Código": "28186648",
+        "Código de Barras": null,
+        "Conexões": "Usb, P2",
+        "Formatos de Tela": "LCD",
+        "Modos de Reprodução": "CD, CD-RW e MP3",
+        "Conteúdo da Embalagem": "01 MP3 Player, 01 Capa Protetora para o Painel Frontal, Chicotes para Instalação, Manual do Usuário",
+        "Marca": "Lenoxx"
+      }
+    },
+    {
+      "id": 5178628,
+      "store": {
+        "id": 3,
+        "name": "Shoptime",
+        "url": "shoptime.com.br",
+        "platform": "Awin/Zanox"
+      },
+      "name": "Cd Player Automotivo Lenoxx Ar613 1 Din USB Mp3 Sd Aux Rca Frente Destacável Equalizador 4 X 15w Rms",
+      "brand": "Lenoxx",
+      "price": 129.9,
+      "price_flag": "ok",
+      "availability": "disponivel",
+      "collected_at": "2019-04-21 06:46:15",
+      "group_rule_original": "productImage_hash_Imagio_ComputeHash",
+      "group_rule": "productImage_hash_Imagio_ComputeHash",
+      "image_is_generic": false,
+      "eans": [],
+      "categories": [
+        {
+          "category": "Automotivos",
+          "category_normalized": "Automotivos"
+        },
+        {
+          "category": "Som Automotivo",
+          "category_normalized": "Som"
+        }
+      ],
+      "ficha": {
+        "Código": "28186648",
+        "Código de Barras": null,
+        "Conexões": "Usb, P2",
+        "Formatos de Tela": "LCD",
+        "Modos de Reprodução": "CD, CD-RW e MP3",
+        "Conteúdo da Embalagem": "01 MP3 Player, 01 Capa Protetora para o Painel Frontal, Chicotes para Instalação, Manual do Usuário",
+        "Marca": "Lenoxx"
+      }
+    },
+    {
+      "id": 18080177,
+      "store": {
+        "id": 11382,
+        "name": "Magazine Luiza",
+        "url": "magazineluiza.com.br",
+        "platform": null
+      },
+      "name": "CD Player Automotivo Lenoxx AR613 1 Din USB MP3 SD AUX RCA Frente Destacável Equalizador 4x15 WRMS",
+      "brand": "Lenoxx",
+      "price": null,
+      "price_flag": "zero",
+      "availability": null,
+      "collected_at": "2020-01-01 00:25:44",
+      "group_rule_original": "productName",
+      "group_rule": "productImage_hash_Imagio_ComputeHash",
+      "image_is_generic": false,
+      "eans": [],
+      "categories": [
+        {
+          "category": "Som Automotivo",
+          "category_normalized": "SOM"
+        }
+      ],
+      "ficha": {}
+    },
+    {
+      "id": 24956686,
+      "store": {
+        "id": 11382,
+        "name": "Magazine Luiza",
+        "url": "magazineluiza.com.br",
+        "platform": null
+      },
+      "name": "CD Player Automotivo Lenoxx AR613 1 Din USB MP3 SD AUX RCA Frente Destacável Equalizador 4 X 15W RMS",
+      "brand": "Lenoxx",
+      "price": null,
+      "price_flag": "zero",
+      "availability": null,
+      "collected_at": "2020-01-01 05:33:30",
+      "group_rule_original": "productName",
+      "group_rule": "productImage_hash_Imagio_ComputeHash",
+      "image_is_generic": false,
+      "eans": [],
+      "categories": [
+        {
+          "category": "Som Automotivo",
+          "category_normalized": "SOM"
+        }
+      ],
+      "ficha": {}
+    },
+    {
+      "id": 27655107,
+      "store": {
+        "id": 11291,
+        "name": "Extra",
+        "url": "extra.com.br",
+        "platform": "Awin/Zanox"
+      },
+      "name": "CD Player Automotivo Lenoxx AR613 1 Din USB MP3 SD AUX RCA Frente Destacável Equalizador 4x15 WRMS",
+      "brand": "Lenoxx",
+      "price": 119.9,
+      "price_flag": "ok",
+      "availability": null,
+      "collected_at": "2020-01-15 11:02:01",
+      "group_rule_original": "productName_fingerprint",
+      "group_rule": "productImage_hash_Imagio_ComputeHash",
+      "image_is_generic": false,
+      "eans": [
+        {
+          "code": "9900001072604",
+          "code_type": "gtin_valido"
+        }
+      ],
+      "categories": [
+        {
+          "category": "CD Players",
+          "category_normalized": "CD Playerss"
+        }
+      ],
+      "ficha": {}
+    },
+    {
+      "id": 27914211,
+      "store": {
+        "id": 11291,
+        "name": "Extra",
+        "url": "extra.com.br",
+        "platform": "Awin/Zanox"
+      },
+      "name": "CD Player Automotivo Lenoxx AR613 1 Din USB MP3 SD AUX RCA Frente Destacável Equalizador 4x15 WRMS",
+      "brand": "Lenoxx",
+      "price": 139.9,
+      "price_flag": "ok",
+      "availability": null,
+      "collected_at": "2020-01-15 11:15:35",
+      "group_rule_original": "productName",
+      "group_rule": "productName_ngram",
+      "image_is_generic": false,
+      "eans": [
+        {
+          "code": "9900001250682",
+          "code_type": "gtin_valido"
+        }
+      ],
+      "categories": [
+        {
+          "category": "CD Players",
+          "category_normalized": "CD Playerss"
+        }
+      ],
+      "ficha": {}
+    },
+    {
+      "id": 32439841,
+      "store": {
+        "id": 11292,
+        "name": "Casas Bahia",
+        "url": "casasbahia.com.br",
+        "platform": "Awin/Zanox"
+      },
+      "name": "CD Player Automotivo Lenoxx AR613 1 Din USB MP3 SD AUX RCA Frente Destacável Equalizador 4x15 WRMS",
+      "brand": "Lenoxx",
+      "price": 139.9,
+      "price_flag": "ok",
+      "availability": null,
+      "collected_at": "2020-01-17 22:49:15",
+      "group_rule_original": "productName",
+      "group_rule": "productName_fingerprint",
+      "image_is_generic": false,
+      "eans": [
+        {
+          "code": "9900001250682",
+          "code_type": "gtin_valido"
+        }
+      ],
+      "categories": [
+        {
+          "category": "CD Players",
+          "category_normalized": "CD Playerss"
+        }
+      ],
+      "ficha": {}
+    },
+    {
+      "id": 39871144,
+      "store": {
+        "id": 11295,
+        "name": "Pontofrio",
+        "url": "pontofrio.com.br",
+        "platform": "Awin/Zanox"
+      },
+      "name": "CD Player Automotivo Lenoxx AR613 1 Din USB MP3 SD AUX RCA Frente Destacável Equalizador 4x15 WRMS",
+      "brand": "Lenoxx",
+      "price": 113.91,
+      "price_flag": "ok",
+      "availability": null,
+      "collected_at": "2020-01-20 11:19:13",
+      "group_rule_original": "productName",
+      "group_rule": "productName_ngram",
+      "image_is_generic": false,
+      "eans": [
+        {
+          "code": "9900001072604",
+          "code_type": "gtin_valido"
+        }
+      ],
+      "categories": [
+        {
+          "category": "CD Players",
+          "category_normalized": "CD Playerss"
+        }
+      ],
+      "ficha": {}
+    },
+    {
+      "id": 40142933,
+      "store": {
+        "id": 11295,
+        "name": "Pontofrio",
+        "url": "pontofrio.com.br",
+        "platform": "Awin/Zanox"
+      },
+      "name": "CD Player Automotivo Lenoxx AR613 1 Din USB MP3 SD AUX RCA Frente Destacável Equalizador 4x15 WRMS",
+      "brand": "Lenoxx",
+      "price": 123.41,
+      "price_flag": "ok",
+      "availability": null,
+      "collected_at": "2020-01-20 11:47:39",
+      "group_rule_original": "productName_ngram",
+      "group_rule": "productName_fingerprint",
+      "image_is_generic": false,
+      "eans": [
+        {
+          "code": "9900001250682",
+          "code_type": "gtin_valido"
+        }
+      ],
+      "categories": [
+        {
+          "category": "CD Players",
+          "category_normalized": "CD Playerss"
+        }
+      ],
+      "ficha": {}
+    },
+    {
+      "id": 78035928,
+      "store": {
+        "id": 11291,
+        "name": "Extra",
+        "url": "extra.com.br",
+        "platform": "Awin/Zanox"
+      },
+      "name": "CD Player Automotivo Lenoxx AR613 1 Din USB MP3 SD AUX RCA Frente Destacável Equalizador 4x15 WRMS",
+      "brand": "Lenoxx",
+      "price": 119.9,
+      "price_flag": "ok",
+      "availability": null,
+      "collected_at": "2020-10-23 14:18:26",
+      "group_rule_original": "productName_tokenizada_fingerprint",
+      "group_rule": "productName_metaphone",
+      "image_is_generic": false,
+      "eans": [
+        {
+          "code": "9900001072604",
+          "code_type": "gtin_valido"
+        }
+      ],
+      "categories": [
+        {
+          "category": "CD Players",
+          "category_normalized": "Cd Players"
+        }
+      ],
+      "ficha": {}
+    },
+    {
+      "id": 78329628,
+      "store": {
+        "id": 11291,
+        "name": "Extra",
+        "url": "extra.com.br",
+        "platform": "Awin/Zanox"
+      },
+      "name": "CD Player Automotivo Lenoxx AR613 1 Din USB MP3 SD AUX RCA Frente Destacável Equalizador 4x15 WRMS",
+      "brand": "Lenoxx",
+      "price": 139.9,
+      "price_flag": "ok",
+      "availability": null,
+      "collected_at": "2020-10-23 14:33:59",
+      "group_rule_original": "productName_tokenizada_fingerprint",
+      "group_rule": "productName_fingerprint",
+      "image_is_generic": false,
+      "eans": [
+        {
+          "code": "9900001250682",
+          "code_type": "gtin_valido"
+        }
+      ],
+      "categories": [
+        {
+          "category": "CD Players",
+          "category_normalized": "Cd Players"
+        }
+      ],
+      "ficha": {}
+    },
+    {
+      "id": 83625246,
+      "store": {
+        "id": 11292,
+        "name": "Casas Bahia",
+        "url": "casasbahia.com.br",
+        "platform": "Awin/Zanox"
+      },
+      "name": "CD Player Automotivo Lenoxx AR613 1 Din USB MP3 SD AUX RCA Frente Destacável Equalizador 4x15 WRMS",
+      "brand": "Lenoxx",
+      "price": 119.9,
+      "price_flag": "ok",
+      "availability": null,
+      "collected_at": "2020-10-23 23:27:53",
+      "group_rule_original": "productName_tokenizada_fingerprint",
+      "group_rule": "productName_metaphone",
+      "image_is_generic": false,
+      "eans": [
+        {
+          "code": "9900001072604",
+          "code_type": "gtin_valido"
+        }
+      ],
+      "categories": [
+        {
+          "category": "CD Players",
+          "category_normalized": "Cd Players"
+        }
+      ],
+      "ficha": {}
+    },
+    {
+      "id": 83902698,
+      "store": {
+        "id": 11292,
+        "name": "Casas Bahia",
+        "url": "casasbahia.com.br",
+        "platform": "Awin/Zanox"
+      },
+      "name": "CD Player Automotivo Lenoxx AR613 1 Din USB MP3 SD AUX RCA Frente Destacável Equalizador 4x15 WRMS",
+      "brand": "Lenoxx",
+      "price": 139.9,
+      "price_flag": "ok",
+      "availability": null,
+      "collected_at": "2020-10-23 23:51:07",
+      "group_rule_original": "productName_fingerprint",
+      "group_rule": "productUrl",
+      "image_is_generic": false,
+      "eans": [
+        {
+          "code": "9900001250682",
+          "code_type": "gtin_valido"
+        }
+      ],
+      "categories": [
+        {
+          "category": "CD Players",
+          "category_normalized": "Cd Players"
+        }
+      ],
+      "ficha": {}
+    },
+    {
+      "id": 88179202,
+      "store": {
+        "id": 11293,
+        "name": "Amazon",
+        "url": "amazon.com.br",
+        "platform": "Awin/Zanox"
+      },
+      "name": "CD Player Automotivo Lenoxx AR613 1 Din USB MP3 SD AUX RCA Frente Destacável Equalizador 4 X 15W RMS",
+      "brand": null,
+      "price": 134.99,
+      "price_flag": "ok",
+      "availability": null,
+      "collected_at": "2020-10-26 01:35:42",
+      "group_rule_original": "productName",
+      "group_rule": "productImage_hash_Imagio_ComputeHash",
+      "image_is_generic": false,
+      "eans": [],
+      "categories": [
+        {
+          "category": "CEs",
+          "category_normalized": "CEs"
+        }
+      ],
+      "ficha": {}
+    }
+  ]
+}

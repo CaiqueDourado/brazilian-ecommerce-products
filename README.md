@@ -67,6 +67,12 @@ erDiagram
 
 Largest stores: Magazine Luiza (19.7M offers), Americanas (14.3M), Shoptime (11.2M), Submarino (10.7M), Extra (10.3M), Casas Bahia (9.9M), Amazon (7.3M), Dafiti (5.9M), Pontofrio (4.4M) and Kanui (1.8M). The top 10 hold 83% of the offers; the other 7,169 stores are the long tail of Brazilian e-commerce, found through their platforms and feeds.
 
+## How a product is structured
+
+![One product group in JSON](docs/img/product-json.png)
+
+One group from `sample/` as nested JSON: group 1341338, a car CD player sold as 15 offers by 8 stores, at R$ 113.91 to R$ 139.90 (13 offers with a price). Each offer carries its store and platform, the key that first matched it (`group_rule_original`), its barcodes, categories and spec sheet (`ficha`). Full record: [docs/example-product.json](docs/example-product.json), built by [scripts/make_json.py](scripts/make_json.py).
+
 ## A look at the data
 
 Real rows from `sample/`.

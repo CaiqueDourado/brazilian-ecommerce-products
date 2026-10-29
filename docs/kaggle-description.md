@@ -43,6 +43,12 @@ From 2019 to 2024 the catalog fed the author's sites: price comparison, spec she
 
 Column names are in English; flag values are in Portuguese and explained in the data dictionary.
 
+## How a product is structured
+
+![One product group in JSON](https://raw.githubusercontent.com/CaiqueDourado/brazilian-ecommerce-products/main/docs/img/product-json.png)
+
+One group as nested JSON: group 1341338, a car CD player sold as 15 offers by 8 stores, at R$ 113.91 to R$ 139.90 (13 offers with a price). Each offer carries its store and platform, the key that first matched it (`group_rule_original`), its barcodes, categories and spec sheet (`ficha`). Full record: [docs/example-product.json](https://github.com/CaiqueDourado/brazilian-ecommerce-products/blob/main/docs/example-product.json), built by [scripts/make_json.py](https://github.com/CaiqueDourado/brazilian-ecommerce-products/blob/main/scripts/make_json.py) from the GitHub sample.
+
 ## Rule: flag, don't delete
 
 Every corrected value keeps the original in a `*_raw` column and the reason in a `*_flag` column: zero and "inactive" prices, 13 availability spellings, mojibake in names, barcodes broken by Excel, groups chained by regrouping. For precision, use `group_rule_original` and filter out `group_flag <> 'ok'`.

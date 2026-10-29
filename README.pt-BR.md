@@ -67,6 +67,12 @@ erDiagram
 
 As maiores lojas: Magazine Luiza (19,7 mi ofertas), Americanas (14,3 mi), Shoptime (11,2 mi), Submarino (10,7 mi), Extra (10,3 mi), Casas Bahia (9,9 mi), Amazon (7,3 mi), Dafiti (5,9 mi), Pontofrio (4,4 mi) e Kanui (1,8 mi). As 10 maiores somam 83% das ofertas; as outras 7.169 lojas são a cauda longa do e-commerce brasileiro, encontradas pela plataforma e pelos feeds de cada uma.
 
+## Como um produto é estruturado
+
+![Um grupo de produto em JSON](docs/img/product-json.png)
+
+Um grupo de `sample/` em JSON aninhado: o grupo 1341338, um CD player automotivo vendido em 15 ofertas por 8 lojas, de R$ 113,91 a R$ 139,90 (13 ofertas com preço). Cada oferta traz a loja e a plataforma, a chave que a agrupou primeiro (`group_rule_original`), os códigos de barras, as categorias e a ficha técnica (`ficha`). Registro completo: [docs/example-product.json](docs/example-product.json), gerado por [scripts/make_json.py](scripts/make_json.py).
+
 ## Os dados de perto
 
 Linhas reais de `sample/`.
