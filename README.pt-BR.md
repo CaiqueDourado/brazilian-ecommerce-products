@@ -301,8 +301,8 @@ A única exclusão: contatos de SAC das marcas que pediram remoção (224 linhas
 
 ## Relacionados
 
-- Artigo: [Metaphone, Soundex, n-gramas e MinHash em nomes de produtos brasileiros](https://github.com/CaiqueDourado/articles/blob/main/text-similarity/README.pt-BR.md): como as ofertas deste catálogo foram agrupadas pelo nome.
-- Artigo: [Achando a mesma foto em 7.179 lojas](https://github.com/CaiqueDourado/articles/blob/main/image-similarity/README.pt-BR.md): como as ofertas deste catálogo foram agrupadas pela foto.
+- Artigo: [Metaphone, Soundex, n-gramas e MinHash em nomes de produtos brasileiros](https://github.com/CaiqueDourado/articles/blob/main/text-similarity/README.pt-BR.md) ([em inglês no Medium](https://medium.com/@caiquedourado/metaphone-soundex-n-grams-and-minhash-on-brazilian-product-names-d6f67745ee4d)): como as ofertas deste catálogo foram agrupadas pelo nome.
+- Artigo: [Achando a mesma foto em 7.179 lojas](https://github.com/CaiqueDourado/articles/blob/main/image-similarity/README.pt-BR.md) ([em inglês no Medium](https://medium.com/@caiquedourado/finding-the-same-photo-across-7-179-stores-a4e94bc93777)): como as ofertas deste catálogo foram agrupadas pela foto.
 - Artigo: [Treinando o Stanford NER em português com um dicionário](https://github.com/CaiqueDourado/articles/blob/main/stanford-ner/README.pt-BR.md): achando marcas nos nomes de produtos deste catálogo com um CRF.
 - [google-keywords-dataset](https://github.com/CaiqueDourado/google-keywords-dataset): 38 milhões de buscas do Google com volume e CPC, muitas sobre estes produtos, e os padrões de busca usados para escolher os sites que este catálogo alimentou ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/google-keywords-dataset)).
 - [portuguese-product-reviews](https://github.com/CaiqueDourado/portuguese-product-reviews): 2,87 milhões de reviews destes produtos, com sentimento, cláusulas e prós e contras ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/reviews-produtos-ptbr)).
