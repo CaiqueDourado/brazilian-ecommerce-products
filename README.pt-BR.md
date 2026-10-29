@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/img/cover.png" alt="Catálogo de produtos do e-commerce brasileiro: as 10 maiores lojas em número de ofertas" width="900">
+  <img src="docs/img/cover.pt-BR.png" alt="Catálogo de produtos do e-commerce brasileiro: as 10 maiores lojas em número de ofertas" width="900">
 </p>
 
 # Catálogo de produtos do e-commerce brasileiro

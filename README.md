@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/img/cover.png" alt="Brazilian e-commerce product catalog: the 10 largest stores by number of offers" width="900">
+  <img src="docs/img/cover.png" alt="Brazilian e-commerce products: the 10 largest stores by number of offers" width="900">
 </p>
 
 # Brazilian e-commerce product catalog
