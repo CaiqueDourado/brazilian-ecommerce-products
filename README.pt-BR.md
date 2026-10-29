@@ -301,6 +301,9 @@ A única exclusão: contatos de SAC das marcas que pediram remoção (224 linhas
 
 ## Relacionados
 
+- Artigo: [Metaphone, Soundex, n-gramas e MinHash em nomes de produtos brasileiros](https://github.com/CaiqueDourado/articles/blob/main/text-similarity/README.pt-BR.md): como as ofertas deste catálogo foram agrupadas pelo nome.
+- Artigo: [Achando a mesma foto em 7.179 lojas](https://github.com/CaiqueDourado/articles/blob/main/image-similarity/README.pt-BR.md): como as ofertas deste catálogo foram agrupadas pela foto.
+- Artigo: [Treinando o Stanford NER em português com um dicionário](https://github.com/CaiqueDourado/articles/blob/main/stanford-ner/README.pt-BR.md): achando marcas nos nomes de produtos deste catálogo com um CRF.
 - [google-keywords-dataset](https://github.com/CaiqueDourado/google-keywords-dataset): 38 milhões de buscas do Google com volume e CPC, muitas sobre estes produtos, e os padrões de busca usados para escolher os sites que este catálogo alimentou ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/google-keywords-dataset)).
 - [portuguese-product-reviews](https://github.com/CaiqueDourado/portuguese-product-reviews): 2,87 milhões de reviews destes produtos, com sentimento, cláusulas e prós e contras ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/reviews-produtos-ptbr)).
 - [lojas-virtuais-brasil](https://github.com/CaiqueDourado/lojas-virtuais-brasil): 63.974 lojas virtuais brasileiras com plataforma, SSL e reputação no Reclame Aqui, incluindo as lojas cujos feeds alimentaram este catálogo ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/lojas-virtuais-brasil)).

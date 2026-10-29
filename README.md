@@ -301,6 +301,9 @@ The only deletion: customer-service contacts of brands that asked for removal (2
 
 ## Related
 
+- Article: [Metaphone, Soundex, n-grams and MinHash on Brazilian product names](https://github.com/CaiqueDourado/articles/blob/main/text-similarity/README.md): how offers of this catalog were grouped by name.
+- Article: [Finding the same photo across 7,179 stores](https://github.com/CaiqueDourado/articles/blob/main/image-similarity/README.md): how offers of this catalog were grouped by photo.
+- Article: [Training Stanford NER on Portuguese with a dictionary](https://github.com/CaiqueDourado/articles/blob/main/stanford-ner/README.md): finding brands in this catalog's product names with a CRF.
 - [google-keywords-dataset](https://github.com/CaiqueDourado/google-keywords-dataset): 38 million Google searches with volume and CPC, many of them about these products, and the search patterns used to choose the sites this catalog fed ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/google-keywords-dataset)).
 - [portuguese-product-reviews](https://github.com/CaiqueDourado/portuguese-product-reviews): 2.87 million reviews of these products, with sentiment, clauses and pros and cons ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/reviews-produtos-ptbr)).
 - [lojas-virtuais-brasil](https://github.com/CaiqueDourado/lojas-virtuais-brasil): 63,974 Brazilian online stores with platform, SSL and Reclame Aqui reputation, including stores whose feeds fed this catalog ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/lojas-virtuais-brasil)).
